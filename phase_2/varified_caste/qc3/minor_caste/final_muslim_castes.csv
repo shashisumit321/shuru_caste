@@ -1,0 +1,72 @@
+Caste,Subcastes,source
+BANJARA (Muslim),"['RANGREZ', 'MEKRANI', 'KHAN', 'MAKRANI']",mf_shadi_jeevansathi
+BELDAR (Muslim),['MUSLIM BELDAR'],mf_jeevansathi
+BHANGI (Muslim),"['MALKANA', 'MEHTAR', 'HALALKHOR']",mf
+BHILALA (Muslim),['MUKATIB'],mf
+CHIKWA (Muslim),"['QASSAI', 'CHIKWA QASSAB', 'QURAISHI']",gov
+DEKKANI MUSLIM (Muslim),['DEKKANI MUSLIM'],gov
+DHIMAR (Muslim),"['BHISTI', 'BHATIYAR', 'DOGARWAR', 'SHEIKH-ABBASI']",mf
+FAKIR (Muslim),"['FAKIR BHANDARWALA', 'ALVI', 'MIYAN', 'KHAN', 'SAIN', 'FAKIR', 'FAKIR INCLUDING ALVI-FAKIR', 'MANIHAR', 'FAQIR', 'FAKEER', 'SHEIKH']",mf
+GAWLI (Muslim),['MUSLIM GAWLI'],gov
+GHUMAIR (Muslim),['KHAN'],mf
+GORI (Muslim),['KHAN'],mf
+GUJJAR (Muslim),"['GUJAR', 'KHAN', 'GUZAR', 'GUJJAR(MUSLIM)']",mf_jeevansathi
+JULAHA (Muslim),"['JULAYA', 'JULAHA', 'JULAHE', 'JULAHA-MOMIN', 'MOMIN-ANSARI', 'JULAHA-ANSARI', 'MOMIN', 'ALI']",mf_jeevansathi
+KASAI (Muslim),"['QASSAB-QURESHI', 'ARE KASAI', 'KASAB', 'QUASAB', 'KASSAB QUSSAB', 'KASAI-QURAISHI', 'KASABI', 'QURAISHI', 'QASSAB']",gov
+KHATI (Muslim),"['KASAB', 'QURESHI']",mf
+KHOTTA MUSLIM (Muslim),['KHOTTA MUSLIM'],gov
+LOHAR (Muslim),"['LUHAR SAIFI', 'SHER', 'SAIFI']",mf_jeevansathi
+MAJHI (Muslim),['PATNI MUSLIM'],mf
+MAL MUSLIM (Muslim),['MAL MUSLIM'],gov
+MALIK (Muslim),"['VAJIR', 'SAYYAD', 'MALIK']",mf
+MANG (Muslim),['MADARI'],mf
+MANSUR (Muslim),"['MANSUR', 'KHAN']",mf
+MOMIN (Muslim),"['JULAHA', 'ANSAR', 'MOMIN']",mf
+MUCHI (Muslim),['CHAMAR MUSLIM'],gov
+MUGHAL (Muslim),"['MUGHAL', 'BEG']",mf
+MUSKHAN (Muslim),['MUSKHAN'],gov
+BARUJIBI (Muslim),['MUSLIM BARUJIBI'],gov
+BHANGI (Muslim),"['MUSLIM RELIGION BHANGI', 'LALBEG', 'KHAKROB', 'MEHTAR', 'HALALKHOR']",gov
+BHATIYARA (Muslim),['MUSLIM BHATIYARA'],gov
+BISWAS (Muslim),['MUSLIM BISWAS'],gov
+CHUTOR MISTRI (Muslim),['MUSLIM CHUTOR MISTRI'],gov
+DAFADAR (Muslim),['MUSLIM DAFADAR'],gov
+DARJI (Muslim),"['OSTAGAR', 'MUSLIM DARJI', 'SIDDIQUI', 'IDRISHI']",gov
+DHOBI (Muslim),"['SULEMANI', 'MIYAN', 'ALI', 'KASSAR', 'SHEIKH', 'KHAN', 'SIDDIQUI', 'IDRISHI', 'BAKSH']",gov
+GUJAR (Muslim),['HASHMI'],gov
+HALDAR (Muslim),['MUSLIM HALDAR'],gov
+HALWAI (Muslim),['ALI'],gov
+JAMADAR (Muslim),['MUSLIM JAMADAR'],gov
+KALANDAR (Muslim),['MUSLIM KALANDAR'],gov
+KAYASTHA (Muslim),['MUSLIM KAYASTHA'],gov
+LASKAR (Muslim),['MUSLIM LASKAR'],gov
+LOHAR (Muslim),['ALI'],gov
+MADARI (Muslim),"['JADOOGAR', 'SAAPWALE', 'GAARUDI']",gov
+MALI (Muslim),['MUSLIM MALI'],gov
+MANYAR (Muslim),"['MUSLIM MANYAR', 'MANIYAAR', 'MANERI']",gov
+MOLLA (Muslim),['MUSLIM MOLLA'],gov
+NAI (Muslim),"['SULEMANI', 'BALWAR', 'TURKATA']",gov
+NEHARIYA (Muslim),['MUSLIM NEHARIYA'],gov
+PENCHI (Muslim),['MUSLIM PENCHI'],gov
+PIYADA (Muslim),['MUSLIM PIYADA'],gov
+RAJMISTRI (Muslim),['MUSLIM RAJMISTRI'],gov
+RAJPUT (Muslim),"['SULEMANI', 'QURESHI', 'GADDI', 'KHAN', 'IRAQI', 'FAKIR', 'SIDDIQUI', 'PATHAN', 'SHEIKH', 'SAIYED']",gov
+SALMANI (Muslim),['SULEMANI'],gov
+SANPUI (Muslim),"['MUSLIM SANPUI', 'SAPUI']",gov
+SARDAR (Muslim),['MUSLIM SARDAR'],gov
+TELI (Muslim),"['KHAN', 'SIDDIQUI', 'MALIK', 'ALI']",gov
+NAIR (Muslim),['SUNNI'],mf_shadi_jeevansathi
+PAHADIA MUSLIM (Muslim),['PAHADIA MUSLIM'],gov
+PATHAN (Muslim),"['MIRZA', 'KHAN', 'PATHAN']",mf
+PINJARA (Muslim),"['DHUNIA', 'DUDEKULA MANSURI', 'MANSURI-PINJARA', 'SAI', 'PINJARA PINJARI', 'BEHNA', 'MANSOORI', 'NADAF', 'PINJARA', 'PINJARI', 'FAKIR', 'GANCHI-PINJARA']",mf
+QURESHI (Muslim),['QURESHI'],gov
+RAJPUT (Muslim),['QURESHI'],mf_shadi_jeevansathi
+RANGHAR (Muslim),"['KHAN', 'RANGHAR']",mf
+SAINI (Muslim),['PATHAN'],mf_shadi_jeevansathi
+SAIYED (Muslim),"['HUSSAIN', 'RIZVI', 'KAZI', 'SAIYED']",mf
+SASUI (Muslim),['QURESHI'],mf
+SHEIKH (Muslim),"['SIDDIQUI', 'DUDEKULA', 'BOHRA', 'FAROOQ', 'SHEIKH', 'KHAN', 'ABBASHI', 'SAYED', 'BEG', 'SHEIKHPATHAN']",mf
+SHEIKH SARVARI (Muslim),"['PEERAHI', 'SHEIKH SARVARI']",gov
+SIHAMUSLIM (Muslim),['SIHAMUSLIM'],mf
+TELI (Muslim),"['IDRISHI', 'TELI MALIK', 'MALIK', 'JULAHA', 'PINDARI']",mf_shadi_jeevansathi
+VADDI (Muslim),"['DUDEKULA', 'PATHAN', 'SHAIK', 'SAYED']",mf

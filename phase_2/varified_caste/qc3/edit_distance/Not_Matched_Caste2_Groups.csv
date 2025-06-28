@@ -1,0 +1,57 @@
+Caste2,Caste1_List,Is_Match
+anavil,['anal' 'navi'],False
+arcot,['barot' 'raot'],False
+bangla,"['bagla' 'bagula' 'bagwa' 'baiga' 'banda' 'banga' 'bangali' 'bangar'
+ 'bangi' 'bania' 'baniya' 'banna' 'bannsa' 'barela' 'bindla' 'dangua'
+ 'gandla' 'jangala' 'jangda' 'langha' 'mangala' 'mangela' 'mangia'
+ 'rangwa' 'singla' 'swangla' 'tanla']",False
+cms,['cpm' 'das' 'me'],False
+coorgi,['toori'],False
+csi,"['ali' 'boi' 'chik' 'cpm' 'esai' 'hasi' 'hesi' 'isai' 'nai' 'pasi' 'rai'
+ 'sai' 'soi' 'sri']",False
+daraji,"['balaji' 'baragi' 'barai' 'bariji' 'bavaji' 'bawaji' 'braji' 'dafali'
+ 'damai' 'damami' 'daraga' 'darai' 'darain' 'daratia' 'darj' 'darje'
+ 'darji' 'daroi' 'darpi' 'daryai' 'darzi' 'dasai' 'dasari' 'davari'
+ 'garadi' 'garai' 'harali' 'karani' 'marati']",False
+ezhuthassan,['ezhuthachan'],False
+garhwali,['garewal' 'gawali'],False
+gold smith,['goldsmith'],False
+gujarati,['gujara'],False
+kananaya,['knanaya'],False
+kumoani,['kummari'],False
+latin,"['atit' 'jain' 'jatia' 'katia' 'katik' 'laban' 'ladia' 'laman' 'lari'
+ 'laria' 'late' 'nain' 'patil' 'sain' 'satia' 'tati' 'tatin']",False
+maithil,['masthi'],False
+malankara,['malakar'],False
+malayalam,['malayaman'],False
+marwari,"['banwari' 'barwar' 'gawari' 'hawari' 'jawari' 'korwari' 'madari' 'majwar'
+ 'manjari' 'marar' 'marati' 'marvadi' 'marwadi' 'maryali' 'mauriari'
+ 'mawasi' 'murrari' 'panwari']",False
+pentacost,['pentacostal'],False
+punjabi,['pinjari' 'pujari'],False
+raghuwanshi,['raghuwansi'],False
+shatriya,"['dhariya' 'khathiya' 'khatiya' 'khatriyas' 'khetriya' 'kshatriya'
+ 'sahariya']",False
+shia,"['ahir' 'alia' 'bhil' 'chiba' 'chik' 'dhea' 'hira' 'mahia' 'saha' 'sahis'
+ 'sai' 'sain' 'sais' 'saiva' 'salia' 'sama' 'satia' 'sehria' 'sema'
+ 'setia' 'shah' 'shaik' 'sham' 'sher' 'shil' 'shin' 'shing' 'shipai'
+ 'shis' 'shrma' 'soi' 'sosia' 'sri' 'suda' 'sulia' 'thir' 'thiya' 'ujia']",False
+smartha,['kartha' 'maratha' 'marta' 'matha' 'samantha' 'samarta' 'sarthi' 'satha'],False
+sozhiya,['odhiya' 'soliya' 'sondhiya'],False
+tamil,"['adil' 'damal' 'gamit' 'kami' 'patil' 'takia' 'tamali' 'tamar' 'tambili'
+ 'tambli' 'tamer' 'tamili' 'tamilu' 'tamoli' 'tamuli' 'tarail' 'taral'
+ 'tari' 'tati' 'tatin' 'tayal' 'thami' 'wami']",False
+telgu,"['segu' 'telaga' 'teli' 'telli' 'teluga' 'telugu' 'thelagu' 'thelugu'
+ 'yellu']",False
+thai,"['athari' 'bhal' 'bhar' 'bhat' 'bhati' 'bhoi' 'chain' 'chak' 'chari'
+ 'dhadi' 'dhaki' 'dhali' 'dhami' 'dhari' 'dhuai' 'esai' 'ghadi' 'ghai'
+ 'ghani' 'ghasi' 'ghazi' 'goai' 'hadi' 'hali' 'hari' 'hasi' 'isai' 'jhadi'
+ 'khan' 'khasi' 'khati' 'mhali' 'nai' 'nhavi' 'rai' 'sai' 'shadi' 'shah'
+ 'shahi' 'shaik' 'sham' 'tari' 'tati' 'teli' 'thami' 'thanu' 'tharu'
+ 'thatia' 'thawin' 'theri' 'thir' 'thori' 'thoti' 'tili' 'turi' 'tyagi']",False
+vanniyar,"['banniyar' 'honniyar' 'pannayar' 'panniyar' 'valaiyar' 'vaniar' 'vaniyan'
+ 'vaniyar' 'vannar' 'vannia' 'vanniar' 'varriyar']",False
+varier,"['arer' 'barber' 'harer' 'vadder' 'vadiar' 'vajir' 'vaniar' 'variar'
+ 'varrer']",False
+veerashaiva,['veerasaiva' 'veershaiva'],False
+vellama,['belama' 'bellara' 'velama' 'vellalar' 'vellar' 'yellam'],False

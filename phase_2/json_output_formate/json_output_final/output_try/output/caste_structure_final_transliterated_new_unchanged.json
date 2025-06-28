@@ -1,0 +1,27 @@
+[
+  {
+    "id": "c501a616-bfde-46fc-a4cb-ec517e264283",
+    "name": "chippa",
+    "displayName": {
+      "En": "Chippa",
+      "Hi": "चिप्पा",
+      "As": "চিপ্পা",
+      "Bn": "চিপ্পা",
+      "Gu": "ચિપ્પા",
+      "Kn": "ಚಿಪ್ಪಾ",
+      "Ml": "ചിപ്പ",
+      "Mr": "चिप्पा",
+      "Or": "ଚିପ୍ପା",
+      "Pa": "ਚਿਪਾ",
+      "Ta": "சிப்பா",
+      "Te": "చిప్పా",
+      "Ori": "ଚିପ୍ପା"
+    },
+    "casteType": "CASTE",
+    "key": "chippa",
+    "parentKey": null,
+    "parentId": null,
+    "stateId": null,
+    "source": "gov"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "c501a616-bfde-46fc-a4cb-ec517e264283",
+    "name": "chippa",
+    "displayName": {
+      "En": "Chippa",
+      "Hi": "Chippa",
+      "As": "Chippa",
+      "Bn": "Chippa",
+      "Gu": "Chippa",
+      "Kn": "Chippa",
+      "Ml": "Chippa",
+      "Mr": "Chippa",
+      "Or": "Chippa",
+      "Pa": "Chippa",
+      "Ta": "Chippa",
+      "Te": "Chippa",
+      "Ori": "Chippa"
+    },
+    "casteType": "CASTE",
+    "key": "chippa",
+    "parentKey": null,
+    "parentId": null,
+    "stateId": null,
+    "source": "gov"
+  },
+  {
+    "id": "05210f52-43cd-4fcc-9721-6c287e382034",
+    "name": "chippiga",
+    "displayName": {
+      "En": "Chippiga",
+      "Hi": "Chippiga",
+      "As": "Chippiga",
+      "Bn": "Chippiga",
+      "Gu": "Chippiga",
+      "Kn": "Chippiga",
+      "Ml": "Chippiga",
+      "Mr": "Chippiga",
+      "Or": "Chippiga",
+      "Pa": "Chippiga",
+      "Ta": "Chippiga",
+      "Te": "Chippiga",
+      "Ori": "Chippiga"
+    },
+    "casteType": "SUB_CASTE",
+    "key": "darzi#chippiga",
+    "parentKey": "darzi",
+    "parentId": "0640813e-0fd5-4185-9c20-6d04c08c7551",
+    "stateId": null,
+    "source": "gov"
+  },
+  {
+    "id": "d878cc47-2e22-4400-a09f-424c159b1c7b",
+    "name": "gawli",
+    "displayName": {
+      "En": "Gawli",
+      "Hi": "Gawli",
+      "As": "Gawli",
+      "Bn": "Gawli",
+      "Gu": "Gawli",
+      "Kn": "Gawli",
+      "Ml": "Gawli",
+      "Mr": "Gawli",
+      "Or": "Gawli",
+      "Pa": "Gawli",
+      "Ta": "Gawli",
+      "Te": "Gawli",
+      "Ori": "Gawli"
+    },
+    "casteType": "SUB_CASTE",
+    "key": "yadav#gawli",
+    "parentKey": "yadav",
+    "parentId": "46b3ccc0-b04b-425c-9048-49cd98576590",
+    "stateId": null,
+    "source": "shaadi & jeevansaathi"
+  }
+]

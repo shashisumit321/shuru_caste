@@ -1,0 +1,437 @@
+same_communities_bihar = {
+    "BRAHMIN": ["BRAHMIN", "BRAHMAN", "BRAHAMIN"],
+    "BHUMIHAR": ["BHUMIHAR", "BHUIHAR"],
+    "BEDIA": ["BEDIA", "BEDIAH"],
+    "CHICK BARAIK": ["CHICK BARAIK", "CHIK"],
+    "DUSADH": ["DUSADH", "DUSAD"],
+    "GOND": ["GOND", "GODI"], # Godi often a variant of Gond
+    "KAYASTHA": ["KAYASTHA", "KAYASTH"],
+    "KAIVARTTA": ["KAIVARTTA", "KEWAT"],
+    "KHATIK": ["KHATIK", "KHATWA", "KHATWE"], # Considered closely related regional variants
+    "KULAHIA": ["KULAHIA", "KULHAIYA"],
+    "KUMHAR": ["KUMHAR", "PRAJAPATI"], # Prajapati is an adopted title for Kumhar
+    "MADARI": ["MADARI", "MADAR"],
+    "NAMASUDRA": ["NAMASUDRA", "NAMSHUDRA"],
+    "SANTAL": ["SANTAL", "SANTHALI"], # Santhali is language/adjective form but used for people
+    "TANTI": ["TANTI", "TATWA"] # Tatwa often considered a synonym or part of Tanti
+}
+
+same_communities_chandigarh = {
+    "BHAT": ["BHAT", "MIRASI"],  # Functionally very similar, often counterparts
+    "LOHAR": ["LOHAR", "BHUHALIA-LOHAR"],
+    "CHANGAR": ["CHANGAR", "CHANG"],
+    "FAQIR": ["FAQIR", "FAQUIR"],
+    "BRAHMAN": ["BRAHMAN", "JHAGRA-BRAHMAN"],
+    "SANSI": ["SANSI", "SANSOI"],
+    "SANHAL": ["SANHAL", "SANHAI"] # Assuming phonetic variants if they refer to one group
+}
+
+
+same_communities_chhattisgarh = {
+    "BANCHADA": ["BANCHADA", "BANCHHADA"],
+    "BASOR": ["BASOR", "BANSOR"],
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN", "BRHAMAN"],
+    "CHAMAR": ["CHAMAR", "CHIDAR"], # Chidar often a sub-group/synonym
+    "CHIKAWA": ["CHIKAWA", "CHIKWA"],
+    "CHHIPA": ["CHHIPA", "CHITARI", "CHITAR"], # Chitari/Chitar are painters often within Chhipa group
+    "CHUNKAR": ["CHUNKAR", "CHUNGAR"],
+    "GADARIA": ["GADARIA", "GADARIYA"],
+    "GANDA": ["GANDA", "GANDHA"],
+    "GUSAI": ["GUSAI", "GOSWAMI"], # Goswami is a common title/synonym for Gusai
+    "HELAH": ["HELAH", "HOLIYA"], # Holiya often synonymous with Hela
+    "JULAHIA": ["JULAHIA", "MOMIN"], # Momin often refers to Muslim Julahas
+    "KACHHI": ["KACHHI", "KOYARI"], # Functionally same/very close (vegetable growers)
+    "KALAR": ["KALAR", "KALLAR"], # Spelling variant for distillers
+    "KAMAR": ["KAMAR", "KARMARIYA"], # Karmariya often a sub-group of Kamar
+    "KASAI": ["KASAI", "KASABI"],
+    "KAYASTHA": ["KAYASTHA", "KAYASTH"],
+    "KHATIK": ["KHATIK", "KHATIYA"],
+    "KUMHAR": ["KUMHAR", "KUMBHAR"],
+    "KURMI": ["KURMI", "KURMAR"],
+    "LODHI": ["LODHI", "LODH"], # Lodh is a variant of Lodhi
+    "LOHAR": ["LOHAR", "LUHAR"],
+    "MAHAR": ["MAHAR", "MAHER"],
+    "MAJHWAR": ["MAJHWAR", "MAJHI"], # Majhi can be a broader term or title including Majhwar
+    "MANG": ["MANG", "MANGIA"],
+    "MOWAR": ["MOWAR", "MOWAR"],
+    "NAYAK": ["NAYAK", "NAYATA"], # Assuming Nayata is a variant of Nayak
+    "SONAR": ["SONAR", "SONR"],
+    "TELI": ["TELI", "TELI NAYATA"], # Teli Nayata likely a sub-group of Teli
+    "VASUDEV": ["VASUDEV", "BASUDEVA"]
+}
+
+
+same_communities_delhi = {
+    "CHUHRA": ["CHUHRA", "CHOHRA"],
+    "BAWARIA": ["BAURIA", "BAWARIA"],  # Bawaria is the listed term, Bauria is a variant
+    "BHANGI": ["LALBEGI", "BHANGI"],    # Lalbegi is a specific type of Bhangi
+    "MALLAH": ["MACHI", "MALLAH"]       # Machi is often a synonym or sub-group of Mallah
+}
+
+
+same_communities_gujarat = {
+    "BAKSHI": ["BAKSHI", "BAKSHI PANCH"], # Bakshi Panch refers to the category
+    "BAWA": ["BAW A", "BAWA-DEDH"], # Bawa-Dedh is a specific type of Bawa
+    "BHARWAD": ["BHARVAD", "BHARWAD", "BHARWAD MOTABHAI", "BHARWAD NANABHAI", "BHARWAD GADARIA"],
+    "CHARAN": ["CHARAN", "CHARAN GADHVI"],
+    "CHAUDHARI": ["CHAUDHRI", "CHOUDHARI"],
+    "DHODIA": ["DHODIA", "DHODIA PATEL"],
+    "GADHAVI": ["GADHAVI"], # Listed as GADHAVI - GADHAVI
+    "KOLI": ["KOLI", "CHUVALIA KOLI", "DIVECHA KOLI", "GHEDIA KOLI", "KOLI DHOR"],
+    "MAHYAVANSHI": ["MAHYAVANSHI", "MAHIYAVANSHI", "MAHYAVANSI"], # Consolidating all spelling variants
+    "MANG": ["MANG", "MANG-GARUDI"],
+    "RATHODIA": ["RATHOD", "RATHODIA"], # Assuming Rathod in this context relates to the ST Rathodia
+    "RATHWA": ["RATHWA", "RATHAWA"],
+    "RAVAL": ["RAVAL", "RAVAL-RAVALIA JATI"],
+    "SADHU": ["SADHU", "VANKAR-SADHU"], # Vankar-Sadhu is a Sadhu of Vankar origin
+    "SATHWARA": ["SATHAWARA", "SATHWARA"],
+    "SUTHAR": ["SUTHAR", "SHUTHAR"],
+    "VAGHARI": ["VAGHARI", "WAGHARI", "VAGHRI"], # Vaghari and Vaghri are same, W is transliteration
+}
+
+
+
+
+same_communities_haryana = {
+    "BRAHMAN": ["BRAHAMAN", "BRAHIMAN", "BRAHMAN", "BRAHMIN", "BRHAMIN"], # Consolidating all spelling variants
+    "CHANGAR": ["CHANG", "CHANGAR"],
+    "CHHIMBA": ["CHHIPI", "CHIMBA"], # Chhimba is the term often seen in lists
+    "JAT": ["JAT", "JAT SIKH"], # Jat Sikh is a Jat by ethnicity with a specific religion
+    "RANGREZ": ["RANGREJ", "RANGREZ"],
+    "SONAR": ["SONAR", "SONI", "SUNAR"] # Soni is a common synonym/surname; Sunar is a variant
+}
+
+same_communities_himachal_pradesh = {
+    "DARAIN": ["DARAI", "DARAIN"],
+    "DHOGRI": ["DHAOGRI", "DHOGRI"],
+    "KANJAR": ["KANJAR", "KANJAR KANCHAN"], # Kanjar Kanchan is a specific understanding within Kanjar
+    "RIHARA": ["RECHBAND", "REHAR"], # Rihara is often the listed SC term, synonymous with these
+    "SANHAI": ["SANHAI", "SANHAL"], # Listed as SC, often considered same
+    "SANSI": ["SANSI", "SANSOI"]
+}
+
+
+same_communities_jammu_and_kashmir = {
+    "HANJI": ["BAHACH HANJIE", "SHIKARA WALLAS"], # Shikara Wallas are predominantly Hanji by occupation
+    "WATAL": ["WATAL", "SHUPRI WATTAL"]         # Shupri Wattal is a segment of the Watal community
+}
+
+
+same_communities_jharkhand = {
+    "ASUR": ["ASHUR", "ASUR"],
+    "BHUMIHAR": ["BHUIHAR", "BHUMIHAR"],
+    "DUSADH": ["DUSAD", "DUSADH"],
+    "KHATWA": ["KHATWA", "KHATWE"],
+    "MOMIN ANSARI": ["MOMIN", "MOMINANSARI"], # Momin often refers to Momin Ansari in context of weavers
+    "NAI": ["NAI", "NAIYA"],
+    "RAJBANSHI": ["RAJBANSHI", "RAJVANSHI"],
+    "SUDI": ["SUDHI", "SUDI"]
+}
+
+
+same_communities_karnataka = {
+    "ADI DRAVIDA": ["ADI DRAVIDA", "ADIDRAVIDA"],
+    "ADI KARNATAKA": ["ADI KARNATAKA", "ADIKARNATAKA"],
+    "ADIYAN": ["ADIYA", "ADIYAN"],
+    "BATHAL": ["BATHAL", "BATTAL", "BATTER", "BATTAR"], # Assuming these are all variants of one name
+    "BHAJANTRI": ["BHAJANIA", "BHAJANTRI"],
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+    "DASARI": ["DASARI", "DASARU"],
+    "DEVANGA": ["DEVANGA", "DEVANGASHETTY"],
+    "GANGAKULA": ["GANGAKULA", "GANGEMATA"],
+    "GANIGA": ["GANIGA", "GANIGER"],
+    "GHISADI": ["GHISADI", "GHISADE"],
+    "HOLEYA": ["HOLEYA", "HOLAYA"],
+    "KANIYAN": ["KANISAN", "KANIYAR", "KANIYARU", "KANIYA", "KANIYAN"],
+    "KUMBRI MARATHA": ["KUMBRI MARATHA", "KUMBRI MARATI"],
+    "MALA": ["MALA", "MALA DASARI", "MALA HANNAI", "MALA JANGAM", "MALA MASTI", "MALA SALE", "MALA SANYASI"],
+    "MARATHA": ["MARATHA", "MARATI"],
+    "MARAVAN": ["MARAYA", "MARAYAN", "MARAVAN"], # Assuming reference to Maravar community
+    "MEDAR": ["MEDA", "MEDAR"],
+    "PINJARA": ["PINJAR", "PINJARA", "PINJARI"],
+    "SAMAGARA": ["SAMAGAR", "SAMAGARA"],
+    "SUDUGADU SIDDHA": ["SUDUGADU SIDDHA", "SUDIGADUSIDDHA"],
+    "VISHWAKARMA": ["VISWAKARMA", "VISHWAKARMA"],
+    "VOKKALIGA": ["VOKALIGA", "VOKKALIGA"],
+    "WADDAR": ["WADAR", "WADDAR", "VDDAR"],
+    "YERAVA": ["YERAVA", "YERALU"]
+}
+
+
+same_communities_kerala = {
+    "ARUNTHATHIYAR": ["ARUNTHATHIYAR", "CHAKKILIYAN"], # Often synonymous SC group
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+    "CHETTIAR": ["CHETTIAR", "CHETTIES"],
+    "EZHAVA": ["EZHAVA", "IZHAVAN"],
+    "REDDIAR": ["GANJAM REDDI", "REDDIAR"], # Ganjam Reddi is a Reddiar from Ganjam
+    "GOUNDER": ["GOUNDER", "GOWDA"], # Gowda in Kerala context often refers to Gounders
+    "KURICHIAN": ["KURICHCHAN", "KURICHIAN"],
+    "KURUMANS": ["KURUMANS", "KURUMBAS"], # Often used interchangeably for related STs
+    "MAPPILA": ["MAPPILA", "MAPPILLA"],
+    "MARAVAN": ["MARAVAN", "MARAVAR"],
+    "MUDALIYAR": ["MUDALI", "MUDALIYAR", "MUDALIYA R"], # Assuming "Mudaliya R" is a typo for Mudaliyar
+    "NAICKER": ["NAICKER", "NAIKKAN"], # Naikkan is a variant of Naicker
+    "PALLIYAN": ["PALLEYAN", "PALLIYAN", "PALLIYAR"],
+    "PANAN": ["PANAN", "PAANAN"],
+    "PANIYAN": ["PANIYAN", "PANNIYAR"],
+    "PULAYAN": ["PULAYAN", "HILL PULAYA"], # Hill Pulaya is a sub-group of Pulayan
+    "THIYYA": ["THIYA", "THIYYA"],
+    "VELAN": ["VELAAN", "VELAN"],
+    "VANIYAN": ["VANIAR", "VANICAN"],
+    "YADAVA": ["YADAV", "YADAVA"],
+    "SYRIAN CHRISTIAN": ["SYRIAN", "SYRIAN CHRISTIAN"]
+}
+
+
+same_communities_madhya_pradesh = {
+    "BASOR": ["BASHOR", "BASOR"],
+    "BHARUD": ["BHAROOD", "BHARUD"],
+    "BHILALA": ["BHILALA", "BHILA LA"], # Bhil Meena is distinct
+    "CHITARI": ["CHITAR", "CHITARI"],
+    "CHUNGAR": ["CHUNKAR CHUNGAR", "CHUNGAR"], # Assuming "CHUNKAR CHUNGAR" implies Chunkar is variant of Chungar
+    "DARJI": ["DARJI", "DARJI CHEEPI"], # Darji Cheepi is a specific type/overlap
+    "DAFALI": ["DAFALI", "DHOLI DAFAALI"], # Dholi Dafaali specifies Dafali musicians
+    "GUJJAR": ["GOOJAR", "GUJJAR"],
+    "JULAHA": ["JULAHA", "JULAHA-MOMIN"], # Julaha-Momin specifies Muslim Julahas
+    "KACHHI": ["KACHHI", "KACHHI KOYARI"], # Kachhi Koyari highlights close functional/social links
+    "KAMAR": ["KAMAR", "KAMARIYA"], # Kamariya often a sub-group of Kamar
+    "KASAI": ["KASABI", "KASAI"],
+    "KHAIRWAR": ["KHAIRUWA", "KHAIRWAR"],
+    "KHATIK": ["KHATIK", "KHATIYA"],
+    "KOTWAR": ["KOTWAL", "KOTWAR"],
+    "LODHI": ["LODHI", "LODH"], # Grouping all three "LODHI LODHA LODH" under Lodhi, though Lodha is usually distinct ST elsewhere
+    "LOHAR": ["LOHAR", "LUHAR"],
+    "MOMIN ANSARI": ["MOMINANSARI", "MOMIN"], # In caste context
+    "SONAR": ["SONAR", "SONI", "SONR"]
+}
+
+
+same_communities_maharashtra = {
+    "BHAMTA": ["BHAMPTA", "BHAMTA"],
+    "BHARIA": ["BHARIA BHUMIA", "BHARIA"], # Bharia Bhumia is a Bharia
+    "TARGALA": ["BHAVAIYA TARGALA", "TARGALA"], # Bhavaiya Targala is a Targala
+    "GADARIA": ["GADARIA", "GADARIYA"],
+    "GOND": ["GOND", "GONDI"],
+    "KAIKADI": ["KAIKADI", "KAIKADI DHONTLE"], # Dhontle is a sub-group
+    "KOLI": ["KOLI", "KOLI DHOR", "KOLI MAHADEV"], # Koli Dhor & Koli Mahadev are sub-groups of Koli
+    "KUMBHAR": ["KUMBHAR", "KUMBARA"],
+    "KUNBI": ["KUNBI", "KUMBI"],
+    "MALA": ["MALA", "MALA DASARI", "MALA HANNAI", "MALA JANGAM", "MALA MASTI", "MALA SALE", "MALA SANYASI"],
+    "MANG": ["MANG", "MANG GARODI"], # Mang Garodi is a sub-group
+    "NAMDHARI": ["NAMDHARI", "NAMDHARI PAIK"], # Namdhari Paik as a type
+    "PARDHI": ["PARDHI: ADVICHINCHER", "PARDHI", "RAJ PARDHI"], # Advichincher & Raj Pardhi are sub-groups
+    "RANGARI": ["RANGARI", "RANGREJ", "RANGREZ"],
+    "RAVAL": ["RAVAL RAUL", "RAUL"], # Raul is a variant of Raval
+    "SHILAVAT": ["SHILAVAT", "SHILAVANT"],
+    "SUTAR": ["SUTAR", "SUTHARIA"],
+    "VADAR": ["VADAR", "WADAR"]
+}
+
+same_communities_manipur = {
+    "MEITEI": ["MEITEI", "MEITEI PANGAL"], # Meitei Pangal are ethnically Meitei with a distinct religion
+    "KOIRENG": ["KOIRAO", "KOIRENG"],
+    "MONSANG-MOYON": ["MONSANG", "MOYON"] # Extremely closely related, often grouped together
+}
+
+same_communities_meghalaya = {
+    "KUKI": ["KUKI", "HMAR"], # Hmar is a specific Kuki tribe
+    "JHALO MALO": ["JHALO", "JALKEOT"] # Jalkeot is closely related to/part of Jhalo Malo (fishermen SC)
+}
+
+same_communities_mizoram = {
+    "MIZO": ["HMAR", "MIZO"],  # Hmar is a specific tribe considered part of the Mizo ethnic group
+    "MEHTAR": ["LALBEGI", "MEHTAR"] # Lalbegi is a specific type of Mehtar/Bhangi
+}
+
+same_communities_odisha = {
+    "ALIA": ["ALIA", "ALIAL"],
+    "BADHAI": ["BADHAI", "BADHEI"],
+    "BARIKA": ["BARIK", "BARIKA", "BARIKI"],
+    "BHOKTA": ["BHOGTA", "BHOKTA"],
+    "BHUMIJ": ["BHUMIJ", "BHUMIJA"], # Bhumia is a distinct ST
+    "BHUIYAN": ["BHUYA", "BHUJAN", "BHUYAN"], # Bhujan likely a variant of Bhuiyan; Bhuliya distinct
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+    "HADI": ["HADDI", "HADI"],
+    "JYOTISH": ["JYOTISH", "JYOTSKA"], # As an occupational term
+    "KAMAR": ["KAMAR", "KAMMARA"],
+    "KARANA": ["KARAN", "KARANA"],
+    "KHOND": ["KHOND", "KOND"],
+    "KOL": ["KOL", "KOLHA"], # Kolha very closely related/sub-group of Kol ST
+    "KUMBHAR": ["KUMBHAR", "KUMBHAR KULAL", "KUMMARI"], # Kummari is Telugu for potter
+    "MAGADHA GAUDA": ["MAGADHI GORAL", "MAGATHA GOUDUS"], # Assuming both refer to Magadha Gaudas
+    "MANKIRDIA": ["MANKIDI", "MANKIRDIA"],
+    "ORAON": ["ORAON", "ORAM"],
+    "PANA": ["PAN", "PANA"],
+    "SAORA": ["SHABAR", "SAORA"],
+    "SUNDHI": ["SUNRI", "SUNDHI"],
+    "TAMUDIA": ["TAMADIA", "TAMUDIA"]
+}
+
+
+same_communities_puducherry = {
+    "YADAVA": ["YADAVA", "YADAVA NAIDU"],
+    "SALIYA CHETTIAR": ["SALIA CHETTIAR", "SADHU CHETTY", "PATTU CHETTIAR", "VADAMALAI CHETTIAR"], # Various names/sub-groups of Saliya weaver Chettiars
+    "VISHWAKARMA": ["KAMSALI", "VISWAKARMA"] # Kamsali is a part of Vishwakarma
+}
+
+
+same_communities_punjab = {
+    "AD DHARMI": ["AD DHARMI", "AD-DHARMI"],
+    "BAIRAGI": ["BAIRAGI", "BARAGI"],
+    "BHARBHUNJA": ["BHARBHOOJA", "BHARBHUNJA"],
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN", "JHANGRA BRAHMAN"], # Jhangra Brahman is a type of Brahman
+    "GADARIYA": ["GADARIYA", "GADDARIA"],
+    "GUJJAR": ["GUJJAR", "GUJJAR(MUSLIM)"], # Muslim Gujjar is a type of Gujjar
+    "JAT": ["JAT", "JATSIKH"], # Jat Sikh is a type of Jat
+    "KESHAV RAJPUT": ["KEHSAVRAJAN", "KESHAVRAJPUT"], # Assuming phonetic variant
+    "MAZHABI SIKH": ["MAZHABI", "MAJHBI SIKH"],
+    "SANSI": ["SANSI", "SANSOI"],
+    "SUNAR": ["SUNAR", "SWARNKAR"]
+}
+
+same_communities_rajasthan = {
+    "BISHNOI": ["BAISHNOI", "BISHNOI"], # Baishnoi as variant of Bishnoi (Bairagi is distinct)
+    "BANIYA": ["BANIYA", "AGARAWAL"], # Agarwal is a type of Baniya
+    "BAGRI": ["BAGARIA", "BAGRI"],
+    "BHARBHUNJA": ["BHARBHOOJA", "BHARBHUJA"],
+    "BRAHMAN": ["BRAHMAN", "BRAHMIN", "MAHA-BRAHMAN"], # Maha-Brahman is type of Brahman (Saini Brahman distinct)
+    "CHHIPA": ["CHHIPPA", "CHIPPA"],
+    "DARJI": ["DARJI", "DARZI"],
+    "GADIA LOHAR": ["GADIA-LOHAR", "GADIALOHAR"],
+    "GHANCHI": ["GHACHHA", "GHACHI", "GHANCHI"],
+    "GOSAIN": ["GOSAI", "GOSWAMI", "GIRI GOSAIN"], # Giri Gosain is type of Gosain
+    "GUJJAR": ["GUJAR", "GURJAR"],
+    "KALBELIA": ["KALBELIA", "KALBELIYA"],
+    "KAYASTH": ["KAYASTH", "KA YASTH"],
+    "LAKHERA": ["LAKHARA", "LAKHERA"],
+    "MALI": ["MALI", "MALI SAINI"], # Mali Saini highlights close linkage
+    "MANG": ["MANG", "MANG GARODI"], # Mang Garodi is sub-group of Mang
+    "MAZHABI": ["MAZABI", "MAJHABI"],
+    "CHAMAR": ["MOCHI", "CHAMAR"], # Mochi is closely linked to/part of Chamar
+    "RAJPUT": ["RAJPUT", "RANA", "RAO", "RAWAL", "RAWAT"], # Rana, Rao etc. as titles/sub-groups within Rajput (Rai Sikh distinct)
+    "SADH": ["SAD", "SADH"],
+    "SARGARA": ["SARGARA", "SARAGARA"],
+    "SINDHI": ["SINDHI", "SINDHI MUSALMAN"], # Sindhi Musalman is a type of Sindhi
+    "SUTHAR": ["SUTAR", "SUTHAR"],
+    "SUNAR": ["SWARNAKAR", "SUNAR"],
+    "TAMBOLI": ["TAMBOLI", "TAMOLI"]
+}
+
+same_communities_sikkim = {
+  "JOGI": ["JOGI","SANYASI"]
+}
+
+
+same_communities_tamil_nadu = {
+  "ADIDRAVIDA": ["ADIDRAVIDA", "ATHIDRAVIDA"],
+  "AGAMUDAYAR": ["AGAMUDAYAR", "AGAMUDIYAR"],
+  "AMBALAKARAR": ["AMBALAKARAR", "AMBALAAR", "AMBALAM"],
+  "ARUNTHATHI": ["ARUNTHATHI", "ARUNDUDHI"],
+  "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+  "CHETTIAR": ["CHETTIAR", "CHETTIYAR", "CHETTU", "CHETTY"],
+  "GOUNDER": ["GOUNDER", "GOWDA"],
+  "AYYAR": ["AYYAR", "IYYAR"],
+  "JANGAM": ["JANGAM", "JANGAMA"],
+  "KARUNEEGAR": ["KARUNEEGAR", "KARUNEGAR"],
+  "MUDALIAR": ["MUDALIAR", "KERALA MUDALI", "MUDALIYAR"],
+  "KORAVAR": ["KORAVAR", "DABI KORAVAR", "INJI KORAVAR", "KALA KORAVAR", "KALINJI DABIKORAVAR", "MONDA KORAVAR", "PONNAI KORAVAR", "SAKKARAITHAMADAI KORAVAR", "SALEM MELNAD KORAVAR", "SALEM UPPU KORAVAR", "SARANGA PALLI KORAVAR", "THALLI KORAVAR", "THOGAMALAI KORAVAR", "VARAGANERI KORAVAR", "VADUVARPATTI KORAVAR", "VETTA KORAVAR"],
+  "KURUMBA": ["KURUMBA", "KURUMBAR"],
+  "MOOPPAN": ["MOOPPAN", "MOOPNAR"],
+  "MUPPAN": ["MUPPAN", "MUPPAR"],
+  "MUTHURAJA": ["MUTHURAJA", "MUTHURACHA", "MUTTIRIYAR", "MUTHIRIYAR", "MUTHARAIYAR"],
+  "NAIKAR": ["NAIKAR", "NAIKKAR"],
+  "ODAR": ["ODAR", "ODDAR"],
+  "SALIYAR": ["SALIYAR", "PADMASALIYAR", "PATHUSALIYAR", "PATTARIYA"],
+  "VALAIYAR": ["VALAIYAR", "VALAYAR"],
+  "YADAV": ["YADAV", "YADAVA", "YADAVAR"]
+}
+
+same_communities_telangana = {
+  "KANJARA": ["KANJARA", "BHATTA"]
+}
+
+same_communities_uttar_pradesh = {
+  "AARAKH": ["AARAKH", "ARAKH"],
+  "YADAV": ["YADAV", "AHIR"],
+  "BADHAI": ["BADHAI", "BARHAI"],
+  "BALMIKI": ["BALMIKI", "VALMIKI"],
+  "BANJARA": ["BANJARA", "VANJARA"],
+  "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+  "DARJI": ["DARJI", "DARZI"],
+  "DHIMAR": ["DHIMAR", "DHIVAR", "DHIVER"],
+  "FAQIR": ["FAQIR", "FAKIR"],
+  "GADARIA": ["GADARIA", "GADERIA"],
+  "GOSAI": ["GOSAI", "GOSAIN"],
+  "KACHHI": ["KACHHI", "KUSHWAHA", "KACHHI-KUSHWAHA"],
+  "KALAL": ["KALAL", "KALWAR"],
+  "KAYASTH": ["KAYASTH", "KAYASTHA"],
+  "KOIRI": ["KOIRI", "KOERI"],
+  "KUMHAR": ["KUMHAR", "KUMBHAKAR"],
+  "LONIA": ["LONIA", "LUNIYA"],
+  "MOMIN ANSARI": ["MOMIN ANSARI", "MOMIN"],
+  "BHISTI": ["BHISTI", "SAQQA", "SAQQA-BHISTI"]
+}
+
+same_communities_uttarakhand = {
+  "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+  "CHAMAR": ["CHAMAR", "MUCHI"],
+  "GOALA-GOPE": ["GOALA-GOPE", "GOWALA"],
+  "JOGI": ["JOGI", "YOGI"],
+  "KAIBARTA": ["KAIBARTA", "KOIBARTR"],
+  "KAPALI": ["KAPALI", "BAISHYA KAPALI"],
+  "KUMAR": ["KUMAR", "KUMBHAKAR"],
+  "MOIRA": ["MOIRA", "MODAK"],
+  "SANTHAL": ["SANTHAL", "MURMU"],
+  "NAMASUDRA": ["NAMASUDRA", "NOMOSUDRA"],
+  "TANTI": ["TANTI", "TANTUBAI", "TUNTUBAI"]
+}
+
+
+same_communities_andhra_pradesh = {
+  "ADI ANDHRA": ["ADI ANDHRA", "ADIANDRA"],
+  "ARAY MALA": ["ARAY MALA", "ARWA MALA"],
+  "ARYAKSHATRIYA": ["ARYAKSHATRIYA", "ARYAKASHTRIYA"],
+  "BRAHMAN": ["BRAHMAN", "BRAHMIN"],
+  "CHAKALI": ["CHAKALI", "CHAKALA"],
+  "EDIGA": ["EDIGA", "IDIGA"],
+  "BALIJA": ["BALIJA", "GAJULA BALIJA"],
+  "GOUD": ["GOUD", "GOUDU"],
+  "HOLEYA": ["HOLEYA", "HOLEYA DASARI"],
+  "KAPU": ["KAPU", "TURUPU KAPU", "PALIKAPU"],
+  "KOPPULAVELAMA": ["KOPPULAVELAMA", "KOPPALAVELAMA", "KOPPLAVELAMA", "KUPPALAVELAMA"],
+  "MADIGA": ["MADIGA", "MADIGA DASU"],
+  "MALA": ["MALA", "MALA DASARI", "MALA DASU", "MALA HANNAI", "MALA MASTI", "MALA SALE", "MALA SANYASI"],
+  "MANG": ["MANG", "MANG GARODI"],
+  "MANGALI": ["MANGALI", "MANGALA"],
+  "BANDA": ["BANDA", "MONDEPATTA", "MONDIPATTA", "MONDI", "MONDIVARU", "MONDIBANDA"],
+  "NAYAKA": ["NAYAKA", "NAYAKS"],
+  "NAYI-BRAHMIN": ["NAYI-BRAHMIN", "NAYBRAHMANULU"],
+  "NESE": ["NESE", "NESSI"],
+  "PALA-EKARI": ["PALA-EKARI", "PALAEIKRI"],
+  "RAJAKA": ["RAJAKA", "RAJAKULU"],
+  "RAJU": ["RAJU", "RAJULU"],
+  "REDDY": ["REDDY", "REDDI DHORAS"],
+  "SUGALI": ["SUGALI", "SUGALIS"],
+  "TELIKULA": ["TELIKULA", "TELAKULA", "TELUKU"],
+  "TOGATA": ["TOGATA", "THOGATA"],
+  "VALMIKI": ["VALMIKI", "VALMIKI BOYA"],
+  "VISWABRAHMIN": ["VISWABRAHMIN", "VISWABRAHAMAN"],
+  "YADAV": ["YADAV", "YADAVA"],
+  "YANADI": ["YANADI", "YENADIS"],
+  "YERUKALA": ["YERUKALA", "YERKULA", "YERUKULA", "YERUKULAS"]
+}
+
+
+same_communities_assam = {
+  "BANSPHOR": ["BANSPHOR", "BASPHOR", "BASOR"],
+  "BEDIA": ["BEDIA", "BEDDI"],
+  "KUMAR": ["KUMAR", "KUMHAR"],
+  "LODHA": ["LODHA", "LODHI"],
+  "TANTI": ["TANTI", "TANTUBAI", "TANTRIPAL"]
+}
+
+
+same_communities_dadra_and_nagar_haveli = {
+  "CHAMAR": ["CHAMAR", "CHAMBHAR", "CHRISTIAN CHAMAR"],
+  "MAHAR": ["MAHAR", "CHRISTIAN MAHAR"],
+}

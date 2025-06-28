@@ -1,0 +1,27 @@
+[
+  {
+    "id": "c501a616-bfde-46fc-a4cb-ec517e264283",
+    "name": "chippa",
+    "displayName": {
+      "En": "Chippa",
+      "Hi": "Chippa",
+      "As": "Chippa",
+      "Bn": "Chippa",
+      "Gu": "Chippa",
+      "Kn": "Chippa",
+      "Ml": "Chippa",
+      "Mr": "Chippa",
+      "Or": "Chippa",
+      "Pa": "Chippa",
+      "Ta": "Chippa",
+      "Te": "Chippa",
+      "Ori": "Chippa"
+    },
+    "casteType": "CASTE",
+    "key": "chippa",
+    "parentKey": null,
+    "parentId": null,
+    "stateId": null,
+    "source": "gov"
+  }
+]

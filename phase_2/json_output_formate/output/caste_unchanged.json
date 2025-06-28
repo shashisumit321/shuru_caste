@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7f55dd91-407c-4111-b56c-6b9433c70f38",
+    "name": "MITKARI-WANI",
+    "displayName": {
+      "En": "MITKARI-WANI",
+      "Hi": "MITKARI-WANI",
+      "As": "MITKARI-WANI",
+      "Bn": "MITKARI-WANI",
+      "Gu": "MITKARI-WANI",
+      "Kn": "MITKARI-WANI",
+      "Ml": "MITKARI-WANI",
+      "Mr": "MITKARI-WANI",
+      "Or": "MITKARI-WANI",
+      "Pa": "MITKARI-WANI",
+      "Ta": "MITKARI-WANI",
+      "Te": "MITKARI-WANI"
+    },
+    "casteType": "SUB_CASTE",
+    "key": "tamboli#mitkari-wani",
+    "parentKey": "tamboli",
+    "parentId": "af985cc6-733e-4056-ab7d-db9bb487289d",
+    "stateId": null,
+    "source": "mf_jeevansathi"
+  }
+]

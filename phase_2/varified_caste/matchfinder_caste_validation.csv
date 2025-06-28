@@ -1,0 +1,3842 @@
+State Id,State Name,Castecode,Caste,Subcaste,source,validation_result
+1,kerala,1001,achari,kongu vellala,,
+1,kerala,1002,achari,vishwakarma,,
+1,kerala,1003,achari,,,
+1,kerala,1004,adi dravida,paraya,gpt,caste
+1,kerala,1005,aentelur,roman catholic,manual_yes,caste
+1,kerala,1006,ambattan,,gpt,caste
+1,kerala,1007,arayan,devara,manual_yes,caste
+1,kerala,1008,arayan,,manual_yes,caste
+1,kerala,1009,barbar,,gemini,caste
+1,kerala,1010,brahman,bhatt,gpt,caste
+1,kerala,1011,brahman,iyer,gpt,caste
+1,kerala,1012,brahman,,gpt,caste
+1,kerala,1013,catholic,latin catholic,,
+1,kerala,1014,catholic,pulaya,,
+1,kerala,1015,catholic,roman catholic,,
+1,kerala,1016,catholic,syrian,,
+1,kerala,1017,catholic,,,
+1,kerala,1018,chakkiliyan,amma,gpt,caste
+1,kerala,1019,chakkiliyan,,gpt,caste
+1,kerala,1020,cheruman,iraya,gpt,caste
+1,kerala,1021,cheruman,kanakkan,gpt,caste
+1,kerala,1022,cheruman,,gpt,caste
+1,kerala,1023,chettiar,chakka,gpt,caste
+1,kerala,1024,chettiar,telugu,gpt,caste
+1,kerala,1025,chettiar,telugu chettiar,gpt,caste
+1,kerala,1026,chettiar,vaniar,gpt,caste
+1,kerala,1027,chettiar,,gpt,caste
+1,kerala,1028,christian,catholic,,
+1,kerala,1029,christian,christian,,
+1,kerala,1030,christian,roman catholic,,
+1,kerala,1031,christian,,,
+1,kerala,1032,dhobi,,gpt,caste
+1,kerala,1033,dweepara,,manual_yes,caste
+1,kerala,1034,ezhava,ammelu,gpt,caste
+1,kerala,1035,ezhava,chetti,gpt,caste
+1,kerala,1036,ezhava,ezhava,gpt,caste
+1,kerala,1037,ezhava,ghiyaiu,gpt,caste
+1,kerala,1038,ezhava,harijan,gpt,caste
+1,kerala,1039,ezhava,kongu vellala,gpt,caste
+1,kerala,1040,ezhava,menon,gpt,caste
+1,kerala,1041,ezhava,pankar,gpt,caste
+1,kerala,1042,ezhava,pillai,gpt,caste
+1,kerala,1043,ezhava,theyahan,gpt,caste
+1,kerala,1044,ezhava,thiya,gpt,caste
+1,kerala,1045,ezhava,vanika,gpt,caste
+1,kerala,1046,ezhava,vaniyan,gpt,caste
+1,kerala,1047,ezhava,varrer,gpt,caste
+1,kerala,1048,ezhava,vathi,gpt,caste
+1,kerala,1049,ezhava,,gpt,caste
+1,kerala,1050,ezhuthachan,,gemini,caste
+1,kerala,1051,g.s.b.,,,
+1,kerala,1052,ganak,,gpt,caste
+1,kerala,1053,gounder,kongu vellala,gpt,caste
+1,kerala,1054,gounder,menon,gpt,caste
+1,kerala,1055,gounder,padaiyachi,gpt,caste
+1,kerala,1056,gounder,pillai,gpt,caste
+1,kerala,1057,gounder,vaniar,gpt,caste
+1,kerala,1058,gounder,vellalar,gpt,caste
+1,kerala,1059,gounder,,gpt,caste
+1,kerala,1060,gupthan,,,
+1,kerala,1061,hairua,pillai,,
+1,kerala,1062,harijan,harijan,manual_yes,caste
+1,kerala,1063,harijan,kollan,manual_yes,caste
+1,kerala,1064,harijan,mannan,manual_yes,caste
+1,kerala,1065,harijan,parayan,manual_yes,caste
+1,kerala,1066,harijan,pulaya,manual_yes,caste
+1,kerala,1067,hindu,nair,,
+1,kerala,1068,hindu,,,
+1,kerala,1069,iyer,,gpt,caste
+1,kerala,1070,jacobite,syrian,manual_yes,caste
+1,kerala,1071,jacobite,,manual_yes,caste
+1,kerala,1072,kallar,,gpt,caste
+1,kerala,1073,kanakkan,cheruman,gemini,caste
+1,kerala,1074,kanakkan,syrian,gemini,caste
+1,kerala,1075,kanakkan,,gemini,caste
+1,kerala,1076,knanaya,cheduma,gemini,caste
+1,kerala,1077,knanaya,chetti,gemini,caste
+1,kerala,1078,knanaya,syrian,gemini,caste
+1,kerala,1079,knanaya,,gemini,caste
+1,kerala,1080,kollan,kadayan,gpt,caste
+1,kerala,1081,kollan,,gpt,caste
+1,kerala,1082,koravan,,gpt,caste
+1,kerala,1083,kudumbi,,gpt,caste
+1,kerala,1084,kumbaran,,gemini,caste
+1,kerala,1085,kurichian,kurup,gpt,caste
+1,kerala,1086,kurichian,,gpt,caste
+1,kerala,1087,mannadiyar,tharakan,gpt,caste
+1,kerala,1088,mannadiyar,,gpt,caste
+1,kerala,1089,mannan,mannan,gpt,caste
+1,kerala,1090,mannan,perumannan,gpt,caste
+1,kerala,1091,mannan,,gpt,caste
+1,kerala,1092,mappilla,assari,manual_yes,caste
+1,kerala,1093,mappilla,mujahid,manual_yes,caste
+1,kerala,1094,mappilla,,manual_yes,caste
+1,kerala,1095,mapthan,,manual_yes,caste
+1,kerala,1096,maravar,,gpt,caste
+1,kerala,1097,marthoma,marthoma,manual_yes,caste
+1,kerala,1098,marthoma,syrian,manual_yes,caste
+1,kerala,1099,marthoma,,manual_yes,caste
+1,kerala,1100,moopar,,gemini,caste
+1,kerala,1101,moosari,,gpt,caste
+1,kerala,1102,moothan,,gemini,caste
+1,kerala,1103,mudali,,gemini,caste
+1,kerala,1104,mudaliyar,kaikolan,gpt,caste
+1,kerala,1105,mudaliya r,,gemini,caste
+1,kerala,1106,muslim,jamamitk,,
+1,kerala,1107,muslim,jaman,,
+1,kerala,1108,muslim,jamari,,
+1,kerala,1109,muslim,mappilla,,
+1,kerala,1110,muslim,mujahid,,
+1,kerala,1111,muslim,muslim,,
+1,kerala,1112,muslim,rawther,,
+1,kerala,1113,muslim,sunni,,
+1,kerala,1114,muslim,,,
+1,kerala,1115,muthunarayana,,manual_yes,caste
+1,kerala,1116,nadar,,gpt,caste
+1,kerala,1117,naicker,kannar,gemini,caste
+1,kerala,1118,naicker,kavadi,gemini,caste
+1,kerala,1119,naicker,thotti,gemini,caste
+1,kerala,1120,naicker,,gemini,caste
+1,kerala,1121,naik,pillai,gemini,caste
+1,kerala,1122,naik,veluthedu,gemini,caste
+1,kerala,1123,naik,vilakithala,gemini,caste
+1,kerala,1124,nair,bhattathi,gpt,caste
+1,kerala,1125,nair,brahman,gpt,caste
+1,kerala,1126,nair,chetti,gpt,caste
+1,kerala,1127,nair,chettiar,gpt,caste
+1,kerala,1128,nair,devara,gpt,caste
+1,kerala,1129,nair,gupthan,gpt,caste
+1,kerala,1131,nair,iyyanga r,gpt,caste
+1,kerala,1132,nair,kartha,gpt,caste
+1,kerala,1133,nair,kurup,gpt,caste
+1,kerala,1134,nair,marar,gpt,caste
+1,kerala,1135,nair,menon,gpt,caste
+1,kerala,1136,nair,nair,gpt,caste
+1,kerala,1137,nair,nambiyar,gpt,caste
+1,kerala,1138,nair,nambuthiri,gpt,caste
+1,kerala,1139,nair,panickar,gpt,caste
+1,kerala,1140,nair,pattar,gpt,caste
+1,kerala,1141,nair,pentacostal,gpt,caste
+1,kerala,1142,nair,picari,gpt,caste
+1,kerala,1143,nair,pillai,gpt,caste
+1,kerala,1144,nair,pothuwal,gpt,caste
+1,kerala,1145,nair,roman catholic,gpt,caste
+1,kerala,1147,nair,sunni,gpt,caste
+1,kerala,1148,nair,syrian,gpt,caste
+1,kerala,1149,nair,thiya,gpt,caste
+1,kerala,1150,nair,vadiar,gpt,caste
+1,kerala,1151,nair,valakathala,gpt,caste
+1,kerala,1152,nair,variar,gpt,caste
+1,kerala,1153,nair,vilakikrishnan,gpt,caste
+1,kerala,1154,nair,vilakit,gpt,caste
+1,kerala,1155,nair,vilakithala,gpt,caste
+1,kerala,1156,nair,vllakiam,gpt,caste
+1,kerala,1157,nair,,gpt,caste
+1,kerala,1158,nambudhiri,,gpt,caste
+1,kerala,1159,nambudhiri,namber dar,gpt,caste
+1,kerala,1160,nambudhiri,namkar,gpt,caste
+1,kerala,1161,noprthaona,syrian,manual_yes,caste
+1,kerala,1162,oddar,,gpt,caste
+1,kerala,1163,orthodox,jacobite,manual_yes,caste
+1,kerala,1164,orthodox,roman catholic,manual_yes,caste
+1,kerala,1165,orthodox,syrian,manual_yes,caste
+1,kerala,1166,paanan,,gpt,caste
+1,kerala,1167,palaya,harijan,manual_yes,caste
+1,kerala,1168,palaya,mannon,manual_yes,caste
+1,kerala,1169,palaya,pathiyan,manual_yes,caste
+1,kerala,1170,pandaram,kongu vellala,gpt,caste
+1,kerala,1171,pandaram,,gpt,caste
+1,kerala,1172,pandithar,navidar,gemini,caste
+1,kerala,1173,pangaram,,manual_yes,caste
+1,kerala,1174,panickar,,gemini,caste
+1,kerala,1175,paniyan,paniya,gpt,caste
+1,kerala,1176,paniyan,,gpt,caste
+1,kerala,1177,para vannan,,gemini,caste
+1,kerala,1178,paravan,harijan,gpt,caste
+1,kerala,1179,paravan,,gpt,caste
+1,kerala,1180,pentacostal,cpm,manual_yes,caste
+1,kerala,1181,pentacostal,latin catholic,manual_yes,caste
+1,kerala,1182,pentacostal,pentacostal,manual_yes,caste
+1,kerala,1183,pentacostal,roman catholic,manual_yes,caste
+1,kerala,1184,pentacostal,syrian,manual_yes,caste
+1,kerala,1186,perkunna,,manual_yes,caste
+1,kerala,1187,piniyar,,manual_yes,caste
+1,kerala,1188,pisharodi,,gemini,caste
+1,kerala,1189,poojari,,manual_yes,caste
+1,kerala,1190,pulayan,cheramar,gpt,caste
+1,kerala,1191,pulayan,harijan,gpt,caste
+1,kerala,1192,pulayan,mannan,gpt,caste
+1,kerala,1193,pulayan,paravan,gpt,caste
+1,kerala,1194,pulayan,pathiyan,gpt,caste
+1,kerala,1195,pulayan,pulaya,gpt,caste
+1,kerala,1196,pulayan,pulayan,gpt,caste
+1,kerala,1197,pulayan,thiya,gpt,caste
+1,kerala,1198,pulayan,vanikan,gpt,caste
+1,kerala,1199,pulayan,,gpt,caste
+1,kerala,1200,pushpakan,,gemini,caste
+1,kerala,1201,rakithar,,manual_yes,caste
+1,kerala,1202,ranther,,manual_yes,caste
+1,kerala,1203,routher,,manual_yes,caste
+1,kerala,1204,syrian,jacobite,manual_yes,caste
+1,kerala,1205,syrian,,manual_yes,caste
+1,kerala,1206,thandan,,gpt,caste
+1,kerala,1207,tharakan,,gemini,caste
+1,kerala,1208,thattan,thaman,gpt,caste
+1,kerala,1209,thattan,thattan,gpt,caste
+1,kerala,1210,thevar,akamudayar,gpt,caste
+1,kerala,1211,thevar,,gpt,caste
+1,kerala,1212,thikodi,cpm,,
+1,kerala,1213,thiya,namker,gemini,caste
+1,kerala,1214,thiya,thiya,gemini,caste
+1,kerala,1215,thiyya,,gpt,caste
+1,kerala,1216,vadukkar,vaduka chetti,,
+1,kerala,1217,vadukkar,,,
+1,kerala,1218,valan,,gemini,caste
+1,kerala,1219,vanican,,manual_yes,caste
+1,kerala,1220,varduka,,manual_yes,caste
+1,kerala,1221,varriyar,,gemini,caste
+1,kerala,1222,veduvar,,gemini,caste
+1,kerala,1223,velan,,gemini,caste
+1,kerala,1224,yadav,thelagu,gpt,caste
+1,kerala,1225,yrakither,,manual_yes,caste
+1,kerala,1226,,akamudayar,,
+1,kerala,1227,,kongu vellala,,
+1,kerala,1228,,pulayan,,
+1,kerala,1229,,vishwakarma,,
+2,karnataka,2001,achari,vishwakarma,,
+2,karnataka,2002,adidravida,aravdur,gpt,caste
+2,karnataka,2003,adidravida,chalavadi,gpt,caste
+2,karnataka,2004,adidravida,harijan,gpt,caste
+2,karnataka,2005,adidravida,uppara,gpt,caste
+2,karnataka,2006,adikarnataka,chanaiahnatha,gemini,caste
+2,karnataka,2007,adikarnataka,gangemata,gemini,caste
+2,karnataka,2008,adikarnataka,gowndar,gemini,caste
+2,karnataka,2009,adikarnataka,halaki,gemini,caste
+2,karnataka,2010,adikarnataka,harijan,gemini,caste
+2,karnataka,2011,adikarnataka,holaya,gemini,caste
+2,karnataka,2012,adikarnataka,holer,gemini,caste
+2,karnataka,2013,adikarnataka,holeya,gemini,caste
+2,karnataka,2014,adikarnataka,holiya,gemini,caste
+2,karnataka,2015,adikarnataka,korama,gemini,caste
+2,karnataka,2016,adikarnataka,korur,gemini,caste
+2,karnataka,2017,adikarnataka,madiga,gemini,caste
+2,karnataka,2018,adikarnataka,medar,gemini,caste
+2,karnataka,2019,adikarnataka,mochi,gemini,caste
+2,karnataka,2020,adikarnataka,muggudavar,gemini,caste
+2,karnataka,2021,aganarw,kamared,manual_yes,caste
+2,karnataka,2022,agasa,aga sa,gpt,caste
+2,karnataka,2023,agasa,dobi,gpt,caste
+2,karnataka,2024,ambiga,ambigar,gpt,caste
+2,karnataka,2025,badigar,vishwakarma,gpt,caste
+2,karnataka,2026,bajantri,bajantri,gemini,caste
+2,karnataka,2027,bajantri,kshwrika,gemini,caste
+2,karnataka,2028,balagiga,balagiga,,
+2,karnataka,2029,balagiga,sunnakail,,
+2,karnataka,2030,baligar,baligar,gemini,caste
+2,karnataka,2031,baman,samrath,gpt,caste
+2,karnataka,2032,baniya,baniya,gpt,caste
+2,karnataka,2033,banjara,banjara,gpt,caste
+2,karnataka,2034,bavasar,bavasar,gemini,caste
+2,karnataka,2035,bavasarkshatriya,darje,gemini,caste
+2,karnataka,2036,bedar,bedar,gpt,caste
+2,karnataka,2037,bedar,bepar,gpt,caste
+2,karnataka,2038,belavva,pujari,manual_yes,caste
+2,karnataka,2039,bestha,mogeru,gpt,caste
+2,karnataka,2040,bestha,pujari,gpt,caste
+2,karnataka,2041,bhajantri,bhajantri,gemini,caste
+2,karnataka,2042,bhandari,kshwrika,gpt,caste
+2,karnataka,2043,bhandari,naik,gpt,caste
+2,karnataka,2044,bhovi,dasarli,gpt,caste
+2,karnataka,2045,bhovi,gangemata,gpt,caste
+2,karnataka,2046,bhovi,vadda,gpt,caste
+2,karnataka,2047,bhovi,varddar,gpt,caste
+2,karnataka,2046,bhovi,wadda,gpt,caste
+2,karnataka,2048,billava,pujari,gpt,caste
+2,karnataka,2049,brahman,ajer,gpt,caste
+2,karnataka,2050,brahman,hauyak,gpt,caste
+2,karnataka,2051,brahman,havasala,gpt,caste
+2,karnataka,2052,brahman,havjak,gpt,caste
+2,karnataka,2053,brahman,havyaka,gpt,caste
+2,karnataka,2054,brahman,iyangar,gpt,caste
+2,karnataka,2055,brahman,kotta,gpt,caste
+2,karnataka,2056,brahman,samrath,gpt,caste
+2,karnataka,2057,brahman,vaishna v,gpt,caste
+2,karnataka,2058,christian,catholic,,
+2,karnataka,2059,christian,protestant,,
+2,karnataka,2060,christian,roman,,
+2,karnataka,2061,christian,,,
+2,karnataka,2062,cugayat,kumber,,
+2,karnataka,2063,danatar,danatar,manual_yes,caste
+2,karnataka,2064,dasaru,,gemini,caste
+2,karnataka,2065,davar,davar,gemini,caste
+2,karnataka,2066,devangashetty,dasayia,gemini,caste
+2,karnataka,2067,dobi,dobi,gpt,caste
+2,karnataka,2068,dora,dora,gemini,caste
+2,karnataka,2069,dravida,catholic,,
+2,karnataka,2070,dwar,dwar,manual_yes,caste
+2,karnataka,2071,gangemata,mogeru,manual_yes,caste
+2,karnataka,2072,ganiga,ganiga,gpt,caste
+2,karnataka,2073,ganiga,sheety,gpt,caste
+2,karnataka,2074,ganiga,,gpt,caste
+2,karnataka,2075,ganiger,ganiga,gpt,caste
+2,karnataka,2076,ganiger,ganiger,gpt,caste
+2,karnataka,2077,godali,godali,manual_yes,caste
+2,karnataka,2078,gonday,gonday,manual_yes,caste
+2,karnataka,2079,gondhali,gondhali,gemini,caste
+2,karnataka,2080,gondhali,goudali,gemini,caste
+2,karnataka,2081,gowda,kshwrika,gpt,caste
+2,karnataka,2082,gowda,nama,gpt,caste
+2,karnataka,2083,gowda,vokkaliga,gpt,caste
+2,karnataka,2084,gurav,gurav,gpt,caste
+2,karnataka,2085,halakki,hakkipekki,gpt,caste
+2,karnataka,2086,hanabar,hajabar,,
+2,karnataka,2087,hanabar,hanabar,,
+2,karnataka,2088,harer,harayal,,
+2,karnataka,2089,harijan,harijan,manual_yes,caste
+2,karnataka,2090,harijan,ranger,manual_yes,caste
+2,karnataka,2091,helawar,helawar,manual_yes,caste
+2,karnataka,2092,hindukrubi,halamatha,manual_yes,caste
+2,karnataka,2093,hindulingayat,panchamsali,manual_yes,caste
+2,karnataka,2094,holaya,chaluvadi,gpt,caste
+2,karnataka,2095,holer,holer,manual_yes,caste
+2,karnataka,2096,holeya,adikarnataka,gpt,caste
+2,karnataka,2097,idiga,gowdru,gpt,caste
+2,karnataka,2098,idiga,naik,gpt,caste
+2,karnataka,2099,idiga,najak,gpt,caste
+2,karnataka,2100,idiga,pujari,gpt,caste
+2,karnataka,2101,idiga,talwar,gpt,caste
+2,karnataka,2102,igola,igola,manual_yes,caste
+2,karnataka,2103,iliger,iliger,gemini,caste
+2,karnataka,2104,jain,bogar,,
+2,karnataka,2105,jain,digambar,,
+2,karnataka,2106,jain,swetambar,,
+2,karnataka,2107,janwakar,janwakar,manual_yes,caste
+2,karnataka,2108,jogi,balegara,gpt,caste
+2,karnataka,2109,kabbou,kabbou,manual_yes,caste
+2,karnataka,2110,kadanpatadar,kapavpayr,manual_yes,caste
+2,karnataka,2111,kalal,kalal,gpt,caste
+2,karnataka,2112,kambar,kambar,gemini,caste
+2,karnataka,2113,kanabar,kanabar,manual_yes,caste
+2,karnataka,2114,kashaty,naik,manual_yes,caste
+2,karnataka,2115,kihatayera,naik,,
+2,karnataka,2116,kisrubar,halamatha,manual_yes,caste
+2,karnataka,2117,koli,koli,gpt,caste
+2,karnataka,2118,korama,korama,gpt,caste
+2,karnataka,2119,koravaru,kparau,gpt,caste
+2,karnataka,2120,korawar,korawar,manual_yes,caste
+2,karnataka,2121,korawar,kuravar,manual_yes,caste
+2,karnataka,2122,korma,korma,manual_yes,caste
+2,karnataka,2123,kristan,kristan,manual_yes,caste
+2,karnataka,2124,kshatriya,arer,gpt,caste
+2,karnataka,2125,kshatriya,kshatriya,gpt,caste
+2,karnataka,2126,kshatriya,maratha,gpt,caste
+2,karnataka,2127,kshatriya,naik,gpt,caste
+2,karnataka,2128,kshatriya,pateear,gpt,caste
+2,karnataka,2129,kulubar,halamatha,gemini,caste
+2,karnataka,2130,kumbara,kum bara,gpt,caste
+2,karnataka,2131,kumbara,,gpt,caste
+2,karnataka,2132,kumrar,kulal,gemini,caste
+2,karnataka,2133,kurava,halamatha,gpt,caste
+2,karnataka,2134,kuruba,balagar,gpt,caste
+2,karnataka,2135,kuruba,durubar,gpt,caste
+2,karnataka,2136,kuruba,gangemata,gpt,caste
+2,karnataka,2137,kuruba,halabar,gpt,caste
+2,karnataka,2138,kuruba,halamatha,gpt,caste
+2,karnataka,2139,kuruba,halma,gpt,caste
+2,karnataka,2140,kuruba,kumbar,gpt,caste
+2,karnataka,2141,kuruba,panchamsali,gpt,caste
+2,karnataka,2142,kuruba,,gpt,caste
+2,karnataka,2143,lambani,lambani,gpt,caste
+2,karnataka,2144,lingayat,anchal,gpt,caste
+2,karnataka,2145,lingayat,badiger,gpt,caste
+2,karnataka,2146,lingayat,banagar,gpt,caste
+2,karnataka,2147,lingayat,banajiga,gpt,caste
+2,karnataka,2148,lingayat,brahman,gpt,caste
+2,karnataka,2149,lingayat,devanga,gpt,caste
+2,karnataka,2150,lingayat,gangemata,gpt,caste
+2,karnataka,2151,lingayat,ganiga,gpt,caste
+2,karnataka,2152,lingayat,ganti,gpt,caste
+2,karnataka,2153,lingayat,ghani,gpt,caste
+2,karnataka,2154,lingayat,godar,gpt,caste
+2,karnataka,2155,lingayat,gouda,gpt,caste
+2,karnataka,2156,lingayat,goudar,gpt,caste
+2,karnataka,2157,lingayat,gowda,gpt,caste
+2,karnataka,2158,lingayat,halamatha,gpt,caste
+2,karnataka,2159,lingayat,hugar,gpt,caste
+2,karnataka,2160,lingayat,jad,gpt,caste
+2,karnataka,2161,lingayat,jangama,gpt,caste
+2,karnataka,2162,lingayat,kambar,gpt,caste
+2,karnataka,2163,lingayat,kumar,gpt,caste
+2,karnataka,2164,lingayat,kumbar,gpt,caste
+2,karnataka,2165,lingayat,kumbara,gpt,caste
+2,karnataka,2166,lingayat,madiwal,gpt,caste
+2,karnataka,2167,lingayat,malagowda,gpt,caste
+2,karnataka,2168,lingayat,malgar,gpt,caste
+2,karnataka,2169,lingayat,mulla,gpt,caste
+2,karnataka,2170,lingayat,musugu,gpt,caste
+2,karnataka,2171,lingayat,nanabaur,gpt,caste
+2,karnataka,2172,lingayat,navi,gpt,caste
+2,karnataka,2173,lingayat,nonabaru,gpt,caste
+2,karnataka,2174,lingayat,okkaliga,gpt,caste
+2,karnataka,2175,lingayat,panachasil,gpt,caste
+2,karnataka,2176,lingayat,pancahnash,gpt,caste
+2,karnataka,2177,lingayat,panchalmali,gpt,caste
+2,karnataka,2178,lingayat,panchaluppar,gpt,caste
+2,karnataka,2179,lingayat,panchamsali,gpt,caste
+2,karnataka,2180,lingayat,panchan,gpt,caste
+2,karnataka,2181,lingayat,panchanan,gpt,caste
+2,karnataka,2182,lingayat,panchnaht,gpt,caste
+2,karnataka,2183,lingayat,pandhal,gpt,caste
+2,karnataka,2184,lingayat,pattar,gpt,caste
+2,karnataka,2179,lingayat,phangamasali,gpt,caste
+2,karnataka,2185,lingayat,punchal,gpt,caste
+2,karnataka,2186,lingayat,reddy,gpt,caste
+2,karnataka,2187,lingayat,sadaru,gpt,caste
+2,karnataka,2188,lingayat,sadujang,gpt,caste
+2,karnataka,2189,lingayat,saduran,gpt,caste
+2,karnataka,2190,lingayat,samagar,gpt,caste
+2,karnataka,2191,lingayat,samarta,gpt,caste
+2,karnataka,2192,lingayat,samrath,gpt,caste
+2,karnataka,2193,lingayat,setti,gpt,caste
+2,karnataka,2193,lingayat,sheety,gpt,caste
+2,karnataka,2193,lingayat,shetty,gpt,caste
+2,karnataka,2194,lingayat,shimpi,gpt,caste
+2,karnataka,2194,lingayat,simpi,gpt,caste
+2,karnataka,2195,lingayat,sindi,gpt,caste
+2,karnataka,2196,lingayat,songar,gpt,caste
+2,karnataka,2197,lingayat,sunagar,gpt,caste
+2,karnataka,2198,lingayat,swami,gpt,caste
+2,karnataka,2199,lingayat,veershaiva,gpt,caste
+2,karnataka,2200,lingayat,vokkaliga,gpt,caste
+2,karnataka,2201,maatauppar,kshatriya,manual_yes,caste
+2,karnataka,2202,madat,arer,,
+2,karnataka,2203,madat,lingayat,,
+2,karnataka,2204,madat,rear,,
+2,karnataka,2205,madduala,agasa,manual_yes,caste
+2,karnataka,2206,madevashashetty,agasa,manual_yes,caste
+2,karnataka,2207,madhivala,agasa,gpt,caste
+2,karnataka,2208,madiga,asalaru,gpt,caste
+2,karnataka,2209,madiga,hasalaru,gpt,caste
+2,karnataka,2210,madiga,kshatriya,gpt,caste
+2,karnataka,2211,madiga,madiga,gpt,caste
+2,karnataka,2212,madiga,talwar,gpt,caste
+2,karnataka,2213,madivala,agasa,gpt,caste
+2,karnataka,2214,madivalashetty,agasa,gemini,caste
+2,karnataka,2215,madiwal,agasa,gpt,caste
+2,karnataka,2216,mahali,bhandari,gpt,caste
+2,karnataka,2217,malagar,malgar,gemini,caste
+2,karnataka,2218,malakar,malakar,gpt,caste
+2,karnataka,2219,maleyali,idiga,manual_yes,caste
+2,karnataka,2220,malgar,malgar,manual_yes,caste
+2,karnataka,2221,marahovi,gangemata,manual_yes,caste
+2,karnataka,2222,maratha,adayr,gpt,caste
+2,karnataka,2223,maratha,araertha,gpt,caste
+2,karnataka,2224,maratha,arer,gpt,caste
+2,karnataka,2225,maratha,bailkamber,gpt,caste
+2,karnataka,2226,maratha,golla,gpt,caste
+2,karnataka,2227,maratha,kihyata,gpt,caste
+2,karnataka,2228,maratha,kshatriya,gpt,caste
+2,karnataka,2229,maratha,kunbi,gpt,caste
+2,karnataka,2230,maratha,maratha,gpt,caste
+2,karnataka,2231,maratha,shivaji,gpt,caste
+2,karnataka,2232,maratha,shivajiya,gpt,caste
+2,karnataka,2233,maratha,simpi,gpt,caste
+2,karnataka,2234,maratha,,gpt,caste
+2,karnataka,2235,maraya,arer,gemini,caste
+2,karnataka,2236,maraya,samrath,gemini,caste
+2,karnataka,2237,marivala,agasa,manual_yes,caste
+2,karnataka,2238,medar,madiga,gpt,caste
+2,karnataka,2239,medar,medar,gpt,caste
+2,karnataka,2240,medar,swetambar,gpt,caste
+2,karnataka,2241,muslim,byare,,
+2,karnataka,2242,muslim,medar,,
+2,karnataka,2243,muslim,mulla,,
+2,karnataka,2244,muslim,muslim,,
+2,karnataka,2245,muslim,nadaf,,
+2,karnataka,2246,muslim,nadag,,
+2,karnataka,2247,muslim,nadak,,
+2,karnataka,2248,muslim,nadar,,
+2,karnataka,2249,muslim,napae,,
+2,karnataka,2250,muslim,panchamsali,,
+2,karnataka,2251,muslim,pathan,,
+2,karnataka,2252,muslim,samrath,,
+2,karnataka,2253,muslim,sayed,,
+2,karnataka,2254,muslim,sheikh,,
+2,karnataka,2255,muslim,sunni,,
+2,karnataka,2256,muslim,swetambar,,
+2,karnataka,2257,muslim,swnnr,,
+2,karnataka,2258,muslim,wade,,
+2,karnataka,2259,muslim,,,
+2,karnataka,2260,nadar,nadar,gpt,caste
+2,karnataka,2261,nadavar,nadavar,gemini,caste
+2,karnataka,2262,naik,idiga,gemini,caste
+2,karnataka,2263,naik,naik,gemini,caste
+2,karnataka,2264,naik,namdari,gemini,caste
+2,karnataka,2265,namdari,naik,manual_yes,caste
+2,karnataka,2266,namdev,namdev,gpt,caste
+2,karnataka,2267,navi,hadapad,gpt,caste
+2,karnataka,2268,navi,navi,gpt,caste
+2,karnataka,2269,nayaka,naidu,gpt,caste
+2,karnataka,2270,nayaka,namdari,gpt,caste
+2,karnataka,2271,nayaka,nayak,gpt,caste
+2,karnataka,2272,nayaka,talwar,gpt,caste
+2,karnataka,2273,nayaka,valmiki,gpt,caste
+2,karnataka,2274,nayaka,,gpt,caste
+2,karnataka,2275,nayanakbhirya,bhandari,manual_yes,caste
+2,karnataka,2276,nayanakshathriyyan,naveda,gemini,caste
+2,karnataka,2277,nayankshatriya,barba r,manual_yes,caste
+2,karnataka,2278,naynakishthraja,hajama,manual_yes,caste
+2,karnataka,2279,palegara,najak,manual_yes,caste
+2,karnataka,2280,panchal,panchamsali,gpt,caste
+2,karnataka,2281,patidar,patidar,gpt,caste
+2,karnataka,2282,pinjar,pinjar,manual_yes,caste
+2,karnataka,2283,pinjar,,manual_yes,caste
+2,karnataka,2284,pujeri,pujari,,
+2,karnataka,2285,rajput,rajawan,gpt,caste
+2,karnataka,2286,rajput,rajput,gpt,caste
+2,karnataka,2287,rajput,singh,gpt,caste
+2,karnataka,2288,reddy,kamma,gpt,caste
+2,karnataka,2289,reddy,paknak,gpt,caste
+2,karnataka,2290,reddy,reddy,gpt,caste
+2,karnataka,2291,roman,catholic,manual_yes,caste
+2,karnataka,2292,romancatholik,catholic,manual_yes,caste
+2,karnataka,2293,s.siddaru,s.siddaru,,
+2,karnataka,2294,samagar,samagar,gemini,caste
+2,karnataka,2295,samagar,sampagar,gemini,caste
+2,karnataka,2296,samdigya,samdigya,manual_yes,caste
+2,karnataka,2297,shetty,banajiga,gemini,caste
+2,karnataka,2298,shetty,dayavagnabhramana,gemini,caste
+2,karnataka,2299,shetty,devanga,gemini,caste
+2,karnataka,2300,shetty,dyavagna,gemini,caste
+2,karnataka,2301,shetty,ganiga,gemini,caste
+2,karnataka,2302,shetty,kumbara,gemini,caste
+2,karnataka,2303,shetty,nadal,gemini,caste
+2,karnataka,2304,shetty,nadava,gemini,caste
+2,karnataka,2305,shetty,pujari,gemini,caste
+2,karnataka,2306,siddri,,manual_yes,caste
+2,karnataka,2307,sirian,,manual_yes,caste
+2,karnataka,2308,sudigadusiddha,sudigadusiddau,manual_yes,caste
+2,karnataka,2309,sunagar,sunagar,gemini,caste
+2,karnataka,2310,sunni,samrath,manual_yes,caste
+2,karnataka,2311,swamyagol,swamyagol,manual_yes,caste
+2,karnataka,2312,swnagar,swangar,manual_yes,caste
+2,karnataka,2313,tamilivas,gowndar,,
+2,karnataka,2314,tamilu,gowndar,manual_yes,caste
+2,karnataka,2315,telugu,telugu,,
+2,karnataka,2316,uddar,swetambar,manual_yes,caste
+2,karnataka,2317,uddar,uddar,manual_yes,caste
+2,karnataka,2318,uddar,uppalag,manual_yes,caste
+2,karnataka,2319,uddar,uppar,manual_yes,caste
+2,karnataka,2320,uppara,uppara,gpt,caste
+2,karnataka,2321,vaddaru,kalluvaddaru,gemini,caste
+2,karnataka,2322,valmiki,talwar,gpt,caste
+2,karnataka,2323,vddar,vadda,gemini,caste
+2,karnataka,2324,veershiv,jangama,gemini,caste
+2,karnataka,2325,vishwakarma,achari,gpt,caste
+2,karnataka,2326,vokkaliga,achar,gpt,caste
+2,karnataka,2327,vokkaliga,achari,gpt,caste
+2,karnataka,2328,vokkaliga,gangadkar,gpt,caste
+2,karnataka,2329,vokkaliga,gangatikar,gpt,caste
+2,karnataka,2330,vokkaliga,gowda,gpt,caste
+2,karnataka,2331,vokkaliga,kurubagowda,gpt,caste
+2,karnataka,2332,vokkaliga,musukagowda,gpt,caste
+2,karnataka,2333,vokkaliga,reddy,gpt,caste
+2,karnataka,2334,vokkaliga,vamdadi,gpt,caste
+2,karnataka,2335,vokkaliga,vishwakarma,gpt,caste
+2,karnataka,2336,wadar,vadda,gpt,caste
+2,karnataka,2337,waddar,wadda,gpt,caste
+2,karnataka,2338,waddar,waddar,gpt,caste
+2,karnataka,2339,waddar,wader,gpt,caste
+2,karnataka,2340,wadeyar,wadeyar,gemini,caste
+2,karnataka,2341,walikar,walikar,manual_yes,caste
+2,karnataka,2342,yadav,golla,gpt,caste
+2,karnataka,2343,yishas,sheety,manual_yes,caste
+2,karnataka,2344,others,,,
+3,maharashtra,3001,baniya,powar,gpt,caste
+3,maharashtra,3002,banjara,gormati,gpt,caste
+3,maharashtra,3003,bari,,gpt,caste
+3,maharashtra,3004,berad,,gpt,caste
+3,maharashtra,3005,bhoep,,,
+3,maharashtra,3006,brahman,brahman,gpt,caste
+3,maharashtra,3007,brahman,deshastha,gpt,caste
+3,maharashtra,3008,brahman,krushmapakshi,gpt,caste
+3,maharashtra,3009,brahman,mohabrahman,gpt,caste
+3,maharashtra,3010,brahman,pardesi,gpt,caste
+3,maharashtra,3011,buddha,,manual_yes,caste
+3,maharashtra,3012,burud,,gpt,caste
+3,maharashtra,3013,chambhar,pardesi,gpt,caste
+3,maharashtra,3014,chambhar,telangi,gpt,caste
+3,maharashtra,3015,chambhar,,gpt,caste
+3,maharashtra,3016,dhangar,hatkar,gpt,caste
+3,maharashtra,3017,dhangar,shegar,gpt,caste
+3,maharashtra,3018,dhangar,,gpt,caste
+3,maharashtra,3019,dhiwar,bendor,gpt,caste
+3,maharashtra,3020,dhiwar,bhahare,gpt,caste
+3,maharashtra,3021,dhiwar,bhanare,gpt,caste
+3,maharashtra,3022,dhiwar,bhandare,gpt,caste
+3,maharashtra,3023,dhiwar,zade,gpt,caste
+3,maharashtra,3024,dhiwar,,gpt,caste
+3,maharashtra,3025,dhobi,dhobi,gpt,caste
+3,maharashtra,3026,dhobi,,gpt,caste
+3,maharashtra,3027,dombari,,gpt,caste
+3,maharashtra,3028,gandali,telangi,,
+3,maharashtra,3029,gandali,,,
+3,maharashtra,3030,gavali,hanwar,gpt,caste
+3,maharashtra,3031,gavali,krishna,gpt,caste
+3,maharashtra,3032,gavali,kurshna,gpt,caste
+3,maharashtra,3033,gavali,nand,gpt,caste
+3,maharashtra,3034,gavali,,gpt,caste
+3,maharashtra,3035,golkar,,,
+3,maharashtra,3036,gond,gavani,gpt,caste
+3,maharashtra,3037,gond,mana,gpt,caste
+3,maharashtra,3038,gond,naikepade,gpt,caste
+3,maharashtra,3039,gond,rajgond,gpt,caste
+3,maharashtra,3040,gond,satdeve,gpt,caste
+3,maharashtra,3041,gond,shahdeve,gpt,caste
+3,maharashtra,3042,gond,,gpt,caste
+3,maharashtra,3043,govind,,manual_yes,caste
+3,maharashtra,3044,gowari,adiwasi,gpt,caste
+3,maharashtra,3045,gowari,bawne,gpt,caste
+3,maharashtra,3046,gowari,bhanare,gpt,caste
+3,maharashtra,3047,gowari,dhudha,gpt,caste
+3,maharashtra,3048,gowari,dudhgonari,gpt,caste
+3,maharashtra,3049,gowari,dudhgowali,gpt,caste
+3,maharashtra,3050,gowari,gadilohar,gpt,caste
+3,maharashtra,3051,gowari,gowari,gpt,caste
+3,maharashtra,3052,gowari,kasu,gpt,caste
+3,maharashtra,3053,gowari,,gpt,caste
+3,maharashtra,3054,gurav,gurav,gpt,caste
+3,maharashtra,3055,gurav,,gpt,caste
+3,maharashtra,3056,hanber,,manual_yes,caste
+3,maharashtra,3057,holar,,gemini,caste
+3,maharashtra,3058,holi,,,
+3,maharashtra,3059,jain,digambar,,
+3,maharashtra,3060,jain,gurjar,,
+3,maharashtra,3061,jain,swetambar,,
+3,maharashtra,3062,jain,,,
+3,maharashtra,3063,kaikadi,,gpt,caste
+3,maharashtra,3064,kalar,jain,gpt,caste
+3,maharashtra,3065,kalar,jainkalar,gpt,caste
+3,maharashtra,3066,kalar,kalar,gpt,caste
+3,maharashtra,3067,kalar,zade,gpt,caste
+3,maharashtra,3068,karvi,,,
+3,maharashtra,3069,kohali,bhelikhaye,,
+3,maharashtra,3070,kolam,,gpt,caste
+3,maharashtra,3071,koli,mahadevkoli,gpt,caste
+3,maharashtra,3072,koli,malharkoli,gpt,caste
+3,maharashtra,3073,koli,,gpt,caste
+3,maharashtra,3074,korku,korku,gpt,caste
+3,maharashtra,3075,korku,,gpt,caste
+3,maharashtra,3076,koshti,garewal,gpt,caste
+3,maharashtra,3077,koshti,kalba,gpt,caste
+3,maharashtra,3078,koshti,,gpt,caste
+3,maharashtra,3079,kumbi,khaire,gpt,caste
+3,maharashtra,3080,kumbi,khedule,gpt,caste
+3,maharashtra,3081,kumhar,kumbhar,gpt,caste
+3,maharashtra,3082,kumhar,rane,gpt,caste
+3,maharashtra,3083,kumhar,,gpt,caste
+3,maharashtra,3084,kunbi,bawne,gpt,caste
+3,maharashtra,3085,kunbi,dobaile,gpt,caste
+3,maharashtra,3086,kunbi,garewal,gpt,caste
+3,maharashtra,3087,kunbi,khaire,gpt,caste
+3,maharashtra,3088,kunbi,khedule,gpt,caste
+3,maharashtra,3089,kunbi,mana,gpt,caste
+3,maharashtra,3090,kunbi,padimshali,gpt,caste
+3,maharashtra,3091,kunbi,rane,gpt,caste
+3,maharashtra,3092,kunbi,tirele,gpt,caste
+3,maharashtra,3093,kunbi,zade,gpt,caste
+3,maharashtra,3094,kunbi,,gpt,caste
+3,maharashtra,3095,laman,,gpt,caste
+3,maharashtra,3096,lingayat,chaturth,gpt,caste
+3,maharashtra,3097,lingayat,navi,gpt,caste
+3,maharashtra,3098,lingayat,pancham,gpt,caste
+3,maharashtra,3099,lingayat,wani,gpt,caste
+3,maharashtra,3100,lingayat,,gpt,caste
+3,maharashtra,3101,lodhi,chatri,gpt,caste
+3,maharashtra,3102,lodhi,jagade,gpt,caste
+3,maharashtra,3103,lodhi,jangade,gpt,caste
+3,maharashtra,3104,lodhi,,gpt,caste
+3,maharashtra,3105,lohar,chatri,gpt,caste
+3,maharashtra,3106,lohar,gadilohar,gpt,caste
+3,maharashtra,3107,lohar,jagade,gpt,caste
+3,maharashtra,3108,lohar,panchal,gpt,caste
+3,maharashtra,3109,lohar,wadhai,gpt,caste
+3,maharashtra,3110,lohar,,gpt,caste
+3,maharashtra,3111,mahar,barke,gpt,caste
+3,maharashtra,3112,mahar,bawne,gpt,caste
+3,maharashtra,3113,mahar,bhale,gpt,caste
+3,maharashtra,3114,mahar,kosare,gpt,caste
+3,maharashtra,3115,mahar,mahar,gpt,caste
+3,maharashtra,3116,mahar,,gpt,caste
+3,maharashtra,3117,mali,kosare,gpt,caste
+3,maharashtra,3118,mali,mali,gpt,caste
+3,maharashtra,3119,mali,phulmali,gpt,caste
+3,maharashtra,3120,mali,thakur,gpt,caste
+3,maharashtra,3121,mali,zade,gpt,caste
+3,maharashtra,3122,mali,,gpt,caste
+3,maharashtra,3123,mana,gadilohar,gpt,caste
+3,maharashtra,3124,mana,mana,gpt,caste
+3,maharashtra,3125,mana,,gpt,caste
+3,maharashtra,3126,mang,,gpt,caste
+3,maharashtra,3127,manne,,manual_yes,caste
+3,maharashtra,3128,maratha,chaturth,gpt,caste
+3,maharashtra,3129,maratha,kunbi,gpt,caste
+3,maharashtra,3130,maratha,mali,gpt,caste
+3,maharashtra,3131,maratha,maratha,gpt,caste
+3,maharashtra,3132,maratha,shegar,gpt,caste
+3,maharashtra,3133,maratha,,gpt,caste
+3,maharashtra,3134,marwadi,,,
+3,maharashtra,3135,matang,matang,gpt,caste
+3,maharashtra,3136,matang,shegar,gpt,caste
+3,maharashtra,3137,matang,,gpt,caste
+3,maharashtra,3138,mavi,powar,manual_yes,caste
+3,maharashtra,3139,muslim,muslim,,
+3,maharashtra,3140,muslim,sayed,,
+3,maharashtra,3141,muslim,shaikh,,
+3,maharashtra,3142,muslim,,,
+3,maharashtra,3143,nathjogi,,gpt,caste
+3,maharashtra,3144,nhavi,zade,gpt,caste
+3,maharashtra,3145,nhavi,,gpt,caste
+3,maharashtra,3146,panchal,chaturth,gpt,caste
+3,maharashtra,3147,panchal,sutar,gpt,caste
+3,maharashtra,3148,pardesi,chatri,,
+3,maharashtra,3149,pardi,pardi,gpt,caste
+3,maharashtra,3150,parit,parit,gpt,caste
+3,maharashtra,3151,parit,,gpt,caste
+3,maharashtra,3152,pathan,,manual_yes,caste
+3,maharashtra,3153,pawar,chatri,gpt,caste
+3,maharashtra,3154,pinjara,,gpt,caste
+3,maharashtra,3155,powar,powar,gpt,caste
+3,maharashtra,3156,powar,,gpt,caste
+3,maharashtra,3157,pradhan,,manual_yes,caste
+3,maharashtra,3158,rajput,bhamta,gpt,caste
+3,maharashtra,3159,rajput,rajput,gpt,caste
+3,maharashtra,3160,ramoshi,,gpt,caste
+3,maharashtra,3161,sayed,,,
+3,maharashtra,3162,shikaghar,,manual_yes,caste
+3,maharashtra,3163,shimpi,namdev,gpt,caste
+3,maharashtra,3164,shimpi,shimpi,gpt,caste
+3,maharashtra,3165,sonar,chatri,gpt,caste
+3,maharashtra,3166,sonar,maratha,gpt,caste
+3,maharashtra,3167,sonar,zade,gpt,caste
+3,maharashtra,3168,sonar,,gpt,caste
+3,maharashtra,3169,sutar,loharsutar,gpt,caste
+3,maharashtra,3170,sutar,panchal,gpt,caste
+3,maharashtra,3171,sutar,sutar,gpt,caste
+3,maharashtra,3172,sutar,zade,gpt,caste
+3,maharashtra,3173,sutar,,gpt,caste
+3,maharashtra,3174,teli,baile,gpt,caste
+3,maharashtra,3175,teli,bawne,gpt,caste
+3,maharashtra,3176,teli,dobaile,gpt,caste
+3,maharashtra,3177,teli,ekbaile,gpt,caste
+3,maharashtra,3178,teli,jainkala r,gpt,caste
+3,maharashtra,3179,teli,kosare,gpt,caste
+3,maharashtra,3180,teli,,gpt,caste
+3,maharashtra,3181,vani,,gemini,caste
+3,maharashtra,3182,wadar,,gpt,caste
+3,maharashtra,3183,wadhi,,manual_yes,caste
+3,maharashtra,3184,wami,,manual_yes,caste
+3,maharashtra,3185,wathi,,,
+4,gujarat,4001,ahir,soratha,gpt,caste
+4,gujarat,4002,ahir,,gpt,caste
+4,gujarat,4003,ansari,,gpt,caste
+4,gujarat,4004,anvil brahmin,,,
+4,gujarat,4005,atit bayaji,bakshi panch,manual_yes,caste
+4,gujarat,4006,bajaniya,,manual_yes,caste
+4,gujarat,4007,bajir,,manual_yes,caste
+4,gujarat,4008,bakshi,,manual_yes,caste
+4,gujarat,4009,bakshi panch,barot,manual_no,caste
+4,gujarat,4010,bakshi panch,bavaji,manual_no,caste
+4,gujarat,4011,bakshi panch,nodi,manual_no,caste
+4,gujarat,4012,bakshi panch,sameja,manual_no,caste
+4,gujarat,4013,bakshi panch,vanand,manual_no,caste
+4,gujarat,4014,bakshi panch,,manual_no,caste
+4,gujarat,4015,baphan,,,
+4,gujarat,4016,bauliya,,manual_yes,caste
+4,gujarat,4017,bavaji,gosawmi,,
+4,guja rat,4018,bavaji,nath,,
+4,gujarat,4019,bavaji,nimavat,,
+4,gujarat,4020,bavaji,,,
+4,gujarat,4021,bawa,bakshi panch,,
+4,gujarat,4022,bawa,,,
+4,gujarat,4023,bawaji,bakshi panch,,
+4,gujarat,4024,bawaji,gosawmi,,
+4,gujarat,4025,bhajir,,,
+4,gujarat,4026,bhakta,,,
+4,gujarat,4027,bhangi,bakshi panch,gpt,caste
+4,gujarat,4028,bhangi,,gpt,caste
+4,gujarat,4029,bhanushail,kachhi,,
+4,gujarat,4030,bharvad,chotabhai,gpt,caste
+4,gujarat,4031,bharvad,goltar,gpt,caste
+4,gujarat,4032,bharvad,lakha,gpt,caste
+4,gujarat,4033,bharvad,mota bhai,gpt,caste
+4,gujarat,4034,bharvad,,gpt,caste
+4,gujarat,4035,bhatti,,gemini,caste
+4,gujarat,4036,bhil,,gpt,caste
+4,gujarat,4037,brahmin,adhit,manual_no,caste
+4,gujarat,4038,brahmin,bakshi panch,manual_no,caste
+4,gujarat,4039,brahmin,gosawmi,manual_no,caste
+4,gujarat,4040,brahmin,kutchhi,manual_no,caste
+4,gujarat,4041,brahmin,nayak,manual_no,caste
+4,gujarat,4042,brahmin,prajapati,manual_no,caste
+4,gujarat,4043,brahmin,pujari,manual_no,caste
+4,gujarat,4044,brahmin,rajgor,manual_no,caste
+4,gujarat,4045,brahmin,saraswati,manual_no,caste
+4,gujarat,4046,brahmin,swami,manual_no,caste
+4,gujarat,4047,brahmin,tapodhan,manual_no,caste
+4,gujarat,4048,brahmin,thakur,manual_no,caste
+4,gujarat,4049,brahmin,vishva s,manual_no,caste
+4,gujarat,4050,brahmin,,manual_no,caste
+4,gujarat,4051,brahmin,,manual_no,caste
+4,gujarat,4052,chake,,manual_yes,caste
+4,gujarat,4053,chamar,kholi,gpt,caste
+4,gujarat,4054,chamar,parmar,gpt,caste
+4,gujarat,4055,chamar,,gpt,caste
+4,gujarat,4056,choudhari,,manual_yes,caste
+4,gujarat,4057,chunara,,gpt,caste
+4,gujarat,4058,darbar,garasiya,gemini,caste
+4,gujarat,4059,darbar,kathi,gemini,caste
+4,gujarat,4060,darbar,kholi,gemini,caste
+4,gujarat,4061,darbar,rajput,gemini,caste
+4,gujarat,4062,darbar,,gemini,caste
+4,gujarat,4063,darji,modh,gpt,caste
+4,gujarat,4064,darji,,gpt,caste
+4,gujarat,4065,dasnami vawa,gira,manual_yes,caste
+4,gujarat,4066,devipujak,,gpt,caste
+4,gujarat,4067,dhobi,,gpt,caste
+4,gujarat,4068,dhodia patel,,gpt,caste
+4,gujarat,4069,dhoka,,manual_yes,caste
+4,gujarat,4070,gadhavi,brahmin,gemini,caste
+4,gujarat,4071,gadhavi,maru,gemini,caste
+4,gujarat,4072,galiara,makavana,manual_yes,caste
+4,gujarat,4073,gamit,,gpt,caste
+4,gujarat,4074,garoda,bakshi panch,gemini,caste
+4,guja rat,4075,gaur,brahmin,gemini,caste
+4,gujarat,4076,gaur,,gemini,caste
+4,gujarat,4077,goai,,manual_yes,caste
+4,gujarat,4078,gohil,,gemini,caste
+4,gujarat,4079,goswami,vairagi,gemini,caste
+4,gujarat,4080,gujara,gohil,gpt,caste
+4,gujarat,4081,gujara,jadav,gpt,caste
+4,gujarat,4082,gujara,maheshwari,gpt,caste
+4,gujarat,4083,gujara,parmar,gpt,caste
+4,gujarat,4084,gujara,,gpt,caste
+4,gujarat,4085,hajam,vankar,gpt,caste
+4,gujarat,4086,halpati,,gpt,caste
+4,gujarat,4087,harijan,bakshi panch,manual_yes,caste
+4,gujarat,4088,harijan,chamar,manual_yes,caste
+4,gujarat,4089,harijan,jadav,manual_yes,caste
+4,gujarat,4090,harijan,marvadi,manual_yes,caste
+4,gujarat,4091,harijan,parmar,manual_yes,caste
+4,gujarat,4092,harijan,vankar,manual_yes,caste
+4,gujarat,4093,harijan,,manual_yes,caste
+4,gujarat,4094,hindu halpati,,gpt,caste
+4,gujarat,4095,hindu kumbhar,maru,gpt,caste
+4,gujarat,4096,hindu kumbhar,,gpt,caste
+4,gujarat,4097,jadeja,darbar,gemini,caste
+4,gujarat,4098,jain,pitambar,,
+4,gujarat,4099,jat,bhatti,gpt,caste
+4,gujarat,4100,jat,,gpt,caste
+4,gujarat,4101,kadwa,,gemini,caste
+4,gujarat,4102,kalaria,,gemini,caste
+4,gujarat,4103,kathlik,,,
+4,gujarat,4104,kever,,manual_yes,caste
+4,gujarat,4105,khalifa,,manual_yes,caste
+4,gujarat,4106,khodi,suvadiya,manual_yes,caste
+4,gujarat,4107,khodi,,manual_yes,caste
+4,gujarat,4108,kohli,patel,gpt,caste
+4,gujarat,4109,kohli,soratha,gpt,caste
+4,gujarat,4110,kohli,suvadiya,gpt,caste
+4,gujarat,4111,kohli,talpada,gpt,caste
+4,gujarat,4112,kohli,,gpt,caste
+4,gujarat,4113,kotvaliya,,gemini,caste
+4,gujarat,4114,kshatriya,chauhan,gpt,caste
+4,gujarat,4115,kshatriya,parmar,gpt,caste
+4,gujarat,4116,kshatriya,rathod,gpt,caste
+4,gujarat,4117,kshatriya,thakur,gpt,caste
+4,gujarat,4118,kshatriya,,gpt,caste
+4,gujarat,4119,kumbhar,bhalgama,gpt,caste
+4,gujarat,4120,kumbhar,prajapati,gpt,caste
+4,gujarat,4121,kumbhar,,gpt,caste
+4,gujarat,4122,lohana,kutchhi,gpt,caste
+4,gujarat,4123,lohana,thakur,gpt,caste
+4,gujarat,4124,lohana,,gpt,caste
+4,gujarat,4125,lohar,bakshi panch,gpt,caste
+4,gujarat,4126,lohar,gohil,gpt,caste
+4,gujarat,4127,lohar,panchai,gpt,caste
+4,gujarat,4128,lohar,,gpt,caste
+4,gujarat,4129,mahar,leva,gpt,caste
+4,gujarat,4130,mahar,,gpt,caste
+4,gujarat,4131,mahiyavanshi,,gpt,caste
+4,gujarat,4132,maisurba,vanand,manual_yes,caste
+4,gujarat,4133,maiya darbar,phdheriya,manual_yes,caste
+4,gujarat,4134,makvana,,gemini,caste
+4,gujarat,4135,maldhari,kholi,gemini,caste
+4,gujarat,4136,maldhari,rabari,gemini,caste
+4,gujarat,4137,maldhari,,gemini,caste
+4,gujarat,4138,malik,sayyad,manual_yes,caste
+4,gujarat,4139,malik,vajir,manual_yes,caste
+4,gujarat,4140,malik,,manual_yes,caste
+4,gujarat,4141,malwana,,manual_yes,caste
+4,gujarat,4142,mansur,,manual_yes,caste
+4,gujarat,4143,maratha,karadiya,gpt,caste
+4,gujarat,4144,maratha,rathod,gpt,caste
+4,gujarat,4145,maratha,,gpt,caste
+4,gujarat,4146,mavadi,,manual_yes,caste
+4,gujarat,4147,mayka,,manual_yes,caste
+4,gujarat,4148,mer,,gpt,caste
+4,gujarat,4149,mistri,varu,manual_yes,caste
+4,gujarat,4150,mistri,,manual_yes,caste
+4,gujarat,4151,mochi,,gpt,caste
+4,gujarat,4152,momin,,gemini,caste
+4,gujarat,4153,nat,,gpt,caste
+4,gujarat,4154,natiar,,manual_yes,caste
+4,gujarat,4155,nayak,bhavana,gpt,caste
+4,gujarat,4156,nayak,rathod,gpt,caste
+4,gujarat,4157,nayak,,gpt,caste
+4,gujarat,4158,nepal,,manual_yes,caste
+4,gujarat,4159,nishad,kevad,gpt,caste
+4,gujarat,4160,nishad,machi,gpt,caste
+4,gujarat,4161,panchal,,gpt,caste
+4,gujarat,4162,pandya,,manual_yes,caste
+4,gujarat,4163,pardhi,,gpt,caste
+4,gujarat,4164,parjiyat,,manual_yes,caste
+4,gujarat,4165,parmar,chamar,gemini,caste
+4,gujarat,4166,parmar,darji,gemini,caste
+4,gujarat,4167,parmar,,gemini,caste
+4,guja rat,4168,patel,khodi,gemini,caste
+4,gujarat,4169,patel,leuva,gemini,caste
+4,gujarat,4170,patel,leva,gemini,caste
+4,gujarat,4171,patel,kadav,gemini,caste
+4,gujarat,4172,patel,karadiya,gemini,caste
+4,gujarat,4173,patel,,gemini,caste
+4,gujarat,4174,pathan,,manual_yes,caste
+4,gujarat,4175,patil,leva,gemini,caste
+4,gujarat,4176,patil,kadva,gemini,caste
+4,gujarat,4177,patil,karadiya,gemini,caste
+4,gujarat,4178,patil,,gemini,caste
+4,gujarat,4179,pinjara,bakshi panch,gpt,caste
+4,gujarat,4180,pinjara,,gpt,caste
+4,gujarat,4181,prajapati,bhalgama,gpt,caste
+4,gujarat,4182,prajapati,patadiya,gpt,caste
+4,gujarat,4183,prajapati,,gpt,caste
+4,gujarat,4184,rabari,bakshi panch,gpt,caste
+4,gujarat,4185,rabari,gujjar,gpt,caste
+4,gujarat,4186,rabari,rayaka,gpt,caste
+4,gujarat,4187,rabari,,gpt,caste
+4,gujarat,4188,rajput,bhalaiya,gpt,caste
+4,gujarat,4189,rajput,chauhan,gpt,caste
+4,gujarat,4190,rajput,jadav,gpt,caste
+4,gujarat,4191,rajput,khodi,gpt,caste
+4,gujarat,4192,rajput,leva,gpt,caste
+4,gujarat,4193,rajput,nadoda,gpt,caste
+4,gujarat,4194,rajput,parmar,gpt,caste
+4,gujarat,4195,rajput,rathvi,gpt,caste
+4,gujarat,4196,rajput,vaghela,gpt,caste
+4,gujarat,4197,rajput,karadiya,gpt,caste
+4,gujarat,4198,rajput,,gpt,caste
+4,gujarat,4199,rathod,,gpt,caste
+4,gujarat,4200,rathwa,kholi,gpt,caste
+4,gujarat,4201,rathwa,tadvi,gpt,caste
+4,gujarat,4202,raval,,gemini,caste
+4,gujarat,4203,sadhu,,,
+4,gujarat,4204,sadhu,,,
+4,gujarat,4205,sadhu,,,
+4,gujarat,4206,saha,,gemini,caste
+4,gujarat,4207,sama,,manual_yes,caste
+4,gujarat,4208,samma,,gemini,caste
+4,gujarat,4209,sanghar,,manual_yes,caste
+4,gujarat,4210,sanghi,,manual_yes,caste
+4,gujarat,4211,sathawara,dalyadi,gemini,caste
+4,gujarat,4212,sathawara,kholi,gemini,caste
+4,gujarat,4213,sathawara,,gemini,caste
+4,gujarat,4214,sheikh,,manual_yes,caste
+4,gujarat,4215,shipai,juneja,,
+4,gujarat,4216,shipai,,,
+4,gujarat,4217,shuthar,bakshi panch,gpt,caste
+4,gujarat,4218,shuthar,kadva,gpt,caste
+4,gujarat,4219,siddiqui,,manual_yes,caste
+4,gujarat,4220,ochra brahmin,,,
+4,gujarat,4221,solanki,,gpt,caste
+4,gujarat,4222,soni,prajapati,gpt,caste
+4,gujarat,4223,soni,kansar,gpt,caste
+4,gujarat,4224,soni,parajiyat,gpt,caste
+4,gujarat,4225,soni,,gpt,caste
+4,gujarat,4226,srimani,,manual_yes,caste
+4,gujarat,4227,suthar,kumbhar,gpt,caste
+4,gujarat,4228,suthar,marvadi,gpt,caste
+4,gujarat,4229,suthar,,gpt,caste
+4,gujarat,4230,suthar,,gpt,caste
+4,gujarat,4231,tadvi,,gpt,caste
+4,gujarat,4232,tailor,,,
+4,gujarat,4233,taldada,devipujak,manual_yes,caste
+4,gujarat,4234,taldada,kholi,manual_yes,caste
+4,gujarat,4235,taldada,,manual_yes,caste
+4,gujarat,4236,thakarda,,gemini,caste
+4,gujarat,4237,thakur,,gemini,caste
+4,gujarat,4238,tholiya,,gemini,caste
+4,gujarat,4239,vadi,,manual_yes,caste
+4,gujarat,4240,vaghari,devipujak,gpt,caste
+4,gujarat,4241,vaghari,kholi,gpt,caste
+4,gujarat,4242,vaghari,,gpt,caste
+4,gujarat,4243,vaghela,,gemini,caste
+4,gujarat,4244,va irangi bawa,,,
+4,gujarat,4245,vaisnav,,manual_yes,caste
+4,gujarat,4246,vanad,odhaviya,manual_yes,caste
+4,gujarat,4247,vanad,,manual_yes,caste
+4,gujarat,4248,vanakar,bakshi panch,gemini,caste
+4,gujarat,4249,vanakar,mota bhai,gemini,caste
+4,gujarat,4250,vanakar,,gemini,caste
+4,gujarat,4251,vanand,bakshi panch,,
+4,gujarat,4252,vanand,chokh,,
+4,gujarat,4253,vanand,maheshwari,,
+4,gujarat,4254,vanand,soratha,,
+4,gujarat,4255,vanand,,,
+4,gujarat,4256,vanandvas,,,
+4,gujarat,4257,vania,maheshwari,gpt,caste
+4,gujarat,4258,vania,vaisnav,gpt,caste
+4,gujarat,4259,vania,,gpt,caste
+4,gujarat,4260,vora,,gemini,caste
+4,gujarat,4261,vyash,brahmin,,
+4,gujarat,4262,waghri,,gpt,caste
+4,gujarat,4263,,babariya,,
+4,gujarat,4264,,bhajir,,
+4,gujarat,4265,,kumbhar,,
+4,gujarat,4267,,lakha,,
+4,gujarat,4268,,nodi,,
+4,gujarat,4269,,pinjara,,
+4,gujarat,4270,,sama,,
+4,gujarat,4271,,tholiya,,
+4,gujarat,4272,,khalifa,,
+4,gujarat,4273,,shoda,,
+5,madhya pradesh,5001,adiwasi,bhilala,gpt,caste
+5,madhya pradesh,5002,adiwasi,khan,gpt,caste
+5,madhya pradesh,5003,ahir,aske,gpt,caste
+5,madhya pradesh,5004,ahir,bagde,gpt,caste
+5,madhya pradesh,5005,ahir,jamre,gpt,caste
+5,madhya pradesh,5006,ahir,khanna,gpt,caste
+5,madhya pradesh,5007,ahir,lalharia,gpt,caste
+5,madhya pradesh,5008,ahir,narnavre,gpt,caste
+5,madhya pradesh,5009,ahir,sonwani,gpt,caste
+5,madhya pradesh,5010,ahir,wanjare,gpt,caste
+5,madhya pradesh,5011,ahir,yadav,gpt,caste
+5,madhya pradesh,5012,badhai,,manual_no,caste
+5,madhya pradesh,5013,baniya,asrati,gpt,caste
+5,madhya pradesh,5014,baniya,gupta,gpt,caste
+5,madhya pradesh,5015,baniya,keshrwani,gpt,caste
+5,madhya pradesh,5016,baniya,khandel,gpt,caste
+5,madhya pradesh,5017,baniya,sahu,gpt,caste
+5,madhya pradesh,5018,banjara,chadawa,gpt,caste
+5,madhya pradesh,5019,banjara,chandwar,gpt,caste
+5,madhya pradesh,5020,banjara,khan,gpt,caste
+5,madhya pradesh,5021,banjara,rathor,gpt,caste
+5,madhya pradesh,5022,banjara,,gpt,caste
+5,madhya pradesh,5023,barhai,malvia,gpt,caste
+5,madhya pradesh,5024,barhai,sharma,gpt,caste
+5,madhya pradesh,5025,barhai,vishwakarma,gpt,caste
+5,madhya pradesh,5026,bashor,bansal,gemini,caste
+5,madhya pradesh,5027,bashor,basor,gemini,caste
+5,madhya pradesh,5028,bashor,,gemini,caste
+5,madhya pradesh,5029,beldar,bhati,gpt,caste
+5,madhya pradesh,5030,beldar,tawar,gpt,caste
+5,madhya pradesh,5031,bharud,dhangar,manual_yes,caste
+5,madhya pradesh,5032,bharud,dhankar,manual_yes,caste
+5,madhya pradesh,5033,bharud,yadav,manual_yes,caste
+5,madhya pradesh,5034,bhilala,akoliya,gpt,caste
+5,madhya pradesh,5035,bhilala,aske,gpt,caste
+5,madhya pradesh,5036,bhilala,awase,gpt,caste
+5,madhya pradesh,5037,bhilala,baddle,gpt,caste
+5,madhya pradesh,5038,bhilala,baghel,gpt,caste
+5,madhya pradesh,5039,bhilala,bakauley,gpt,caste
+5,madhya pradesh,5040,bhilala,balkey,gpt,caste
+5,madhya pradesh,5041,bhilala,bhage,gpt,caste
+5,madhya pradesh,5042,bhilala,bhel,gpt,caste
+5,madhya pradesh,5043,bhilala,bhew,gpt,caste
+5,madhya pradesh,5044,bhilala,bhuriya,gpt,caste
+5,madhya pradesh,5045,bhilala,chauhan,gpt,caste
+5,madhya pradesh,5046,bhilala,chongar,gpt,caste
+5,madhya pradesh,5047,bhilala,damar,gpt,caste
+5,madhya pradesh,5048,bhilala,darbar,gpt,caste
+5,madhya pradesh,5049,bhilala,dhile,gpt,caste
+5,madhya pradesh,5050,bhilala,dodwal,gpt,caste
+5,madhya pradesh,5051,bhilala,dorwar,gpt,caste
+5,madhya pradesh,5052,bhilala,dwar,gpt,caste
+5,madhya pradesh,5053,bhilala,gangwal,gpt,caste
+5,madhya pradesh,5054,bhilala,gore,gpt,caste
+5,madhya pradesh,5055,bhilala,gwale,gpt,caste
+5,madhya pradesh,5056,bhilala,jamre,gpt,caste
+5,madhya pradesh,5057,bhilala,jhhila,gpt,caste
+5,madhya pradesh,5058,bhilala,jilve,gpt,caste
+5,madhya pradesh,5059,bhilala,kanashe,gpt,caste
+5,madhya pradesh,5060,bhilala,khanna,gpt,caste
+5,madhya pradesh,5061,bhilala,kharte,gpt,caste
+5,madhya pradesh,5062,bhilala,khatiya,gpt,caste
+5,madhya pradesh,5063,bhilala,kolh,gpt,caste
+5,madhya pradesh,5064,bhilala,kushwaha,gpt,caste
+5,madhya pradesh,5065,bhilala,malvia,gpt,caste
+5,madhya pradesh,5066,bhilala,mandoli,gpt,caste
+5,madhya pradesh,5067,bhilala,mankoli,gpt,caste
+5,madhya pradesh,5068,bhilala,mori,gpt,caste
+5,madhya pradesh,5069,bhilala,mozalda,gpt,caste
+5,madhya pradesh,5070,bhilala,mudalje,gpt,caste
+5,madhya pradesh,5071,bhilala,mukatib,gpt,caste
+5,madhya pradesh,5072,bhilala,nargave,gpt,caste
+5,madhya pradesh,5073,bhilala,nargesh,gpt,caste
+5,madhya pradesh,5074,bhilala,nihal,gpt,caste
+5,madhya pradesh,5075,bhilala,ningwal,gpt,caste
+5,madhya pradesh,5076,bhilala,rathor,gpt,caste
+5,madhya pradesh,5077,bhilala,rawat,gpt,caste
+5,madhya pradesh,5078,bhilala,romdade,gpt,caste
+5,madhya pradesh,5079,bhilala,saitey,gpt,caste
+5,madhya pradesh,5080,bhilala,setia,gpt,caste
+5,madhya pradesh,5081,bhilala,shaite,gpt,caste
+5,madhya pradesh,5082,bhilala,solanki,gpt,caste
+5,madhya pradesh,5083,bhila la,sonar,gemini,caste
+5,madhya pradesh,5084,bhilala,tadwla,gpt,caste
+5,madhya pradesh,5085,bhilala,varman,gpt,caste
+5,madhya pradesh,5086,bhilala,wage,gpt,caste
+5,madhya pradesh,5087,bhilala,waskale,gpt,caste
+5,madhya pradesh,5088,bhilala,yadav,gpt,caste
+5,madhya pradesh,5089,bhilala,,gpt,caste
+5,madhya pradesh,5090,bhujwa,verma,manual_yes,caste
+5,madhya pradesh,5091,binjwar,meshram,gpt,caste
+5,madhya pradesh,5092,brahman,besnab,gpt,caste
+5,madhya pradesh,5093,brahman,bhargav,gpt,caste
+5,madhya pradesh,5094,brahman,chaturvedi,gpt,caste
+5,madhya pradesh,5095,brahman,dixit,gpt,caste
+5,madhya pradesh,5096,brahman,dwivedi,gpt,caste
+5,madhya pradesh,5097,brahman,mishra,gpt,caste
+5,madhya pradesh,5098,brahman,pandey,gpt,caste
+5,madhya pradesh,5099,brahman,sharma,gpt,caste
+5,madhya pradesh,5100,brahman,shukla,gpt,caste
+5,madhya pradesh,5101,brahman,tiwari,gpt,caste
+5,madhya pradesh,5102,brahman,tripathi,gpt,caste
+5,madhya pradesh,5103,brahman,trivedi,gpt,caste
+5,madhya pradesh,5104,brahman,upadhyay,gpt,caste
+5,madhya pradesh,5105,brahman,vaishnav,gpt,caste
+5,madhya pradesh,5106,brahman,vyas,gpt,caste
+5,madhya pradesh,5107,chamar,ahirwar,gpt,caste
+5,madhya pradesh,5108,chamar,baalai,gpt,caste
+5,madhya pradesh,5109,chamar,bakauley,gpt,caste
+5,madhya pradesh,5110,chamar,balai,gpt,caste
+5,madhya pradesh,5111,chamar,banjara,gpt,caste
+5,madhya pradesh,5112,chamar,basor,gpt,caste
+5,madhya pradesh,5113,chamar,bhalse,gpt,caste
+5,madhya pradesh,5114,chamar,borkar,gpt,caste
+5,madhya pradesh,5115,chamar,chauhan,gpt,caste
+5,madhya pradesh,5116,chamar,choudhary,gpt,caste
+5,madhya pradesh,5117,chamar,fune,gpt,caste
+5,madhya pradesh,5118,chamar,garg,gpt,caste
+5,madhya pradesh,5119,chamar,kanoji,gpt,caste
+5,madhya pradesh,5120,chamar,kobragaday,gpt,caste
+5,madhya pradesh,5121,chamar,mahar,gpt,caste
+5,madhya pradesh,5122,chamar,makasiya,gpt,caste
+5,madhya pradesh,5123,chamar,mehra,gpt,caste
+5,madhya pradesh,5124,chamar,meshram,gpt,caste
+5,madhya pradesh,5125,chamar,mishra,gpt,caste
+5,madhya pradesh,5126,chamar,mozalda,gpt,caste
+5,madhya pradesh,5127,chamar,raidas,gpt,caste
+5,madhya pradesh,5128,chamar,ramteke,gpt,caste
+5,madhya pradesh,5129,chamar,sahare,gpt,caste
+5,madhya pradesh,5130,chamar,saket,gpt,caste
+5,madhya pradesh,5131,chamar,solanki,gpt,caste
+5,madhya pradesh,5132,chamar,sunteke,gpt,caste
+5,madhya pradesh,5133,chamar,suryavanshi,gpt,caste
+5,madhya pradesh,5134,chamar,wanjare,gpt,caste
+5,madhya pradesh,5135,chamar,,gpt,caste
+5,madhya pradesh,5136,darji,namdeo,gpt,caste
+5,madhya pradesh,5137,dhimar,dogarwar,gpt,caste
+5,madhya pradesh,5138,dhimar,kamare,gpt,caste
+5,madhya pradesh,5139,dhimar,kamday,gpt,caste
+5,madhya pradesh,5140,dhimar,meshram,gpt,caste
+5,madhya pradesh,5141,dhimar,morde,gpt,caste
+5,madhya pradesh,5142,dhimar,,gpt,caste
+5,madhya pradesh,5143,dhobi,kelde,gpt,caste
+5,madhya pradesh,5144,dhobi,varetha,gpt,caste
+5,madhya pradesh,5145,dhobi,,gpt,caste
+5,madhya pradesh,5146,dosandhi,raoji,manual_yes,caste
+5,madhya pradesh,5147,fakir,khan,manual_yes,caste
+5,madhya pradesh,5148,fakir,shah,manual_yes,caste
+5,madhya pradesh,5149,gadariya,pal,gpt,caste
+5,madhya pradesh,5150,gadariya,,gpt,caste
+5,madhya pradesh,5151,gond,kumre,gpt,caste
+5,madhya pradesh,5152,gowala,bhandar,gpt,caste
+5,madhya pradesh,5153,gowala,chouda,gpt,caste
+5,madhya pradesh,5154,gowala,choudhary,gpt,caste
+5,madhya pradesh,5155,gowala,koru,gpt,caste
+5,madhya pradesh,5156,gowala,newari,gpt,caste
+5,madhya pradesh,5157,gowala,phune,gpt,caste
+5,madhya pradesh,5158,gowari,kohare,gpt,caste
+5,madhya pradesh,5159,gowari,newari,gpt,caste
+5,madhya pradesh,5160,gujjar,patel,gpt,caste
+5,madhya pradesh,5161,julaha,ali,gpt,caste
+5,madhya pradesh,5162,kachhi,kushwaha,gpt,caste
+5,madhya pradesh,5163,kachhi,patel,gpt,caste
+5,madhya pradesh,5164,kahar,barua,gpt,caste
+5,madhya pradesh,5165,kahar,japta,gpt,caste
+5,madhya pradesh,5166,kahar,orma,gpt,caste
+5,madhya pradesh,5167,kahar,patwa,gpt,caste
+5,madhya pradesh,5168,kahar,verma,gpt,caste
+5,madhya pradesh,5169,kahar,,gpt,caste
+5,madhya pradesh,5170,kalar,dashare,gpt,caste
+5,madhya pradesh,5171,kalar,deshmukh,gpt,caste
+5,madhya pradesh,5172,kalar,kawde,gpt,caste
+5,madhya pradesh,5173,kalar,meshram,gpt,caste
+5,madhya pradesh,5174,kalar,patlay,gpt,caste
+5,madhya pradesh,5175,kalar,rao,gpt,caste
+5,madhya pradesh,5176,kalar,share,gpt,caste
+5,madhya pradesh,5177,kalar,sinde,gpt,caste
+5,madhya pradesh,5178,kalwar,jaiswal,gpt,caste
+5,madhya pradesh,5179,kewat,bhargav,gpt,caste
+5,madhya pradesh,5180,kewat,navada,gpt,caste
+5,madhya pradesh,5181,kewat,nishad,gpt,caste
+5,madhya pradesh,5182,kewat,,gpt,caste
+5,madhya pradesh,5183,koeri,maurya,gpt,caste
+5,madhya pradesh,5184,koeri,morya,gpt,caste
+5,madhya pradesh,5185,kol,rawat,gpt,caste
+5,madhya pradesh,5186,kol,,gpt,caste
+5,madhya pradesh,5187,kolwar,jaiswal,manual_yes,caste
+5,madhya pradesh,5188,kolwar,jamre,manual_yes,caste
+5,madhya pradesh,5189,kori,,gpt,caste
+5,madhya pradesh,5190,kshatriya,banafar,gpt,caste
+5,madhya pradesh,5191,kshatriya,chauhan,gpt,caste
+5,madhya pradesh,5192,kshatriya,darbar,gpt,caste
+5,madhya pradesh,5193,kshatriya,kewra,gpt,caste
+5,madhya pradesh,5194,kshatriya,raghuwansi,gpt,caste
+5,madhya pradesh,5195,kshatriya,solanki,gpt,caste
+5,madhya pradesh,5196,kshatriya,sonar,gpt,caste
+5,madhya pradesh,5197,kshatriya,suryavanshi,gpt,caste
+5,madhya pradesh,5198,kud,idpachi,manual_yes,caste
+5,madhya pradesh,5199,kud,patar,manual_yes,caste
+5,madhya pradesh,5200,kumhar,bagwa,gpt,caste
+5,madhya pradesh,5201,kumhar,chakradhari,gpt,caste
+5,madhya pradesh,5202,kumhar,chitway,gpt,caste
+5,madhya pradesh,5203,kumhar,kokde,gpt,caste
+5,madhya pradesh,5204,kumhar,paday,gpt,caste
+5,madhya pradesh,5205,kumhar,prajapati,gpt,caste
+5,madhya pradesh,5206,kumhar,snichara,gpt,caste
+5,madhya pradesh,5207,kumhar,telashu,gpt,caste
+5,madhya pradesh,5208,kumhar,tilasho,gpt,caste
+5,madhya pradesh,5209,kurmi,bagde,gpt,caste
+5,madhya pradesh,5210,kurmi,baikar,gpt,caste
+5,madhya pradesh,5211,kurmi,brahman,gpt,caste
+5,madhya pradesh,5212,kurmi,chature,gpt,caste
+5,madhya pradesh,5213,kurmi,chutal,gpt,caste
+5,madhya pradesh,5214,kurmi,dogarwar,gpt,caste
+5,madhya pradesh,5215,kurmi,doye,gpt,caste
+5,madhya pradesh,5216,kurmi,funde,gpt,caste
+5,madhya pradesh,5217,kurmi,hathimare,gpt,caste
+5,madhya pradesh,5218,kurmi,mahar,gpt,caste
+5,madhya pradesh,5219,kurmi,maharbar,gpt,caste
+5,madhya pradesh,5220,kurmi,munde,gpt,caste
+5,madhya pradesh,5221,kurmi,patel,gpt,caste
+5,madhya pradesh,5222,kurmi,pathodi,gpt,caste
+5,madhya pradesh,5223,kurmi,punde,gpt,caste
+5,madhya pradesh,5224,kurmi,rao,gpt,caste
+5,madhya pradesh,5225,kurmi,shivakar,gpt,caste
+5,madhya pradesh,5226,kurmi,sivankar,gpt,caste
+5,madhya pradesh,5227,kurmi,ughar,gpt,caste
+5,madhya pradesh,5228,lakhera,,gpt,caste
+5,madhya pradesh,5229,lodhi,baithwal,gpt,caste
+5,madhya pradesh,5230,lodhi,banoth,gpt,caste
+5,madhya pradesh,5231,lodhi,banwate,gpt,caste
+5,madhya pradesh,5232,lodhi,basone,gpt,caste
+5,madhya pradesh,5233,lodhi,bhaghare,gpt,caste
+5,madhya pradesh,5234,lodhi,chutal,gpt,caste
+5,madhya pradesh,5235,lodhi,damahal,gpt,caste
+5,madhya pradesh,5236,lodhi,damair,gpt,caste
+5,madhya pradesh,5237,lodhi,dashare,gpt,caste
+5,madhya pradesh,5238,lodhi,dashariya,gpt,caste
+5,madhya pradesh,5239,lodhi,dhahare,gpt,caste
+5,madhya pradesh,5240,lodhi,giriya,gpt,caste
+5,madhya pradesh,5241,lodhi,jangda,gpt,caste
+5,madhya pradesh,5242,lodhi,kurahi,gpt,caste
+5,madhya pradesh,5243,lodhi,lilahar,gpt,caste
+5,madhya pradesh,5244,lodhi,machandar,gpt,caste
+5,madhya pradesh,5245,lodhi,machhirke,gpt,caste
+5,madhya pradesh,5246,lodhi,mashchy,gpt,caste
+5,madhya pradesh,5247,lodhi,mashkare,gpt,caste
+5,madhya pradesh,5248,lodhi,mawle,gpt,caste
+5,madhya pradesh,5249,lodhi,nagpuri,gpt,caste
+5,madhya pradesh,5250,lodhi,pamahea,gpt,caste
+5,madhya pradesh,5251,lodhi,ratule,gpt,caste
+5,madhya pradesh,5252,lodhi,sahare,gpt,caste
+5,madhya pradesh,5253,lodhi,singh,gpt,caste
+5,madhya pradesh,5254,lodhi,thakre,gpt,caste
+5,madhya pradesh,5255,lodhi,verma,gpt,caste
+5,madhya pradesh,5256,lohar,bawri,gpt,caste
+5,madhya pradesh,5257,lohar,sonwani,gpt,caste
+5,madhya pradesh,5258,lohar,verma,gpt,caste
+5,madhya pradesh,5259,lohar,vishwakarma,gpt,caste
+5,madhya pradesh,5260,lohar,yadav,gpt,caste
+5,madhya pradesh,5261,mahar,baddle,gpt,caste
+5,madhya pradesh,5262,mahar,borkar,gpt,caste
+5,madhya pradesh,5263,mahar,jambhudkar,gpt,caste
+5,madhya pradesh,5264,mahar,mashkare,gpt,caste
+5,madhya pradesh,5265,mahar,rauth,gpt,caste
+5,madhya pradesh,5266,mahar,sahare,gpt,caste
+5,madhya pradesh,5267,mahar,sakare,gpt,caste
+5,madhya pradesh,5268,mahar,tudpada,gpt,caste
+5,madhya pradesh,5269,mahar,walde,gpt,caste
+5,madhya pradesh,5270,mahar,wanjare,gpt,caste
+5,madhya pradesh,5271,maithare,maithare,manual_yes,caste
+5,madhya pradesh,5272,mali,saini,gpt,caste
+5,madhya pradesh,5273,mana,mankar,gpt,caste
+5,madhya pradesh,5274,mana,narnavre,gpt,caste
+5,madhya pradesh,5275,mankar,manthakur,manual_yes,caste
+5,madhya pradesh,5276,mankar,nihal,manual_yes,caste
+5,madhya pradesh,5277,mankar,saitey,manual_yes,caste
+5,madhya pradesh,5278,mansuri,khan,gemini,caste
+5,madhya pradesh,5279,methar,mathar,gpt,caste
+5,madhya pradesh,5280,mominansari,ansari,gemini,caste
+5,madhya pradesh,5281,mominansari,julaha,gemini,caste
+5,madhya pradesh,5282,mushar,,gpt,caste
+5,madhya pradesh,5283,nai,ben,gpt,caste
+5,madhya pradesh,5284,nai,khawasi,gpt,caste
+5,madhya pradesh,5285,nai,pagade,gpt,caste
+5,madhya pradesh,5286,nai,sen,gpt,caste
+5,madhya pradesh,5287,nai,thakur,gpt,caste
+5,madhya pradesh,5288,nai,verma,gpt,caste
+5,madhya pradesh,5289,nai,,gpt,caste
+5,madhya pradesh,5290,namdev,,gpt,caste
+5,madhya pradesh,5291,pasi,paswan,gpt,caste
+5,madhya pradesh,5292,pathan,bhage,manual_yes,caste
+5,madhya pradesh,5293,pathan,khan,manual_yes,caste
+5,madhya pradesh,5294,pathan,solanki,manual_yes,caste
+5,madhya pradesh,5295,powar,katre,gpt,caste
+5,madhya pradesh,5296,powar,patlay,gpt,caste
+5,madhya pradesh,5297,powar,temre,gpt,caste
+5,madhya pradesh,5298,powar,thakre,gpt,caste
+5,madhya pradesh,5299,rajput,chauhan,gpt,caste
+5,madhya pradesh,5300,savarkar,fahye,manual_yes,caste
+5,madhya pradesh,5301,savarkar,mashki,manual_yes,caste
+5,madhya pradesh,5302,sirvi,barfa,gpt,caste
+5,madhya pradesh,5303,sirvi,choyal,gpt,caste
+5,madhya pradesh,5304,sirvi,devda,gpt,caste
+5,madhya pradesh,5305,sirvi,gahlot,gpt,caste
+5,madhya pradesh,5306,sirvi,kag,gpt,caste
+5,madhya pradesh,5307,sirvi,lacheta,gpt,caste
+5,madhya pradesh,5308,sirvi,mulewa,gpt,caste
+5,madhya pradesh,5309,sirvi,parihar,gpt,caste
+5,madhya pradesh,5310,sirvi,pawar,gpt,caste
+5,madhya pradesh,5311,sirvi,rathor,gpt,caste
+5,madhya pradesh,5312,sirvi,septa,gpt,caste
+5,madhya pradesh,5313,sonar,kurve,gpt,caste
+5,madhya pradesh,5314,sonar,soni,gpt,caste
+5,madhya pradesh,5315,sonar,,gpt,caste
+5,madhya pradesh,5316,soni,soni,gpt,caste
+5,madhya pradesh,5317,sundi,gupta,gpt,caste
+5,madhya pradesh,5318,tamar,,manual_yes,caste
+5,madhya pradesh,5319,teli,bogada,gpt,caste
+5,madhya pradesh,5320,teli,chandra,gpt,caste
+5,madhya pradesh,5321,teli,giripunje,gpt,caste
+5,madhya pradesh,5322,teli,karenjeka,gpt,caste
+5,madhya pradesh,5323,teli,karnjkar,gpt,caste
+5,madhya pradesh,5324,teli,rathor,gpt,caste
+5,madhya pradesh,5325,teli,sahu,gpt,caste
+5,madhya pradesh,5326,teli,sharma,gpt,caste
+5,madhya pradesh,5327,teli,,gpt,caste
+5,madhya pradesh,5328,others,,,
+6,rajasthan,6001,agarawal,agarawal,,
+6,rajasthan,6002,agarawal,mahajan,,
+6,rajasthan,6003,agarawal,paliwal,,
+6,rajasthan,6004,agarawal,singhal,,
+6,rajasthan,6005,agarawal,,,
+6,rajasthan,6006,ahir,gurjar,gpt,caste
+6,rajasthan,6007,ahir,kumawat,gpt,caste
+6,rajasthan,6008,ahir,paliwal,gpt,caste
+6,rajasthan,6009,ahir,rathore,gpt,caste
+6,rajasthan,6010,ahir,sisodia,gpt,caste
+6,rajasthan,6011,ahir,yadav,gpt,caste
+6,rajasthan,6012,ahir,,gpt,caste
+6,rajasthan,6013,arora,batra,gpt,caste
+6,rajasthan,6014,arora,,gpt,caste
+6,rajasthan,6015,bagri,,gemini,caste
+6,rajasthan,6016,bairagi,rathore,gpt,caste
+6,rajasthan,6017,bairagi,,gpt,caste
+6,rajasthan,6018,baishnoi,,,
+6,rajasthan,6019,banjara,gametia,gpt,caste
+6,rajasthan,6020,banjara,kumawat,gpt,caste
+6,rajasthan,6021,banjara,mansuri,gpt,caste
+6,rajasthan,6022,banjara,nayak,gpt,caste
+6,rajasthan,6023,banjara,rangrez,gpt,caste
+6,rajasthan,6024,banjara,ravana,gpt,caste
+6,rajasthan,6025,banjara,vaishnav,gpt,caste
+6,rajasthan,6026,banjara,,gpt,caste
+6,rajasthan,6027,banwari,,,
+6,rajasthan,6028,baori,baori,gpt,caste
+6,rajasthan,6029,baori,choukida,gpt,caste
+6,rajasthan,6030,baori,,gpt,caste
+6,rajasthan,6031,bari,,gpt,caste
+6,rajasthan,6032,bhanbhuniya,,gemini,caste
+6,rajasthan,6033,bhand,,gemini,caste
+6,rajasthan,6034,bharbhooja,kachchi,gemini,caste
+6,rajasthan,6035,bharbhooja,mathuriya,gemini,caste
+6,rajasthan,6036,bharbhooja,,gemini,caste
+6,rajasthan,6037,bhil,gametia,gpt,caste
+6,rajasthan,6038,bhil,meena,gpt,caste
+6,rajasthan,6039,bhil,,gpt,caste
+6,rajasthan,6040,bhoru,,manual_yes,caste
+6,rajasthan,6041,bishnoi,,gpt,caste
+6,rajasthan,6042,bohra,,gemini,caste
+6,rajasthan,6043,brahman,audich,gpt,caste
+6,rajasthan,6044,brahman,dadhich,gpt,caste
+6,rajasthan,6045,brahman,gaur,gpt,caste
+6,rajasthan,6046,brahman,gautam,gpt,caste
+6,rajasthan,6047,brahman,joshi,gpt,caste
+6,rajasthan,6048,brahman,kaushik,gpt,caste
+6,rajasthan,6049,brahman,mahajan,gpt,caste
+6,rajasthan,6050,brahman,paliwal,gpt,caste
+6,rajasthan,6051,brahman,pareek,gpt,caste
+6,rajasthan,6052,brahman,porasa,gpt,caste
+6,rajasthan,6053,brahman,purohit,gpt,caste
+6,rajasthan,6054,brahman,rajpurohit,gpt,caste
+6,rajasthan,6055,brahman,saraswat,gpt,caste
+6,rajasthan,6056,brahman,sharma,gpt,caste
+6,rajasthan,6057,brahman,soni,gpt,caste
+6,rajasthan,6058,brahman,tiwari,gpt,caste
+6,rajasthan,6059,brahman,upadhayay,gpt,caste
+6,rajasthan,6060,brahman,vyas,gpt,caste
+6,rajasthan,6061,brahman,,gpt,caste
+6,rajasthan,6062,bunkar,,gpt,caste
+6,rajasthan,6063,chamar,balaji,gpt,caste
+6,rajasthan,6064,chamar,balmiki,gpt,caste
+6,rajasthan,6065,chamar,baori,gpt,caste
+6,rajasthan,6066,chamar,berwa,gpt,caste
+6,rajasthan,6067,chamar,dhanka,gpt,caste
+6,rajasthan,6068,chamar,dhankar,gpt,caste
+6,rajasthan,6069,chamar,gametia,gpt,caste
+6,rajasthan,6070,chamar,harijan,gpt,caste
+6,rajasthan,6071,chamar,jatav,gpt,caste
+6,rajasthan,6072,chamar,khati,gpt,caste
+6,rajasthan,6073,chamar,kumawat,gpt,caste
+6,rajasthan,6074,chamar,meghwal,gpt,caste
+6,rajasthan,6075,chamar,mehatar,gpt,caste
+6,rajasthan,6076,chamar,mehra,gpt,caste
+6,rajasthan,6077,chamar,nayak,gpt,caste
+6,rajasthan,6078,chamar,raigar,gpt,caste
+6,rajasthan,6079,chamar,,gpt,caste
+6,rajasthan,6080,chanthi,,,
+6,rajasthan,6081,chippa,,gpt,caste
+6,rajasthan,6082,christian,,,
+6,rajasthan,6083,darji,meghwal,gpt,caste
+6,rajasthan,6084,darji,rathore,gpt,caste
+6,rajasthan,6085,darji,,gpt,caste
+6,rajasthan,6086,dewasi,,gpt,caste
+6,rajasthan,6087,dhakar,swami,gpt,caste
+6,rajasthan,6088,dhakar,,gpt,caste
+6,rajasthan,6089,dhali,,manual_yes,caste
+6,rajasthan,6090,dhanka,,gpt,caste
+6,rajasthan,6091,dhobi,ravana,gpt,caste
+6,rajasthan,6092,dhobi,,gpt,caste
+6,rajasthan,6093,dholi,gaur,gpt,caste
+6,rajasthan,6094,dholi,khati,gpt,caste
+6,rajasthan,6095,dholi,meghwal,gpt,caste
+6,rajasthan,6096,dholi,pawar,gpt,caste
+6,rajasthan,6097,dholi,,gpt,caste
+6,rajasthan,6098,faqir,,manual_yes,caste
+6,rajasthan,6099,gadaria,pal,gpt,caste
+6,rajasthan,6100,gadaria,,gpt,caste
+6,rajasthan,6101,gadialohar,,gemini,caste
+6,rajasthan,6102,garua,gaur,,
+6,rajasthan,6103,gawariya,,gemini,caste
+6,rajasthan,6104,ghachha,,manual_yes,caste
+6,rajasthan,6105,ghachi,mewad,gpt,caste
+6,rajasthan,6106,ghachi,ravana,gpt,caste
+6,rajasthan,6107,ghachi,,gpt,caste
+6,rajasthan,6108,girui,,,
+6,rajasthan,6109,gosai,giri,gpt,caste
+6,rajasthan,6110,goswami,giri,gemini,caste
+6,rajasthan,6111,gurjar,,gpt,caste
+6,rajasthan,6112,harijan,balmiki,manual_yes,caste
+6,rajasthan,6113,jaga,,gemini,caste
+6,rajasthan,6114,jain,mahajan,,
+6,rajasthan,6115,jain,paliwal,,
+6,rajasthan,6116,jain,,,
+6,rajasthan,6117,jambuli,,manual_yes,caste
+6,rajasthan,6118,jat,chauhan,gpt,caste
+6,rajasthan,6119,jat,dhankar,gpt,caste
+6,rajasthan,6120,jat,rathore,gpt,caste
+6,rajasthan,6121,jat,sheoran,gpt,caste
+6,rajasthan,6122,jat,,gpt,caste
+6,rajasthan,6123,jingar,jatav,gemini,caste
+6,rajasthan,6124,jingar,,gemini,caste
+6,rajasthan,6125,julaha,ansari,gpt,caste
+6,rajasthan,6126,kahar,kashyap,gpt,caste
+6,rajasthan,6127,kahar,,gpt,caste
+6,rajasthan,6128,kakhera,,gemini,caste
+6,rajasthan,6129,kalal,kalal,gpt,caste
+6,rajasthan,6130,kalal,mewad,gpt,caste
+6,rajasthan,6131,kalal,ravana,gpt,caste
+6,rajasthan,6132,kalal,,gpt,caste
+6,rajasthan,6133,kalbeliya,,gpt,caste
+6,rajasthan,6134,kali,mahavar,,
+6,rajasthan,6135,kandera,,gpt,caste
+6,rajasthan,6136,kayasth,mathar,gpt,caste
+6,rajasthan,6137,kayasth,mathu,gpt,caste
+6,rajasthan,6138,ka yasth,saxena,manual_yes,caste
+6,rajasthan,6139,khandelwal,,gpt,caste
+6,rajasthan,6140,khatik,chauhan,gpt,caste
+6,rajasthan,6141,khatik,gaur,gpt,caste
+6,rajasthan,6142,khatik,yadav,gpt,caste
+6,rajasthan,6143,khatik,,gpt,caste
+6,rajasthan,6144,khatri,goyal,gpt,caste
+6,rajasthan,6145,koli,mahavar,gpt,caste
+6,rajasthan,6146,kumhar,jalandhar,gpt,caste
+6,rajasthan,6147,kumhar,kumawat,gpt,caste
+6,rajasthan,6148,lakhara,chauhan,gemini,caste
+6,rajasthan,6149,lakhara,,gemini,caste
+6,rajasthan,6150,lohar,kumawat,gpt,caste
+6,rajasthan,6151,lohar,paliwal,gpt,caste
+6,rajasthan,6152,lohar,vishwakarma,gpt,caste
+6,rajasthan,6153,lohar,yada v,gpt,caste
+6,rajasthan,6154,lohar,,gpt,caste
+6,rajasthan,6155,maheshwari,joshi,gpt,caste
+6,rajasthan,6156,maheshwari,mahajan,gpt,caste
+6,rajasthan,6157,maheshwari,,gpt,caste
+6,rajasthan,6158,mali,bhoi,gpt,caste
+6,rajasthan,6159,mali,gametia,gpt,caste
+6,rajasthan,6160,mali,kachchi,gpt,caste
+6,rajasthan,6161,mali,phulmali,gpt,caste
+6,rajasthan,6162,mali,saini,gpt,caste
+6,rajasthan,6163,malik,,manual_yes,caste
+6,rajasthan,6164,mazabi,,gpt,caste
+6,rajasthan,6165,mehar,,gpt,caste
+6,rajasthan,6166,mirasi,,gemini,caste
+6,rajasthan,6167,mirza,,,
+6,rajasthan,6168,mughal,beg,,
+6,rajasthan,6169,mughal,joshi,,
+6,rajasthan,6170,mughal,meena,,
+6,rajasthan,6171,mughal,rathore,,
+6,rajasthan,6172,mughal,,,
+6,rajasthan,6173,muslim,qureshi,,
+6,rajasthan,6174,nai,dhanka,gpt,caste
+6,rajasthan,6175,nai,dhankar,gpt,caste
+6,rajasthan,6176,nai,mahajan,gpt,caste
+6,rajasthan,6177,nai,rathore,gpt,caste
+6,rajasthan,6178,nai,saini,gpt,caste
+6,rajasthan,6179,nai,yadav,gpt,caste
+6,rajasthan,6180,nai,,gpt,caste
+6,rajasthan,6181,nath,nathyogi,gemini,caste
+6,rajasthan,6182,nath,swami,gemini,caste
+6,rajasthan,6183,nath,,gemini,caste
+6,rajasthan,6184,nayak,chamar,gpt,caste
+6,rajasthan,6185,nilgar,gametia,gemini,caste
+6,rajasthan,6186,nilgar,jatav,gemini,caste
+6,rajasthan,6187,nilgar,,gemini,caste
+6,rajasthan,6188,parsi,,manual_no,caste
+6,rajasthan,6189,patel,,gemini,caste
+6,rajasthan,6190,pathan,bhati,manual_yes,caste
+6,rajasthan,6191,pathan,goyal,manual_yes,caste
+6,rajasthan,6192,pathan,jatav,manual_yes,caste
+6,rajasthan,6193,pathan,khan,manual_yes,caste
+6,rajasthan,6194,pathan,leelga r,manual_yes,caste
+6,rajasthan,6195,pathan,meena,manual_yes,caste
+6,rajasthan,6196,pathan,mewad,manual_yes,caste
+6,rajasthan,6197,pathan,mirza,manual_yes,caste
+6,rajasthan,6198,pathan,panwar,manual_yes,caste
+6,rajasthan,6199,pathan,pawar,manual_yes,caste
+6,rajasthan,6200,pathan,raigar,manual_yes,caste
+6,rajasthan,6201,pathan,ravana,manual_yes,caste
+6,rajasthan,6202,pathan,,manual_yes,caste
+6,rajasthan,6203,phanka,,,
+6,rajasthan,6204,puri,,,
+6,rajasthan,6205,rabari,,gpt,caste
+6,rajasthan,6206,rajput,bhati,gpt,caste
+6,rajasthan,6207,rajput,bholi,gpt,caste
+6,rajasthan,6208,rajput,chandawat,gpt,caste
+6,rajasthan,6209,rajput,chandra,gpt,caste
+6,rajasthan,6210,rajput,chauhan,gpt,caste
+6,rajasthan,6211,rajput,daraga,gpt,caste
+6,rajasthan,6212,rajput,deval,gpt,caste
+6,rajasthan,6213,rajput,devra,gpt,caste
+6,rajasthan,6214,rajput,gaur,gpt,caste
+6,rajasthan,6215,rajput,jhala,gpt,caste
+6,rajasthan,6216,rajput,joshi,gpt,caste
+6,rajasthan,6217,rajput,khandera,gpt,caste
+6,rajasthan,6218,rajput,kharal,gpt,caste
+6,rajasthan,6219,rajput,meena,gpt,caste
+6,rajasthan,6220,rajput,palihar,gpt,caste
+6,rajasthan,6221,rajput,panwar,gpt,caste
+6,rajasthan,6222,rajput,pawar,gpt,caste
+6,rajasthan,6223,rajput,rahtore,gpt,caste
+6,rajasthan,6224,rajput,ranawat,gpt,caste
+6,rajasthan,6225,rajput,rao,gpt,caste
+6,rajasthan,6223,rajput,rathore,gpt,caste
+6,rajasthan,6226,rajput,ravana,gpt,caste
+6,rajasthan,6227,rajput,rawat,gpt,caste
+6,rajasthan,6228,rajput,sarang,gpt,caste
+6,rajasthan,6229,rajput,shekhawat,gpt,caste
+6,rajasthan,6230,rajput,singh,gpt,caste
+6,rajasthan,6231,rajput,sisodia,gpt,caste
+6,rajasthan,6232,rajput,solanki,gpt,caste
+6,rajasthan,6233,rajput,tanwar,gpt,caste
+6,rajasthan,6234,rajput,,gpt,caste
+6,rajasthan,6235,rama,rao,,
+6,rajasthan,6236,rana,bhati,manual_yes,caste
+6,rajasthan,6237,rana,mali,manual_yes,caste
+6,rajasthan,6238,rana,rana,manual_yes,caste
+6,rajasthan,6239,rana,vaishnav,manual_yes,caste
+6,rajasthan,6240,rana,,manual_yes,caste
+6,rajasthan,6241,rana,,manual_yes,caste
+6,rajasthan,6242,rao,mansuri,manual_yes,caste
+6,rajasthan,6243,rao,,manual_yes,caste
+6,rajasthan,6244,sadh,khati,gemini,caste
+6,rajasthan,6245,sadh,swami,gemini,caste
+6,rajasthan,6246,sadh,vaishnav,gemini,caste
+6,rajasthan,6247,sadh,,gemini,caste
+6,rajasthan,6248,sainibrahman,dakot,,
+6,rajasthan,6249,sainibrahman,dalot,,
+6,rajasthan,6250,salvi,mehatar,gpt,caste
+6,rajasthan,6251,salvi,,gpt,caste
+6,rajasthan,6252,samar,soni,gemini,caste
+6,rajasthan,6253,sansi,,gpt,caste
+6,rajasthan,6254,saragara,yuresi,gemini,caste
+6,rajasthan,6255,saragara,,gemini,caste
+6,rajasthan,6256,saryan,,manual_no,caste
+6,rajasthan,6257,sasui,qureshi,,
+6,rajasthan,6258,sayed,kadri,,
+6,rajasthan,6259,sayed,,,
+6,rajasthan,6260,sheikh,beg,manual_yes,caste
+6,rajasthan,6261,sheikh,khan,manual_yes,caste
+6,rajasthan,6262,sheikh,raigar,manual_yes,caste
+6,rajasthan,6263,sheikh,,manual_yes,caste
+6,rajasthan,6264,sikh,jatav,,
+6,rajasthan,6265,sikh,,,
+6,rajasthan,6266,sindhi,,manual_yes,caste
+6,rajasthan,6267,sirvi,,gpt,caste
+6,rajasthan,6268,sunar,soni,gpt,caste
+6,rajasthan,6269,sunar,,gpt,caste
+6,rajasthan,6270,suthar,khati,gpt,caste
+6,rajasthan,6271,suthar,saxena,gpt,caste
+6,rajasthan,6272,suthar,soni,gpt,caste
+6,rajasthan,6273,suthar,,gpt,caste
+6,rajasthan,6274,tamboli,,gpt,caste
+6,rajasthan,6275,tank,,manual_yes,caste
+6,rajasthan,6276,teli,rathore,gpt,caste
+6,rajasthan,6277,teli,,gpt,caste
+6,rajasthan,6278,others,,,
+7,haryana,7001,acharya,prajapati,manual_yes,caste
+7,haryana,7002,ahir,yadav,gpt,caste
+7,haryana,7003,arora,chhabra,gpt,caste
+7,haryana,7004,arora,chopra,gpt,caste
+7,haryana,7005,arora,chugh,gpt,caste
+7,haryana,7006,arora,gulati,gpt,caste
+7,haryana,7007,arora,kapoor,gpt,caste
+7,haryana,7008,arora,kathuriya,gpt,caste
+7,haryana,7009,arora,khatri,gpt,caste
+7,haryana,7010,arora,minocha,gpt,caste
+7,haryana,7011,arora,nagpal,gpt,caste
+7,haryana,7012,arora,pangha l,gpt,caste
+7,haryana,7013,arora,rai,gpt,caste
+7,haryana,7014,arora,thakral,gpt,caste
+7,haryana,7015,badai,harijan,gemini,caste
+7,haryana,7016,badai,jangada,gemini,caste
+7,haryana,7017,badai,,gemini,caste
+7,haryana,7018,bairagi,gill,gpt,caste
+7,haryana,7019,bairagi,powar,gpt,caste
+7,haryana,7020,bairagi,swami,gpt,caste
+7,haryana,7021,bairagi,,gpt,caste
+7,haryana,7022,balmiki,bhangi,gpt,caste
+7,haryana,7023,balmiki,,gpt,caste
+7,haryana,7024,baniya,agarwal,gpt,caste
+7,haryana,7025,baniya,arora,gpt,caste
+7,haryana,7026,baniya,bansal,gpt,caste
+7,haryana,7027,baniya,garg,gpt,caste
+7,haryana,7028,baniya,goyal,gpt,caste
+7,haryana,7029,baniya,gupta,gpt,caste
+7,haryana,7030,baniya,jain,gpt,caste
+7,haryana,7031,baniya,jindal,gpt,caste
+7,haryana,7032,baniya,kansal,gpt,caste
+7,haryana,7033,baniya,mahajan,gpt,caste
+7,haryana,7034,baniya,rana,gpt,caste
+7,haryana,7035,baniya,shahu,gpt,caste
+7,haryana,7036,baniya,singla,gpt,caste
+7,haryana,7037,baniya,,gpt,caste
+7,haryana,7038,bannsa,garg,manual_yes,caste
+7,haryana,7039,baori,,gpt,caste
+7,haryana,7040,barhai,dhiman,gpt,caste
+7,haryana,7041,barhai,garg,gpt,caste
+7,haryana,7042,barhai,khati,gpt,caste
+7,haryana,7043,barhai,sharma,gpt,caste
+7,haryana,7044,barhai,vishwakarma,gpt,caste
+7,haryana,7045,bawaria,dabla,gpt,caste
+7,haryana,7046,bazigar,badhai,gpt,caste
+7,haryana,7047,bhat,acharya,gpt,caste
+7,haryana,7048,bhat,sharma,gpt,caste
+7,haryana,7049,brahaman,sharma,,
+7,haryana,7049,brahiman,sharma,,
+7,haryana,7050,brahman,acharya,gpt,caste
+7,haryana,7051,brahman,gaur,gpt,caste
+7,haryana,7052,brahman,kaushik,gpt,caste
+7,haryana,7053,brahman,sandilya,gpt,caste
+7,haryana,7054,brahman,sanyal,gpt,caste
+7,haryana,7049,brahman,sharma,gpt,caste
+7,haryana,7049,brahman,shrma,gpt,caste
+7,haryana,7055,brahman,vassist,gpt,caste
+7,haryana,7056,brahman,vyas,gpt,caste
+7,haryana,7049,brhamin,sharma,,
+7,haryana,7057,chamar,bavariya,gpt,caste
+7,haryana,7058,chamar,dhanak,gpt,caste
+7,haryana,7059,chamar,harijan,gpt,caste
+7,haryana,7060,chamar,kashyap,gpt,caste
+7,haryana,7061,chamar,kori,gpt,caste
+7,haryana,7062,chamar,nayak,gpt,caste
+7,haryana,7063,chamar,ramdasi,gpt,caste
+7,haryana,7064,chamar,ravi,gpt,caste
+7,haryana,7065,chamar,ravidas,gpt,caste
+7,haryana,7066,chamar,ravidasi,gpt,caste
+7,haryana,7067,chamar,,gpt,caste
+7,haryana,7068,chhimbe,darji,gemini,caste
+7,haryana,7069,chhimbe,verma,gemini,caste
+7,haryana,7070,chhipi,darji,gpt,caste
+7,haryana,7071,chhipi,harijan,gpt,caste
+7,haryana,7072,chhipi,lilgar,gpt,caste
+7,haryana,7073,chhipi,maniha r,gpt,caste
+7,haryana,7074,darji,rohilla,gpt,caste
+7,haryana,7075,dhanak,harijan,gpt,caste
+7,haryana,7076,dhanak,khetak,gpt,caste
+7,haryana,7077,dhanak,panghal,gpt,caste
+7,haryana,7078,dhanak,verma,gpt,caste
+7,haryana,7079,dhanak,,gpt,caste
+7,haryana,7080,dhimar,kashyap,gpt,caste
+7,haryana,7081,dhobi,dhobi,gpt,caste
+7,haryana,7082,dom,harijan,gpt,caste
+7,haryana,7083,dom,,gpt,caste
+7,haryana,7084,fakir,shah,manual_yes,caste
+7,haryana,7085,gadaria,pal,gpt,caste
+7,haryana,7086,gosai,giri,gpt,caste
+7,haryana,7087,gosai,,gpt,caste
+7,haryana,7088,goswami,giri,gemini,caste
+7,haryana,7089,goswami,,gemini,caste
+7,haryana,7090,goyal,mahajan,,
+7,haryana,7091,harijan,ramdasi,manual_yes,caste
+7,haryana,7092,jaiswal,,gpt,caste
+7,haryana,7093,jat,badhai,gpt,caste
+7,haryana,7094,jat,barai,gpt,caste
+7,haryana,7095,jat,beniwal,gpt,caste
+7,haryana,7096,jat,bhal,gpt,caste
+7,haryana,7097,jat,bhambho,gpt,caste
+7,haryana,7098,jat,bhullar,gpt,caste
+7,haryana,7099,jat,birikhi,gpt,caste
+7,haryana,7100,jat,chatrawal,gpt,caste
+7,haryana,7101,jat,chaudhari,gpt,caste
+7,haryana,7102,jat,chel,gpt,caste
+7,haryana,7103,jat,chichar,gpt,caste
+7,haryana,7104,jat,chopra,gpt,caste
+7,haryana,7105,jat,dhaka,gpt,caste
+7,haryana,7106,jat,dhankar,gpt,caste
+7,haryana,7107,jat,fagadana,gpt,caste
+7,harya na,7108,jat,godra,gpt,caste
+7,haryana,7109,jat,jakahd,gpt,caste
+7,haryana,7109,jat,jakhar,gpt,caste
+7,haryana,7110,jat,jat,gpt,caste
+7,haryana,7111,jat,jhiwar,gpt,caste
+7,haryana,7112,jat,kaleri,gpt,caste
+7,haryana,7113,jat,keol,gpt,caste
+7,haryana,7114,jat,khaceri,gpt,caste
+7,haryana,7115,jat,khayali,gpt,caste
+7,haryana,7116,jat,kshliya,gpt,caste
+7,haryana,7117,jat,kundu,gpt,caste
+7,haryana,7118,jat,lohan,gpt,caste
+7,haryana,7119,jat,malik,gpt,caste
+7,haryana,7120,jat,mandal,gpt,caste
+7,haryana,7121,jat,maun,gpt,caste
+7,haryana,7122,jat,meel,gpt,caste
+7,haryana,7123,jat,mod,gpt,caste
+7,haryana,7124,jat,morwal,gpt,caste
+7,haryana,7125,jat,nain,gpt,caste
+7,haryana,7126,jat,panghal,gpt,caste
+7,haryana,7127,jat,pannu,gpt,caste
+7,haryana,7128,jat,prajapati,gpt,caste
+7,haryana,7129,jat,puniya,gpt,caste
+7,haryana,7130,jat,sahrawat,gpt,caste
+7,haryana,7131,jat,samaran,gpt,caste
+7,haryana,7132,jat,saran,gpt,caste
+7,haryana,7133,jat,sharma,gpt,caste
+7,haryana,7134,jat,shedkand,gpt,caste
+7,haryana,7135,jat,sihag,gpt,caste
+7,haryana,7136,jat,singla,gpt,caste
+7,haryana,7137,jat,siwatch,gpt,caste
+7,haryana,7138,jat,thalodi,gpt,caste
+7,haryana,7139,jat,,gpt,caste
+7,haryana,7140,jat sikh,,gpt,caste
+7,haryana,7141,jheemar,kashyap,gemini,caste
+7,haryana,7142,jheemar,,gemini,caste
+7,haryana,7143,jogi,batti,gpt,caste
+7,haryana,7144,jogi,gautam,gpt,caste
+7,haryana,7145,jogi,jangam,gpt,caste
+7,haryana,7146,jogi,nath,gpt,caste
+7,haryana,7147,jogi,pada,gpt,caste
+7,haryana,7148,jogi,rawal,gpt,caste
+7,haryana,7149,jogi,,gpt,caste
+7,haryana,7150,julaha,kabiram,gpt,caste
+7,haryana,7151,julaha,kabirpath,gpt,caste
+7,haryana,7152,julaha,koli,gpt,caste
+7,haryana,7153,kanhar,gaur,,
+7,haryana,7154,khati,barai,gpt,caste
+7,haryana,7155,khati,dhaman,gpt,caste
+7,haryana,7156,khati,dhiman,gpt,caste
+7,haryana,7157,khati,jagara,gpt,caste
+7,haryana,7158,khati,jangada,gpt,caste
+7,haryana,7159,khati,jangarh,gpt,caste
+7,haryana,7160,khati,khati,gpt,caste
+7,haryana,7161,khati,nath,gpt,caste
+7,haryana,7162,khati,semar,gpt,caste
+7,haryana,7163,khati,uttam,gpt,caste
+7,haryana,7164,khati,,gpt,caste
+7,haryana,7165,khatri,chappa,gpt,caste
+7,haryana,7166,khatri,dhiman,gpt,caste
+7,haryana,7167,khatri,khnna,gpt,caste
+7,haryana,7168,khatri,khurana,gpt,caste
+7,haryana,7169,khatri,uttam,gpt,caste
+7,haryana,7170,khatri,,gpt,caste
+7,haryana,7171,kumhar,harijan,gpt,caste
+7,haryana,7172,kumhar,prajapati,gpt,caste
+7,haryana,7173,lakhera,manihar,gpt,caste
+7,haryana,7174,lohar,mistri,gpt,caste
+7,haryana,7175,lohar,panchal,gpt,caste
+7,haryana,7176,lohar,shakhala,gpt,caste
+7,haryana,7177,lohar,tilak,gpt,caste
+7,haryana,7178,lohar,vaishnav,gpt,caste
+7,haryana,7179,lohar,vishwakarma,gpt,caste
+7,haryana,7180,lohar,,gpt,caste
+7,haryana,7181,mahabrahman,bhatt,gemini,caste
+7,haryana,7182,mahajan,goyal,gemini,caste
+7,haryana,7183,mali,saini,gpt,caste
+7,haryana,7184,manihar,,gpt,caste
+7,haryana,7185,meo,dahugal,gpt,caste
+7,haryana,7186,meo,gorwal,gpt,caste
+7,haryana,7187,mirasi,,gemini,caste
+7,haryana,7188,muslimlohar,ali,gemini,caste
+7,haryana,7189,muslimlohar,,gemini,caste
+7,haryana,7190,muslimteli,derwal,,
+7,haryana,7191,muslimteli,khan,,
+7,haryana,7192,muslimteli,prajapati,,
+7,haryana,7193,nai,behadiyr,gpt,caste
+7,haryana,7194,nai,diwakar,gpt,caste
+7,haryana,7195,nai,gangotiya,gpt,caste
+7,haryana,7196,nai,nai,gpt,caste
+7,haryana,7197,nai,panghal,gpt,caste
+7,haryana,7198,nai,pundir,gpt,caste
+7,haryana,7199,nai,sainbakht,gpt,caste
+7,haryana,7200,nai,semar,gpt,caste
+7,haryana,7201,nai,thakur,gpt,caste
+7,haryana,7202,nai,,gpt,caste
+7,haryana,7203,nayak,kashyap,gpt,caste
+7,haryana,7204,nayak,nayak,gpt,caste
+7,haryana,7205,nayak,,gpt,caste
+7,haryana,7206,od,,gemini,caste
+7,haryana,7207,pathan,khan,manual_yes,caste
+7,haryana,7208,rabari,dhiman,gpt,caste
+7,haryana,7209,rajput,badgujak,gpt,caste
+7,haryana,7210,rajput,chauhan,gpt,caste
+7,haryana,7211,rajput,jhiwar,gpt,caste
+7,haryana,7212,rajput,lodhi,gpt,caste
+7,haryana,7213,rajput,rana,gpt,caste
+7,haryana,7214,rangrej,jhiwar,gpt,caste
+7,haryana,7215,rewari,rewari,,
+7,haryana,7216,rewari,,,
+7,haryana,7217,saini,mali,gpt,caste
+7,haryana,7218,saini,sake,gpt,caste
+7,haryana,7219,saini,,gpt,caste
+7,haryana,7220,sheikh,abbashi,manual_yes,caste
+7,haryana,7221,sonar,soni,gpt,caste
+7,haryana,7222,sonar,verma,gpt,caste
+7,haryana,7222,sunar,verma,gpt,caste
+7,haryana,7223,teli,,gpt,caste
+7,haryana,7224,turha,,gpt,caste
+7,haryana,7225,vaishya,singla,gpt,caste
+7,haryana,7226,verma,,manual_yes,caste
+7,haryana,7227,others,,,
+8,punjab,8001,ad-dharmi,atar,gpt,caste
+8,punjab,8002,ad-dharmi,bains,gpt,caste
+8,punjab,8003,ad-dharmi,banga,gpt,caste
+8,punjab,8004,ad-dharmi,chamar,gpt,caste
+8,punjab,8005,ad-dharmi,chokhria,gpt,caste
+8,punjab,8006,ad-dharmi,jassal,gpt,caste
+8,punjab,8007,ad-dharmi,kaith,gpt,caste
+8,punjab,8008,ad-dharmi,leel,gpt,caste
+8,punjab,8009,ad-dharmi,mahi,gpt,caste
+8,punjab,8010,ad-dharmi,mehto,gpt,caste
+8,punjab,8011,ad-dharmi,powar,gpt,caste
+8,punjab,8012,ad-dharmi,rai,gpt,caste
+8,punjab,8013,ad-dharmi,sandhu,gpt,caste
+8,punjab,8014,ad-dharmi,sidhu,gpt,caste
+8,punjab,8015,ad-dharmi,thind,gpt,caste
+8,punjab,8016,ad-dharmi,,gpt,caste
+8,punjab,8017,ahir,yadav,gpt,caste
+8,punjab,8018,arora,anand,gpt,caste
+8,punjab,8019,arora,chawala,gpt,caste
+8,punjab,8020,arora,kakar,gpt,caste
+8,punjab,8021,arora,sood,gpt,caste
+8,punjab,8022,arora,,gpt,caste
+8,punjab,8023,bairagi,mahant,gpt,caste
+8,punjab,8024,balmiki,chuhra,gpt,caste
+8,punjab,8025,balmiki,ramdasi,gpt,caste
+8,punjab,8026,balmiki,sobat,gpt,caste
+8,punjab,8027,balmiki,sohata,gpt,caste
+8,punjab,8028,baniya,goel,gpt,caste
+8,punjab,8029,baniya,jaiswal,gpt,caste
+8,punjab,8030,bazigar,jogi,gpt,caste
+8,punjab,8031,bharbhooja,bhurji,gemini,caste
+8,punjab,8032,brahman,atri,gpt,caste
+8,punjab,8033,brahman,bharadwaj,gpt,caste
+8,punjab,8034,brahman,chaubey,gpt,caste
+8,punjab,8035,brahman,gogna,gpt,caste
+8,punjab,8036,brahman,joshi,gpt,caste
+8,punjab,8037,brahman,mahant,gpt,caste
+8,punjab,8038,brahman,mudgil,gpt,caste
+8,punjab,8039,brahman,rampal,gpt,caste
+8,punjab,8040,brahman,saraswat,gpt,caste
+8,punjab,8041,brahman,sharma,gpt,caste
+8,punjab,8042,brahman,vaid,gpt,caste
+8,punjab,8043,braji,baardua,,
+8,punjab,8044,chamar,jatav,gpt,caste
+8,punjab,8045,chamar,ramdasi,gpt,caste
+8,punjab,8046,chamar,ravidasi,gpt,caste
+8,punjab,8047,chhimbe,dhami,gemini,caste
+8,punjab,8048,chhimbe,jassal,gemini,caste
+8,punjab,8049,choudhary,kashyap,,
+8,punjab,8050,christian,mashih,,
+8,punjab,8051,christian,,,
+8,punjab,8052,dhobi,ramdasi,gpt,caste
+8,punjab,8053,gadariya,pal,gpt,caste
+8,punjab,8054,ghumair,khan,,
+8,punjab,8055,gonga,,manual_yes,caste
+8,punjab,8056,gujjar,,gpt,caste
+8,punjab,8057,gujjar(muslim),khan,gpt,caste
+8,punjab,8058,hadi,hadi,gpt,caste
+8,punjab,8059,harijan,atar,manual_yes,caste
+8,punjab,8060,harijan,doma,manual_yes,caste
+8,punjab,8061,jat,bhangu,gpt,caste
+8,punjab,8062,jat,chahal,gpt,caste
+8,punjab,8063,jat,her,gpt,caste
+8,punjab,8064,jat,judge,gpt,caste
+8,punjab,8065,jat,lalli,gpt,caste
+8,punjab,8066,jat,nijjar,gpt,caste
+8,punjab,8067,jat,saran,gpt,caste
+8,punjab,8068,jat,,gpt,caste
+8,punjab,8069,jatsikh,bassi,gemini,caste
+8,punjab,8070,jatsikh,bhangu,gemini,caste
+8,punjab,8071,jatsikh,bhinder,gemini,caste
+8,punjab,8072,jatsikh,chahal,gemini,caste
+8,punjab,8073,jatsikh,chimma,gemini,caste
+8,punjab,8074,jatsikh,deol,gemini,caste
+8,punjab,8075,jatsikh,ghuman,gemini,caste
+8,punjab,8076,jatsikh,gill,gemini,caste
+8,punjab,8077,jatsikh,grewal,gemini,caste
+8,punjab,8078,jatsikh,gubanda,gemini,caste
+8,punjab,8079,jatsikh,hans,gemini,caste
+8,punjab,8080,jatsikh,her,gemini,caste
+8,punjab,8081,jatsikh,jadge,gemini,caste
+8,punjab,8081,jatsikh,judge,gemini,caste
+8,punjab,8082,jatsikh,kaith,gemini,caste
+8,punjab,8083,jatsikh,kang,gemini,caste
+8,punjab,8084,jatsikh,khati,gemini,caste
+8,punjab,8085,jatsikh,kokkar,gemini,caste
+8,punjab,8086,jatsikh,lalli,gemini,caste
+8,punjab,8087,jatsikh,lunj,gemini,caste
+8,punjab,8088,jatsikh,maan,gemini,caste
+8,punjab,8089,jatsikh,madan,gemini,caste
+8,punjab,8090,jatsikh,mahant,gemini,caste
+8,punjab,8091,jatsikh,mann,gemini,caste
+8,punjab,8092,jatsikh,maur,gemini,caste
+8,punjab,8093,jatsikh,mehra,gemini,caste
+8,punjab,8094,jatsikh,mitha,gemini,caste
+8,punjab,8095,jatsikh,nijjar,gemini,caste
+8,punjab,8096,jatsikh,pakgi,gemini,caste
+8,punjab,8097,jatsikh,pannu,gemini,caste
+8,punjab,8098,jatsikh,rai,gemini,caste
+8,punjab,8099,jatsikh,randhawa,gemini,caste
+8,punjab,8100,jatsikh,samra,gemini,caste
+8,punjab,8101,jatsikh,sandhu,gemini,caste
+8,punjab,8102,jatsikh,saran,gemini,caste
+8,punjab,8103,jatsikh,sharma,gemini,caste
+8,punjab,8104,jatsikh,sidhu,gemini,caste
+8,punjab,8105,jatsikh,sohal,gemini,caste
+8,punjab,8106,jatsikh,tatla,gemini,caste
+8,punjab,8107,jatsikh,thir,gemini,caste
+8,punjab,8108,jatsikh,,gemini,caste
+8,punjab,8109,jhinwar,lunj,gpt,caste
+8,punjab,8110,jhinwar,mehra,gpt,caste
+8,punjab,8111,kabirpanthi,julaha,gemini,caste
+8,punjab,8112,kahar,durma,gpt,caste
+8,punjab,8113,kahtiyal,mahasa,manual_no,caste
+8,punjab,8114,kashyap,jeer,gpt,caste
+8,punjab,8115,kehsavrajan,chyor,manual_yes,caste
+8,punjab,8116,keshavrajput,chyor,,
+8,punjab,8117,kewat,nishad,gpt,caste
+8,punjab,8118,khatri,kapur,gpt,caste
+8,punjab,8119,khatri,malhotra,gpt,caste
+8,punjab,8120,khatri,,gpt,caste
+8,punjab,8121,kumhar,prajapati,gpt,caste
+8,punjab,8122,kurmi,patel,gpt,caste
+8,punjab,8123,kurmi,verma,gpt,caste
+8,punjab,8124,kushwaha,kushwaha,gpt,caste
+8,punjab,8125,lohar,amra,gpt,caste
+8,punjab,8126,lohar,bansal,gpt,caste
+8,punjab,8127,lohar,dhele,gpt,caste
+8,punjab,8128,lohar,dupad,gpt,caste
+8,punjab,8129,lohar,kalri,gpt,caste
+8,punjab,8130,lohar,khati,gpt,caste
+8,punjab,8131,lohar,nadra,gpt,caste
+8,punjab,8132,lohar,ramgarhia,gpt,caste
+8,punjab,8133,lohar,suri,gpt,caste
+8,punjab,8134,lohar,vishwakarma,gpt,caste
+8,punjab,8135,lohar,,gpt,caste
+8,punjab,8136,maher,maher,gpt,caste
+8,punjab,8137,marve,,,
+8,punjab,8138,mary,,,
+8,punjab,8139,mashim,gill,,
+8,punjab,8140,mashim,jite,,
+8,punjab,8141,massey,,,
+8,punjab,8142,mazhabi,jite,gpt,caste
+8,punjab,8143,mazhabi,maan,gpt,caste
+8,punjab,8144,mazhabi,,gpt,caste
+8,punjab,8145,meena,mothi,gpt,caste
+8,punjab,8146,mehra,jeer,gemini,caste
+8,punjab,8147,mistri,panesar,manual_yes,caste
+8,punjab,8148,nai,bali,gpt,caste
+8,punjab,8149,nai,dutta,gpt,caste
+8,punjab,8150,nai,kalri,gpt,caste
+8,punjab,8151,nai,kele,gpt,caste
+8,punjab,8152,nai,phuman,gpt,caste
+8,punjab,8153,nai,sidhu,gpt,caste
+8,punjab,8154,nai,,gpt,caste
+8,punjab,8155,nath,kokkar,gemini,caste
+8,punjab,8156,nath,yogi,gemini,caste
+8,punjab,8157,nishad,bind,gpt,caste
+8,punjab,8158,pasi,paswan,gpt,caste
+8,punjab,8159,raisikh,rai,manual_yes,caste
+8,punjab,8160,rajput,baghariya,gpt,caste
+8,punjab,8161,rajput,dadwal,gpt,caste
+8,punjab,8162,rajput,jaiswal,gpt,caste
+8,punjab,8163,rajput,kashyap,gpt,caste
+8,punjab,8164,rajput,lodhi,gpt,caste
+8,punjab,8165,rajput,mahajan,gpt,caste
+8,punjab,8166,rajput,tayal,gpt,caste
+8,punjab,8167,rajput,,gpt,caste
+8,punjab,8168,ramgrhia,bansal,gpt,caste
+8,punjab,8169,saini,pathan,gpt,caste
+8,punjab,8170,saini,,gpt,caste
+8,punjab,8171,sansi,bhangu,gpt,caste
+8,punjab,8172,sohata,,,
+8,punjab,8173,stat,mary,,
+8,punjab,8174,sunar,bhagal,gpt,caste
+8,punjab,8175,sunar,chino,gpt,caste
+8,punjab,8176,sunar,gogna,gpt,caste
+8,punjab,8177,swarnkar,,gpt,caste
+8,punjab,8178,teli,gupta,gpt,caste
+8,punjab,8179,vaishya,madan,gpt,caste
+8,punjab,8180,vaishya,narang,gpt,caste
+8,punjab,8181,others,,,
+9,himachal pradesh,9001,brahman,sharma,gpt,caste
+9,himachal pradesh,9002,chamar,ajad,gpt,caste
+9,himachal pradesh,9003,chamar,bhardwaj,gpt,caste
+9,himachal pradesh,9004,chamar,bhatia,gpt,caste
+9,himachal pradesh,9005,chamar,chauhan,gpt,caste
+9,himachal pradesh,9006,chamar,julaha,gpt,caste
+9,himachal pradesh,9007,chamar,kashyap,gpt,caste
+9,himachal pradesh,9008,chamar,koli,gpt,caste
+9,himachal pradesh,9009,chamar,lohar,gpt,caste
+9,himachal pradesh,9010,chamar,majhare,gpt,caste
+9,himachal pradesh,9011,chamar,mochi,gpt,caste
+9,himachal pradesh,9012,chamar,,gpt,caste
+9,himachal pradesh,9013,jat,,gpt,caste
+9,himachal pradesh,9014,rajput,barwa,gpt,caste
+9,himachal pradesh,9015,rajput,barwal,gpt,caste
+9,himacha l pradesh,9016,rajput,bhandari,gpt,caste
+9,himachal pradesh,9017,rajput,bharmoria,gpt,caste
+9,himachal pradesh,9018,rajput,bisht,gpt,caste
+9,himachal pradesh,9019,rajput,dhalaria,gpt,caste
+9,himachal pradesh,9020,rajput,khadhaka,gpt,caste
+9,himachal pradesh,9021,rajput,kharwal,gpt,caste
+9,himachal pradesh,9022,rajput,kumha,gpt,caste
+9,himachal pradesh,9023,rajput,mandhotra,gpt,caste
+9,himachal pradesh,9024,rajput,minya,gpt,caste
+9,himachal pradesh,9025,rajput,nagwal,gpt,caste
+9,himachal pradesh,9026,rajput,patiyal,gpt,caste
+9,himachal pradesh,9027,rajput,sakalani,gpt,caste
+9,himachal pradesh,9028,rajput,shahi,gpt,caste
+9,himachal pradesh,9029,rajput,thakur,gpt,caste
+9,himachal pradesh,9030,rajput,verma,gpt,caste
+9,himachal pradesh,9031,tarkhan,,gpt,caste
+9,himachal pradesh,9032,others,,,
+9,himachal pradesh,9033,rajput,others,gpt,caste
+10,uttar pradesh,10001,aarakh,moothi,manual_yes,caste
+10,uttar pradesh,10002,aarakh,yadav,manual_yes,caste
+10,uttar pradesh,10003,ahir,yadav,gpt,caste
+10,uttar pradesh,10004,badhai,chaurasia,manual_no,caste
+10,uttar pradesh,10005,badhai,nishad,manual_no,caste
+10,uttar pradesh,10006,badhai,panchal,manual_no,caste
+10,uttar pradesh,10007,badhai,panwari,manual_no,caste
+10,uttar pradesh,10008,badhai,sharma,manual_no,caste
+10,uttar pradesh,10009,badhai,vishwakarma,manual_no,caste
+10,uttar pradesh,10010,bairagi,,gpt,caste
+10,uttar pradesh,10011,balmiki,balmiki,gpt,caste
+10,uttar pradesh,10012,bangali,hela,,
+10,uttar pradesh,10013,baniya,goyal,gpt,caste
+10,uttar pradesh,10014,baniya,gupta,gpt,caste
+10,uttar pradesh,10015,baniya,jaiswal,gpt,caste
+10,uttar pradesh,10016,baniya,kesarbani,gpt,caste
+10,uttar pradesh,10017,baniya,sahu,gpt,caste
+10,uttar pradesh,10018,baniya,tureha,gpt,caste
+10,uttar pradesh,10019,baniya,varshney,gpt,caste
+10,uttar pradesh,10020,bayar,barwar,manual_yes,caste
+10,uttar pradesh,10021,behna,hanafi,gpt,caste
+10,uttar pradesh,10022,behna,siddiqui,gpt,caste
+10,uttar pradesh,10023,bhangi,balmiki,gpt,caste
+10,uttar pradesh,10024,bhangi,upadhayay,gpt,caste
+10,uttar pradesh,10025,bhar,rai,gpt,caste
+10,uttar pradesh,10026,bhar,rajbhar,gpt,caste
+10,uttar pradesh,10027,bhar,ray,gpt,caste
+10,uttar pradesh,10028,bhisti,,gemini,caste
+10,uttar pradesh,10029,bhurji,bharbhuja,manual_yes,caste
+10,uttar pradesh,10030,bhurji,bhuj,manual_yes,caste
+10,uttar pradesh,10031,bhurji,gupta,manual_yes,caste
+10,uttar pradesh,10032,bhurji,mathur,manual_yes,caste
+10,uttar pradesh,10033,bhurji,saxena,manual_yes,caste
+10,uttar pradesh,10034,brahman,agnihotri,gpt,caste
+10,uttar pradesh,10035,brahman,bairagi,gpt,caste
+10,uttar pradesh,10036,brahman,bajpai,gpt,caste
+10,uttar pradesh,10037,brahman,chaubey,gpt,caste
+10,uttar pradesh,10038,brahman,dewedi,gpt,caste
+10,uttar pradesh,10039,brahman,dixit,gpt,caste
+10,uttar pradesh,10040,brahman,dubey,gpt,caste
+10,uttar pradesh,10041,brahman,gaur,gpt,caste
+10,uttar pradesh,10042,brahman,gautam,gpt,caste
+10,uttar pradesh,10043,brahman,joshi,gpt,caste
+10,uttar pradesh,10044,brahman,kaushik,gpt,caste
+10,uttar pradesh,10045,brahman,mishra,gpt,caste
+10,uttar pradesh,10046,brahman,ojha,gpt,caste
+10,uttar pradesh,10047,brahman,pachori,gpt,caste
+10,uttar pradesh,10048,brahman,pandey,gpt,caste
+10,uttar pradesh,10049,brahman,pathak,gpt,caste
+10,uttar pradesh,10050,brahman,rai,gpt,caste
+10,uttar pradesh,10051,brahman,sharma,gpt,caste
+10,uttar pradesh,10052,brahman,shukla,gpt,caste
+10,uttar pradesh,10053,brahman,solanki,gpt,caste
+10,uttar pradesh,10054,brahman,tiwari,gpt,caste
+10,uttar pradesh,10055,brahman,tripathi,gpt,caste
+10,uttar pradesh,10056,brahman,trivedi,gpt,caste
+10,uttar pradesh,10057,brahman,tyagi,gpt,caste
+10,uttar pradesh,10058,brahman,upadhayay,gpt,caste
+10,uttar pradesh,10059,brahmbhatt,sharma,gpt,caste
+10,uttar pradesh,10060,brijbasinat,nagar,,
+10,uttar pradesh,10061,dafali,hashmi,gemini,caste
+10,uttar pradesh,10062,darji,idrishi,gpt,caste
+10,uttar pradesh,10063,dhanuk,katheria,gpt,caste
+10,uttar pradesh,10064,dharkar,vedvansi,gpt,caste
+10,uttar pradesh,10065,dhimar,gautam,gpt,caste
+10,uttar pradesh,10066,dhimar,kashyap,gpt,caste
+10,uttar pradesh,10067,dhimar,tureha,gpt,caste
+10,uttar pradesh,10068,dhimar,tursib,gpt,caste
+10,uttar pradesh,10069,dhobi,diwakar,gpt,caste
+10,uttar pradesh,10070,dhobi,gaur,gpt,caste
+10,uttar pradesh,10071,dhobi,kanawa,gpt,caste
+10,uttar pradesh,10072,dhobi,kannaujia,gpt,caste
+10,uttar pradesh,10073,dhobi,nibariya,gpt,caste
+10,uttar pradesh,10074,dhobi,pawar,gpt,caste
+10,uttar pradesh,10075,dhobi,yadav,gpt,caste
+10,uttar pradesh,10076,dhuniya,dhuniya,gpt,caste
+10,uttar pradesh,10077,dom,nag,gpt,caste
+10,uttar pradesh,10078,dushad,paswan,gemini,caste
+10,uttar pradesh,10079,fakir,alvi,manual_yes,caste
+10,uttar pradesh,10080,fakir,manihar,manual_yes,caste
+10,uttar pradesh,10081,fakir,shah,manual_yes,caste
+10,uttar pradesh,10082,fakir,sham,manual_yes,caste
+10,uttar pradesh,10083,fakir,sheikh,manual_yes,caste
+10,uttar pradesh,10084,gadaria,baghel,gpt,caste
+10,uttar pradesh,10085,gadaria,pal,gpt,caste
+10,uttar pradesh,10086,gosai,giri,gpt,caste
+10,uttar pradesh,10087,gujar,bansal,gpt,caste
+10,uttar pradesh,10088,gujar,dhama,gpt,caste
+10,uttar pradesh,10089,gujar,drawat,gpt,caste
+10,uttar pradesh,10090,gujar,kasana,gpt,caste
+10,uttar pradesh,10091,gujar,nagar,gpt,caste
+10,uttar pradesh,10092,halwai,gupta,gemini,caste
+10,uttar pradesh,10093,harijan,chamar,manual_yes,caste
+10,uttar pradesh,10094,harijan,dhama,manual_yes,caste
+10,uttar pradesh,10095,harijan,jadav,manual_yes,caste
+10,uttar pradesh,10096,harijan,jatav,manual_yes,caste
+10,uttar pradesh,10097,harijan,kharwar,manual_yes,caste
+10,uttar pradesh,10098,harijan,kori,manual_yes,caste
+10,uttar pradesh,10099,harijan,mahor,manual_yes,caste
+10,uttar pradesh,10100,harijan,paswan,manual_yes,caste
+10,uttar pradesh,10101,harijan,rajak,manual_yes,caste
+10,uttar pradesh,10102,harijan,rashi,manual_yes,caste
+10,uttar pradesh,10103,harijan,rawat,manual_yes,caste
+10,uttar pradesh,10104,jat,choudhary,gpt,caste
+10,uttar pradesh,10105,jat,pawar,gpt,caste
+10,uttar pradesh,10106,jat,payal,gpt,caste
+10,uttar pradesh,10107,jat,sirohi,gpt,caste
+10,uttar pradesh,10108,jat,tewatiya,gpt,caste
+10,uttar pradesh,10109,jogi,tomar,gpt,caste
+10,uttar pradesh,10110,kachhi,kushwaha,gpt,caste
+10,uttar pradesh,10111,kachhi,maurya,gpt,caste
+10,uttar pradesh,10112,kahar,dhuriya,gpt,caste
+10,uttar pradesh,10113,kahar,gaur,gpt,caste
+10,uttar pradesh,10114,kahar,gond,gpt,caste
+10,uttar pradesh,10115,kahar,kahar,gpt,caste
+10,uttar pradesh,10116,kahar,kashyap,gpt,caste
+10,uttar pradesh,10117,kahar,kharwar,gpt,caste
+10,uttar pradesh,10118,kahar,verma,gpt,caste
+10,uttar pradesh,10119,kalwar,gupta,gpt,caste
+10,uttar pradesh,10120,kalwar,jaiswal,gpt,caste
+10,uttar pradesh,10121,kalwar,varsha,gpt,caste
+10,uttar pradesh,10122,kanhar,gaur,,
+10,uttar pradesh,10123,kanhar,gava,,
+10,uttar pradesh,10124,kanhar,gond,,
+10,uttar pradesh,10125,kanhar,kharwar,,
+10,uttar pradesh,10126,kayasth,bhoumik,gpt,caste
+10,uttar pradesh,10127,kayasth,mittal,gpt,caste
+10,uttar pradesh,10128,kayasth,saxena,gpt,caste
+10,uttar pradesh,10129,kayasth,srivastava,gpt,caste
+10,uttar pradesh,10130,kewat,bind,gpt,caste
+10,uttar pradesh,10131,kewat,choudhary,gpt,caste
+10,uttar pradesh,10132,kewat,nishad,gpt,caste
+10,uttar pradesh,10133,khandu,gupta,manual_yes,caste
+10,uttar pradesh,10134,kharwar,benbansi,gpt,caste
+10,uttar pradesh,10135,kharwar,benwasher,gpt,caste
+10,uttar pradesh,10136,khatik,bamaniya,gpt,caste
+10,uttar pradesh,10137,khatik,chik,gpt,caste
+10,uttar pradesh,10138,khatik,sonar,gpt,caste
+10,uttar pradesh,10139,khatik,sonkar,gpt,caste
+10,uttar pradesh,10140,kori,kori,gpt,caste
+10,uttar pradesh,10141,kori,kushwaha,gpt,caste
+10,uttar pradesh,10142,kori,maurya,gpt,caste
+10,uttar pradesh,10143,kori,pal,gpt,caste
+10,uttar pradesh,10144,kori,verma,gpt,caste
+10,uttar pradesh,10145,kori,,gpt,caste
+10,uttar pradesh,10146,kshatriya,sengar,gpt,caste
+10,uttar pradesh,10147,kumhar,gaur,gpt,caste
+10,uttar pradesh,10148,kumhar,prajapati,gpt,caste
+10,uttar pradesh,10149,kurmi,brahman,gpt,caste
+10,uttar pradesh,10150,kurmi,kannaujia,gpt,caste
+10,uttar pradesh,10151,kurmi,pandey,gpt,caste
+10,uttar pradesh,10152,kurmi,patel,gpt,caste
+10,uttar pradesh,10153,kurmi,verma,gpt,caste
+10,uttar pradesh,10154,lodh,mahor,gpt,caste
+10,uttar pradesh,10155,lohar,sharma,gpt,caste
+10,uttar pradesh,10156,lohar,vishwakarma,gpt,caste
+10,uttar pradesh,10157,lohar,yadav,gpt,caste
+10,uttar pradesh,10158,luniya,chauhan,gpt,caste
+10,uttar pradesh,10159,mali,saini,gpt,caste
+10,uttar pradesh,10160,manihar,lakhera,gpt,caste
+10,uttar pradesh,10161,manihar,qulandar,gpt,caste
+10,uttar pradesh,10162,manihar,siddiqui,gpt,caste
+10,uttar pradesh,10163,mirasi,abbal,gemini,caste
+10,uttar pradesh,10164,mominansari,ansari,gemini,caste
+10,uttar pradesh,10165,muslim,qureshi,,
+10,uttar pradesh,10166,muslimdarji,idrishi,,
+10,uttar pradesh,10167,muslimdarji,siddiqui,,
+10,uttar pradesh,10168,muslimdhobi,ali,gemini,caste
+10,uttar pradesh,10169,muslimdhobi,ansari,gemini,caste
+10,uttar pradesh,10170,muslimdhobi,baksh,gemini,caste
+10,uttar pradesh,10171,muslimdhobi,dhama,gemini,caste
+10,uttar pradesh,10172,muslimdhobi,dhuniya,gemini,caste
+10,uttar pradesh,10173,muslimdhobi,dubey,gemini,caste
+10,uttar pradesh,10174,muslimdhobi,kassar,gemini,caste
+10,uttar pradesh,10175,muslimdhobi,khan,gemini,caste
+10,uttar pradesh,10176,muslimdhobi,mansuri,gemini,caste
+10,uttar pradesh,10177,muslimdhobi,sharma,gemini,caste
+10,uttar pradesh,10178,muslimdhobi,sheikh,gemini,caste
+10,uttar pradesh,10179,muslimdhobi,siddiqui,gemini,caste
+10,uttar pradesh,10180,muslimdhobi,sulemani,gemini,caste
+10,uttar pradesh,10181,muslimgujar,hashmi,,
+10,uttar pradesh,10182,muslimhalwai,ali,,
+10,uttar pradesh,10183,muslimnai,balwar,,
+10,uttar pradesh,10184,muslimnai,sulemani,,
+10,uttar pradesh,10185,muslimnai,turkata,,
+10,uttar pradesh,10186,muslimrajput,ansari,,
+10,uttar pradesh,10187,muslimrajput,fakir,,
+10,uttar pradesh,10188,muslimrajput,gaddi,,
+10,uttar pradesh,10189,muslimrajput,gond,,
+10,uttar pradesh,10190,muslimrajput,iraqi,,
+10,uttar pradesh,10191,muslimrajput,khan,,
+10,uttar pradesh,10192,muslimrajput,pathan,,
+10,uttar pradesh,10193,muslimrajput,qureshi,,
+10,uttar pradesh,10194,muslimrajput,saiyed,,
+10,uttar pradesh,10195,muslimrajput,sheikh,,
+10,uttar pradesh,10196,muslimrajput,siddiqui,,
+10,uttar pradesh,10197,muslimrajput,sulemani,,
+10,uttar pradesh,10198,muslimsalmani,sulemani,,
+10,uttar pradesh,10199,muslimteli,ali,,
+10,uttar pradesh,10200,muslimteli,malik,,
+10,uttar pradesh,10201,muslimteli,siddiqui,,
+10,uttar pradesh,10202,nai,bari,gpt,caste
+10,uttar pradesh,10203,nai,brahai,gpt,caste
+10,uttar pradesh,10204,nai,chandrawal,gpt,caste
+10,uttar pradesh,10205,nai,dhama,gpt,caste
+10,uttar pradesh,10206,nai,hardwariya,gpt,caste
+10,uttar pradesh,10207,nai,nai,gpt,caste
+10,uttar pradesh,10208,nai,rajauriya,gpt,caste
+10,uttar pradesh,10209,nai,sain,gpt,caste
+10,uttar pradesh,10210,nai,sharma,gpt,caste
+10,uttar pradesh,10211,pasi,paswan,gpt,caste
+10,uttar pradesh,10212,pasi,saroj,gpt,caste
+10,uttar pradesh,10213,pathan,khan,manual_yes,caste
+10,uttar pradesh,10214,rajput,baghel,gpt,caste
+10,uttar pradesh,10215,rajput,balhariya,gpt,caste
+10,uttar pradesh,10216,rajput,balkharya,gpt,caste
+10,uttar pradesh,10217,rajput,bangar,gpt,caste
+10,uttar pradesh,10218,rajput,beshen,gpt,caste
+10,uttar pradesh,10219,rajput,bhadauriya,gpt,caste
+10,uttar pradesh,10220,rajput,bhati,gpt,caste
+10,uttar pradesh,10221,rajput,bhriguvanshi,gpt,caste
+10,uttar pradesh,10222,rajput,bisen,gpt,caste
+10,uttar pradesh,10223,rajput,brijwasi,gpt,caste
+10,uttar pradesh,10224,rajput,chauhan,gpt,caste
+10,uttar pradesh,10225,rajput,dikhit,gpt,caste
+10,uttar pradesh,10226,rajput,gahlot,gpt,caste
+10,uttar pradesh,10227,rajput,gaur,gpt,caste
+10,uttar pradesh,10228,rajput,jarauliya,gpt,caste
+10,uttar pradesh,10229,rajput,jatav,gpt,caste
+10,uttar pradesh,10230,rajput,pandey,gpt,caste
+10,uttar pradesh,10231,rajput,panwari,gpt,caste
+10,uttar pradesh,10232,rajput,prajapati,gpt,caste
+10,uttar pradesh,10233,rajput,qureshi,gpt,caste
+10,uttar pradesh,10234,rajput,rajawat,gpt,caste
+10,uttar pradesh,10235,rajput,rakwar,gpt,caste
+10,uttar pradesh,10236,rajput,rana,gpt,caste
+10,uttar pradesh,10237,rajput,rathore,gpt,caste
+10,uttar pradesh,10238,rajput,sengar,gpt,caste
+10,uttar pradesh,10239,rajput,sisodiya,gpt,caste
+10,uttar pradesh,10240,rajput,solanki,gpt,caste
+10,uttar pradesh,10241,rajput,somwansh,gpt,caste
+10,uttar pradesh,10242,rajput,tomar,gpt,caste
+10,uttar pradesh,10243,rajput,ujjaini,gpt,caste
+10,uttar pradesh,10244,ranghar,khan,gpt,caste
+10,uttar pradesh,10245,saifi,nor,gemini,caste
+10,uttar pradesh,10246,saifi,siddiqui,gemini,caste
+10,uttar pradesh,10247,saiyed,hussain,,
+10,uttar pradesh,10248,saiyed,kazi,,
+10,uttar pradesh,10249,saiyed,rizvi,,
+10,uttar pradesh,10250,sheikh,abbasi,manual_yes,caste
+10,uttar pradesh,10251,sheikh,farooq,manual_yes,caste
+10,uttar pradesh,10252,sheikh,mansuri,manual_yes,caste
+10,uttar pradesh,10253,sheikh,siddiqui,manual_yes,caste
+10,uttar pradesh,10254,sonar,soni,gpt,caste
+10,uttar pradesh,10255,teli,gupta,gpt,caste
+10,uttar pradesh,10256,teli,malik,gpt,caste
+10,uttar pradesh,10257,teli,rathore,gpt,caste
+10,uttar pradesh,10258,teli,sahu,gpt,caste
+10,uttar pradesh,10259,teli,verma,gpt,caste
+10,uttar pradesh,10260,thakur,dikhit,gemini,caste
+10,uttar pradesh,10261,yadav,yadav,gpt,caste
+10,uttar pradesh,10262,brahman,others,gpt,caste
+10,uttar pradesh,10263,rajput,others,gpt,caste
+10,uttar pradesh,10264,others,,,
+11,bihar,11001,adiwasi,handsa,gpt,caste
+11,bihar,11002,adiwasi,hemram,gpt,caste
+11,bihar,11003,adiwasi,marandi,gpt,caste
+11,bihar,11004,ahir,rai,gpt,caste
+11,bihar,11005,ahir,yadav,gpt,caste
+11,bihar,11006,baniya,choudhary,gpt,caste
+11,bihar,11007,baniya,gupta,gpt,caste
+11,bihar,11008,baniya,kesri,gpt,caste
+11,bihar,11009,baniya,sahu,gpt,caste
+11,bihar,11010,baniya,shah,gpt,caste
+11,bihar,11011,baniya,sharma,gpt,caste
+11,bihar,11012,barhai,sharma,gpt,caste
+11,bihar,11013,brahamin,sharma,gemini,caste
+11,bihar,11014,brahman,dubey,gpt,caste
+11,bihar,11015,brahman,giri,gpt,caste
+11,bihar,11016,brahman,pandey,gpt,caste
+11,bihar,11017,brahman,pathak,gpt,caste
+11,bihar,11018,brahman,rai,gpt,caste
+11,bihar,11019,brahman,tiwari,gpt,caste
+11,bihar,11020,brahman,upadhyay,gpt,caste
+11,bihar,11021,chamar,choudhary,gpt,caste
+11,bihar,11022,chamar,kushwaha,gpt,caste
+11,bihar,11023,chamar,paswan,gpt,caste
+11,bihar,11024,chamar,,gpt,caste
+11,bihar,11025,dhobi,rajak,gpt,caste
+11,bihar,11026,dhobi,varetha,gpt,caste
+11,bihar,11027,dom,,gpt,caste
+11,bihar,11028,dusadh,paswan,gpt,caste
+11,bihar,11029,faqir,miyan,manual_yes,caste
+11,bihar,11030,gund,,manual_yes,caste
+11,bihar,11031,halwai,sahu,gemini,caste
+11,bihar,11032,hari,rai,manual_yes,caste
+11,bihar,11033,hari,,manual_yes,caste
+11,bihar,11034,hussain,,manual_yes,caste
+11,bihar,11035,julaha,ansari,gpt,caste
+11,bihar,11036,kahar,prasad,gpt,caste
+11,bihar,11037,kahar,rawat,gpt,caste
+11,bihar,11038,kahar,,gpt,caste
+11,bihar,11039,kayasth,srivastav,gpt,caste
+11,bihar,11040,koeri,kushwaha,gpt,caste
+11,bihar,11041,koeri,mauriya,gpt,caste
+11,bihar,11042,koeri,rai,gpt,caste
+11,bihar,11043,kulhaiya,alam,manual_yes,caste
+11,bihar,11044,kulhaiya,,manual_yes,caste
+11,bihar,11045,kumhar,prjapati,gpt,caste
+11,bihar,11046,kumhar,,gpt,caste
+11,bihar,11047,kumhar,,gpt,caste
+11,bihar,11048,lohar,prjapati,gpt,caste
+11,bihar,11049,lohar,sharma,gpt,caste
+11,bihar,11050,mali,bhagat,gpt,caste
+11,bihar,11051,mallah,mahaldar,gpt,caste
+11,bihar,11052,musahar,rishi,gpt,caste
+11,bihar,11053,musahar,,gpt,caste
+11,bihar,11054,nai,thakur,gpt,caste
+11,bihar,11055,pasi,pasi,gpt,caste
+11,bihar,11056,pasi,paswan,gpt,caste
+11,bihar,11057,pathan,khan,manual_yes,caste
+11,bihar,11058,rajbhar,rai,gpt,caste
+11,bihar,11059,rajput,,gpt,caste
+11,bihar,11060,sahu,choudhary,gpt,caste
+11,bihar,11061,santhali,marandi,gpt,caste
+11,bihar,11062,santhali,soren,gpt,caste
+11,bihar,11063,shaikh,,manual_no,caste
+11,bihar,11064,sheshwadi,alam,,
+11,bihar,11065,soren,,gpt,caste
+11,bihar,11066,tanti,,gpt,caste
+11,bihar,11067,tatwa,choudhary,,
+11,bihar,11068,tatwa,das,,
+11,bihar,11069,tatwa,,,
+11,bihar,11070,teli,kushwaha,gpt,caste
+11,bihar,11071,teli,sahu,gpt,caste
+11,bihar,11072,teli,shah,gpt,caste
+11,bihar,11073,vishwakarma,sharma,gpt,caste
+11,bihar,11074,others,,,
+12,west bengal,12001,aguri,aditya,gpt,caste
+12,west bengal,12002,aguri,angror,gpt,caste
+12,west bengal,12003,aguri,balgori,gpt,caste
+12,west bengal,12004,aguri,phulakatamali,gpt,caste
+12,west bengal,12005,bagdi,daratia,gpt,caste
+12,west bengal,12006,bagdi,machua,gpt,caste
+12,west bengal,12007,bagdi,noda,gpt,caste
+12,west bengal,12008,bagdi,phulakatamali,gpt,caste
+12,west bengal,12009,bagdi,sundi,gpt,caste
+12,west bengal,12010,bairagi,bahari,gpt,caste
+12,west bengal,12011,bairagi,bairagi,gpt,caste
+12,west bengal,12012,banik,desashram,gpt,caste
+12,west bengal,12013,banik,gandhabanik,gpt,caste
+12,west bengal,12014,bauri,chasa,gpt,caste
+12,west bengal,12014,bauri,chasha,gpt,caste
+12,west bengal,12015,bauri,dulia,gpt,caste
+12,west bengal,12016,bauri,mallabhumia,gpt,caste
+12,west bengal,12017,bayen,bajunia,,
+12,west bengal,12018,brahman,bairagi,gpt,caste
+12,west bengal,12019,brahman,barendra,gpt,caste
+12,west bengal,12020,brahman,kaibarta,gpt,caste
+12,west bengal,12021,brahman,rarhi,gpt,caste
+12,west bengal,12022,brahman,vaidik,gpt,caste
+12,west bengal,12023,chamar,mochi,gpt,caste
+12,west bengal,12024,chutor,chutor,manual_yes,caste
+12,west bengal,12025,dhoba,bangalidhoba,gemini,caste
+12,west bengal,12026,dom,akure,gpt,caste
+12,west bengal,12027,dom,jhalo,gpt,caste
+12,west bengal,12028,dom,mochi,gpt,caste
+12,west bengal,12029,dulia,chasa,manual_yes,caste
+12,west bengal,12029,dulia,chasha,manual_yes,caste
+12,west bengal,12030,dulia,sundi,manual_yes,caste
+12,west bengal,12031,gandharahik,ashram,manual_yes,caste
+12,west bengal,12032,gandharahik,desashram,manual_yes,caste
+12,west bengal,12033,gandharahik,sankha,manual_yes,caste
+12,west bengal,12034,gandharahik,sankhaashram,manual_yes,caste
+12,west bengal,12035,garai,daratia,gemini,caste
+12,west bengal,12036,garai,teli,gemini,caste
+12,west bengal,12037,gowala,barendra,gpt,caste
+12,west bengal,12038,gowala,gop,gpt,caste
+12,west bengal,12038,gowala,gope,gpt,caste
+12,west bengal,12039,hari,abari,manual_yes,caste
+12,west bengal,12040,hari,sau,manual_yes,caste
+12,west bengal,12041,hari,sundi,manual_yes,caste
+12,west bengal,12042,hembram,bital,gemini,caste
+12,west bengal,12043,jele,bhunja,gpt,caste
+12,west bengal,12044,jele,kumar,gpt,caste
+12,west bengal,12045,jele,kusmete,gpt,caste
+12,west bengal,12046,jele,machua,gpt,caste
+12,west bengal,12047,jele,mashon,gpt,caste
+12,west bengal,12048,kaibarta,jala,gpt,caste
+12,west bengal,12049,kaibarta,kaibarta,gpt,caste
+12,west bengal,12050,kalu,daratia,gemini,caste
+12,west bengal,12051,kalu,rarhi,gemini,caste
+12,west bengal,12052,kalu,teli,gemini,caste
+12,west bengal,12053,kamar,belashi,gpt,caste
+12,west bengal,12054,kamlu,teli,manual_yes,caste
+12,west bengal,12055,karmakar,belashi,gpt,caste
+12,west bengal,12056,karmakar,,gpt,caste
+12,west bengal,12057,kayastha,aditya,gpt,caste
+12,west bengal,12058,kayastha,barendra,gpt,caste
+12,west bengal,12059,kayastha,bhunja,gpt,caste
+12,west bengal,12060,kayastha,rarhi,gpt,caste
+12,west bengal,12061,koibartr,halik,gpt,caste
+12,west bengal,12062,kol,kol,gpt,caste
+12,west bengal,12063,kolhu,kachuarolma,gemini,caste
+12,west bengal,12064,kora,hatea,gpt,caste
+12,west bengal,12065,koronga,dwada,manual_yes,caste
+12,west bengal,12066,koronga,jele,manual_yes,caste
+12,west bengal,12067,kotal,bhunia,manual_yes,caste
+12,west bengal,12068,kotal,kantch,manual_yes,caste
+12,west bengal,12069,kotal,uttararin,manual_yes,caste
+12,west bengal,12070,kumar,chasha,,
+12,west bengal,12071,kumar,kumar,,
+12,west bengal,12072,kumar,rarhi,,
+12,west bengal,12073,kurmi,chandal,gpt,caste
+12,west bengal,12074,kurmi,chapwar,gpt,caste
+12,west bengal,12075,mahaishya,bagla,gpt,caste
+12,west bengal,12075,mahaishya,bagula,gpt,caste
+12,west bengal,12076,mahaishya,benatia,gpt,caste
+12,west bengal,12077,mahaishya,chasikotal,gpt,caste
+12,west bengal,12078,mahaishya,chukulia,gpt,caste
+12,west bengal,12079,mahaishya,eenatia,gpt,caste
+12,west bengal,12080,mahaishya,kotal,gpt,caste
+12,west bengal,12081,mahaishya,manduchasa,gpt,caste
+12,west bengal,12081,mahaishya,munduchasa,gpt,caste
+12,west bengal,12082,mahali,bansphoremaheli,gpt,caste
+12,west bengal,12083,mahali,bital,gpt,caste
+12,west bengal,12084,majhi,bhatwar,gpt,caste
+12,west bengal,12085,majhi,kusmete,gpt,caste
+12,west bengal,12086,malakar,phulakatamali,gpt,caste
+12,west bengal,12087,mali,phulakatamali,gpt,caste
+12,west bengal,12088,mali,sukulkara,gpt,caste
+12,west bengal,12089,mallah,mallah,gpt,caste
+12,west bengal,12090,malo,malo,gemini,caste
+12,west bengal,12091,mandi,handi,manual_yes,caste
+12,west bengal,12092,mayra,kotal,manual_yes,caste
+12,west bengal,12093,mayra,modak,manual_yes,caste
+12,west bengal,12094,mete,daratia,manual_yes,caste
+12,west bengal,12095,modak,moira,,
+12,west bengal,12096,moira,kotal,,
+12,west bengal,12097,moira,purabiya,,
+12,west bengal,12098,mudi,boar,manual_yes,caste
+12,west bengal,12099,muellu,teli,,
+12,west bengal,12100,munda,kolmunda,gpt,caste
+12,west bengal,12101,muniya,bhojpuriya,manual_yes,caste
+12,west bengal,12102,murmu,bital,gpt,caste
+12,west bengal,12103,murmu,handi,gpt,caste
+12,west bengal,12104,murmu,,gpt,caste
+12,west bengal,12105,muslim,,,
+12,west bengal,12106,namasudra,namasudra,gpt,caste
+12,west bengal,12107,napit,barendra,gpt,caste
+12,west bengal,12108,napit,paramanik,gpt,caste
+12,west bengal,12109,napit,paschimrarhi,gpt,caste
+12,west bengal,12110,nayak,sahar,gpt,caste
+12,west bengal,12111,nomosudra,namasudra,gpt,caste
+12,west bengal,12112,nuniya,bhojpuriya,gpt,caste
+12,west bengal,12113,paliya,paliya,gemini,caste
+12,west bengal,12114,paramanik,napit,gemini,caste
+12,west bengal,12115,patni,teli,manual_yes,caste
+12,west bengal,12116,rabidas,janpur,gemini,caste
+12,west bengal,12116,rabidas,jonpuri,gemini,caste
+12,west bengal,12117,rabidas,machua,gemini,caste
+12,west bengal,12118,rabidas,mochi,gemini,caste
+12,west bengal,12119,rajbanshi,rajbanshi,gpt,caste
+12,west bengal,12120,rajwar,ahir,gpt,caste
+12,west bengal,12121,sadgope,bhunja,gpt,caste
+12,west bengal,12122,sadgope,chasa,gpt,caste
+12,west bengal,12122,sadgope,chasha,gpt,caste
+12,west bengal,12123,sadgope,gop,gpt,caste
+12,west bengal,12124,sadgope,purbakuliya,gpt,caste
+12,west bengal,12125,santhal,abari,gpt,caste
+12,west bengal,12126,santhal,bital,gpt,caste
+12,west bengal,12127,santhal,boar,gpt,caste
+12,west bengal,12128,santhal,desaisanthal,gpt,caste
+12,west bengal,12129,santhal,deswalisanthal,gpt,caste
+12,west bengal,12130,santhal,handi,gpt,caste
+12,west bengal,12131,santhal,muro,gpt,caste
+12,west bengal,12132,sarbjar,dakshinrarhi,manual_yes,caste
+12,west bengal,12133,sardar,chapwar,manual_yes,caste
+12,west bengal,12134,sarnakar,dakshinrarhi,manual_yes,caste
+12,west bengal,12135,sunri,rarhi,gpt,caste
+12,west bengal,12136,sunri,sundi,gpt,caste
+12,west bengal,12137,suphra,lasira,manual_yes,caste
+12,west bengal,12138,suri,sundi,gemini,caste
+12,west bengal,12139,tanti,hasantanti,gpt,caste
+12,west bengal,12140,tanti,rarhi,gpt,caste
+12,west bengal,12141,tanti,sikhiria,gpt,caste
+12,west bengal,12142,tantubai,baendra,gemini,caste
+12,west bengal,12143,tantubai,bairagi,gemini,caste
+12,west bengal,12142,tantubai,barendra,gemini,caste
+12,west bengal,12144,tantubai,rarhi,gemini,caste
+12,west bengal,12145,tantubai,tanti,gemini,caste
+12,west bengal,12146,tili,bhunja,gpt,caste
+12,west bengal,12147,tili,gachhuakalu,gpt,caste
+12,west bengal,12148,tili,,gpt,caste
+12,west bengal,12149,tomar,rarhi,manual_yes,caste
+12,west bengal,12150,tuntubai,rarhi,,
+12,west bengal,12151,tuntubai,tanti,,
+12,west bengal,12152,ugrakshtriya,aditya,gemini,caste
+12,west bengal,12153,ugrakshtriya,balgori,gemini,caste
+12,west bengal,12154,ugrakshtriya,napit,gemini,caste
+12,west bengal,12155,ugrakshtriya,,gemini,caste
+12,west bengal,12156,varmakar,belashi,manual_yes,caste
+12,west bengal,12157,others,,,
+13,jharkhand,13001,ahir,sahu,gpt,caste
+13,jharkhand,13002,ahir,shah,gpt,caste
+13,jharkhand,13003,ahir,turi,gpt,caste
+13,jharkhand,13004,ahir,yadav,gpt,caste
+13,jharkhand,13005,ahir,,gpt,caste
+13,jharkhand,13006,ashur,,manual_yes,caste
+13,jharkhand,13007,badhai,mistry,manual_no,caste
+13,jharkhand,13008,baniya,barnawal,gpt,caste
+13,jharkhand,13009,baniya,mistry,gpt,caste
+13,jharkhand,13010,baniya,modi,gpt,caste
+13,jharkhand,13011,baniya,sahu,gpt,caste
+13,jharkhand,13012,baniya,yadav,gpt,caste
+13,jharkhand,13013,baniya,,gpt,caste
+13,jharkhand,13014,barhai,mistry,gpt,caste
+13,jharkhand,13015,bhumihar,mishra,gpt,caste
+13,jharkhand,13016,bhumihar,pandey,gpt,caste
+13,jharkhand,13017,bhumihar,,gpt,caste
+13,jharkhand,13018,brahman,awashthi,gpt,caste
+13,jharkhand,13019,brahman,bharati,gpt,caste
+13,jharkhand,13020,brahman,dubey,gpt,caste
+13,jharkhand,13021,brahman,mishra,gpt,caste
+13,jharkhand,13022,brahman,pandey,gpt,caste
+13,jharkhand,13023,brahman,tiwari,gpt,caste
+13,jharkhand,13024,brahman,upadhayay,gpt,caste
+13,jharkhand,13025,chamar,bhuian,gpt,caste
+13,jharkhand,13026,chamar,das,gpt,caste
+13,jharkhand,13027,chamar,julaha,gpt,caste
+13,jharkhand,13028,chamar,mahali,gpt,caste
+13,jharkhand,13029,chamar,ravidas,gpt,caste
+13,jharkhand,13030,chamar,turi,gpt,caste
+13,jharkhand,13031,chamar,,gpt,caste
+13,jharkhand,13032,dhobi,rajak,gpt,caste
+13,jharkhand,13033,dusad,paswan,gpt,caste
+13,jharkhand,13034,edris,khalifa,manual_yes,caste
+13,jharkhand,13035,fakir,shah,manual_yes,caste
+13,jharkhand,13036,gandrap,rana,manual_yes,caste
+13,jharkhand,13037,ghatwal,rai,gemini,caste
+13,jharkhand,13038,ghatwal,ray,gemini,caste
+13,jharkhand,13039,halwai,,gemini,caste
+13,jharkhand,13040,kahar,julaha,gpt,caste
+13,jharkhand,13041,kahar,prajapati,gpt,caste
+13,jharkhand,13042,kahar,rawni,gpt,caste
+13,jharkhand,13043,kahar,,gpt,caste
+13,jharkhand,13044,kandu,shah,gpt,caste
+13,jharkhand,13045,kayastha,sinha,gpt,caste
+13,jharkhand,13046,kayastha,verma,gpt,caste
+13,jharkhand,13047,kayastha,,gpt,caste
+13,jharkhand,13048,kharwar,,gpt,caste
+13,jharkhand,13049,kumhar,pal,gpt,caste
+13,jharkhand,13050,kumhar,prajapati,gpt,caste
+13,jharkhand,13051,kurmi,raut,gpt,caste
+13,jharkhand,13052,lohar,sahu,gpt,caste
+13,jharkhand,13053,lohar,vishwakarma,gpt,caste
+13,jharkhand,13054,lohar,,gpt,caste
+13,jharkhand,13055,mali,malakar,gpt,caste
+13,jharkhand,13056,mali,,gpt,caste
+13,jharkhand,13057,mandal,raut,manual_yes,caste
+13,jharkhand,13058,mehtar,hadi,gpt,caste
+13,jharkhand,13059,mehtar,jadi,gpt,caste
+13,jharkhand,13060,mominansari,julaha,gemini,caste
+13,jharkhand,13061,mominansari,miyan,gemini,caste
+13,jharkhand,13062,mominansari,sahu,gemini,caste
+13,jharkhand,13063,mran,julaha,manual_yes,caste
+13,jharkhand,13064,musahar,bhuian,gpt,caste
+13,jharkhand,13065,musahar,,gpt,caste
+13,jharkhand,13066,muslimdhobi,idrishi,gemini,caste
+13,jharkhand,13067,muslimdhobi,miyan,gemini,caste
+13,jharkhand,13068,muslimdhobi,thakur,gemini,caste
+13,jharkhand,13069,nai,thakur,gpt,caste
+13,jharkhand,13070,oraon,birjiya,gpt,caste
+13,jharkhand,13071,oraon,,gpt,caste
+13,jharkhand,13072,pasi,choudhary,gpt,caste
+13,jharkhand,13073,pasi,mistry,gpt,caste
+13,jharkhand,13074,pasi,,gpt,caste
+13,jharkhand,13075,pathan,khan,manual_yes,caste
+13,jharkhand,13076,rajput,choudhary,gpt,caste
+13,jharkhand,13077,rajput,raut,gpt,caste
+13,jharkhand,13078,rajput,sahu,gpt,caste
+13,jharkhand,13079,rajput,sonar,gpt,caste
+13,jharkhand,13080,rajput,,gpt,caste
+13,jharkhand,13081,rajvanshi,julaha,gpt,caste
+13,jharkhand,13082,rajvanshi,,gpt,caste
+13,jharkhand,13083,rajwar,rajbansi,gpt,caste
+13,jharkhand,13084,rawani,julaha,manual_yes,caste
+13,jharkhand,13085,rawani,,manual_yes,caste
+13,jharkhand,13086,santhal,baski,gpt,caste
+13,jharkhand,13087,santhal,basra,gpt,caste
+13,jharkhand,13088,santhal,bishra,gpt,caste
+13,jharkhand,13089,santhal,dehri,gpt,caste
+13,jharkhand,13090,santhal,hansda,gpt,caste
+13,jharkhand,13091,santhal,hemram,gpt,caste
+13,jharkhand,13092,santhal,kishu,gpt,caste
+13,jharkhand,13092,santhal,kisku,gpt,caste
+13,jharkhand,13093,santhal,marandi,gpt,caste
+13,jharkhand,13094,santhal,murmu,gpt,caste
+13,jharkhand,13095,santhal,soren,gpt,caste
+13,jharkhand,13096,santhal,tudu,gpt,caste
+13,jharkhand,13097,sheikh,,manual_yes,caste
+13,jharkhand,13098,siddiqui,,manual_yes,caste
+13,jharkhand,13099,sonar,sonar,gpt,caste
+13,jharkhand,13100,sonar,soni,gpt,caste
+13,jharkhand,13101,sonar,swarnkar,gpt,caste
+13,jharkhand,13102,sudhi,sahu,manual_yes,caste
+13,jharkhand,13103,sudhi,shah,manual_yes,caste
+13,jharkhand,13104,teli,idrishi,gpt,caste
+13,jharkhand,13105,teli,julaha,gpt,caste
+13,jharkhand,13106,teli,modi,gpt,caste
+13,jharkhand,13107,teli,sahu,gpt,caste
+13,jharkhand,13108,teli,shah,gpt,caste
+13,jharkhand,13109,teli,turi,gpt,caste
+13,jharkhand,13110,teli,yadav,gpt,caste
+13,jharkhand,13111,teli,,gpt,caste
+13,jharkhand,13112,thathera,,gemini,caste
+13,jharkhand,13113,turi,dayal,gpt,caste
+13,jharkhand,13114,turi,turi,gpt,caste
+13,jharkhand,13115,turi,,gpt,caste
+13,jharkhand,13116,others,,,
+14,chhattisgarh,14001,adiwasi,bhena,gpt,caste
+14,chhattisgarh,14002,adiwasi,bhend,gpt,caste
+14,chhattisgarh,14003,adiwasi,bhenil,gpt,caste
+14,chhattisgarh,14004,adiwasi,binjhwar,gpt,caste
+14,chhattisgarh,14005,adiwasi,dhanwar,gpt,caste
+14,chhattisgarh,14006,adiwasi,dhimar,gpt,caste
+14,chhattisgarh,14007,adiwasi,goari,gpt,caste
+14,chhattisgarh,14008,adiwasi,gond,gpt,caste
+14,chhattisgarh,14009,adiwasi,kanwar,gpt,caste
+14,chhattisgarh,14010,adiwasi,nagarchi,gpt,caste
+14,chhattisgarh,14011,adiwasi,sarthi,gpt,caste
+14,chhattisgarh,14012,adiwasi,sidar,gpt,caste
+14,chhattisgarh,14013,ahir,nagarchi,gpt,caste
+14,chhattisgarh,14014,ahir,rao,gpt,caste
+14,chhattisgarh,14015,ahir,rawat,gpt,caste
+14,chhattisgarh,14016,ahir,sahu,gpt,caste
+14,chhattisgarh,14017,ahir,teli,gpt,caste
+14,chhattisgarh,14018,ahir,yadav,gpt,caste
+14,chhattisgarh,14019,bairagi,vaishno,gpt,caste
+14,chhattisgarh,14020,banjara,,gpt,caste
+14,chhattisgarh,14021,bhaina,ram,gemini,caste
+14,chhattisgarh,14022,biar,vaishno,manual_yes,caste
+14,chhattisgarh,14023,brahman,bairagi,gpt,caste
+14,chhattisgarh,14024,brahman,bajpayee,gpt,caste
+14,chhattisgarh,14025,brahman,banjara,gpt,caste
+14,chhattisgarh,14026,brahman,devedi,gpt,caste
+14,chhattisgarh,14027,brahman,dixit,gpt,caste
+14,chhattisgarh,14028,brahman,dubey,gpt,caste
+14,chhattisgarh,14029,brahman,gandharu,gpt,caste
+14,chhattisgarh,14030,brahman,goswami,gpt,caste
+14,chhattisgarh,14031,brahman,joshi,gpt,caste
+14,chhattisgarh,14032,brahman,mishra,gpt,caste
+14,chhattisgarh,14033,brahman,pandey,gpt,caste
+14,chhattisgarh,14034,brahman,sharma,gpt,caste
+14,chhattisgarh,14035,brahman,shukla,gpt,caste
+14,chhattisgarh,14036,brahman,tiwari,gpt,caste
+14,chhattisgarh,14037,brahman,vasudev,gpt,caste
+14,chhattisgarh,14038,brahman,,gpt,caste
+14,chhattisgarh,14034,brhaman,sharma,manual_yes,caste
+14,chhattisgarh,14039,chamar,anant,gpt,caste
+14,chhattisgarh,14040,chamar,banjara,gpt,caste
+14,chhattisgarh,14041,chamar,bhandarkar,gpt,caste
+14,chhattisgarh,14042,chamar,dayal,gpt,caste
+14,chhattisgarh,14043,chamar,dhare,gpt,caste
+14,chhattisgarh,14044,chamar,dinkar,gpt,caste
+14,chhattisgarh,14045,chamar,gareg,gpt,caste
+14,chhattisgarh,14046,chamar,kariyare,gpt,caste
+14,chhattisgarh,14047,chamar,khote,gpt,caste
+14,chhattisgarh,14048,chamar,manik,gpt,caste
+14,chhattisgarh,14049,chamar,meher,gpt,caste
+14,chhattisgarh,14050,chamar,nirmal,gpt,caste
+14,chhattisgarh,14051,chamar,rai,gpt,caste
+14,chhattisgarh,14052,chamar,raidas,gpt,caste
+14,chhattisgarh,14053,chamar,ratrea,gpt,caste
+14,chhattisgarh,14054,chamar,rohidas,gpt,caste
+14,chhattisgarh,14055,chamar,sahu,gpt,caste
+14,chhattisgarh,14056,chamar,satnami,gpt,caste
+14,chhattisgarh,14057,chamar,suryavanshi,gpt,caste
+14,chhattisgarh,14057,chamar,suryawansi,gpt,caste
+14,chhattisgarh,14058,das,mahant,,
+14,chhattisgarh,14059,das,manikpur,,
+14,chhattisgarh,14060,das,panik,,
+14,chhattisgarh,14061,dhanwar,,gpt,caste
+14,chhattisgarh,14062,dhimar,bhatiyar,gpt,caste
+14,chhattisgarh,14063,dhimar,machhandar,gpt,caste
+14,chhattisgarh,14064,dhimar,tarail,gpt,caste
+14,chhattisgarh,14065,dhimar,yadav,gpt,caste
+14,chhattisgarh,14066,dhobi,karash,gpt,caste
+14,chhattisgarh,14067,dhobi,nirmal,gpt,caste
+14,chhattisgarh,14068,dhobi,nirmalkar,gpt,caste
+14,chhattisgarh,14069,dhobi,varetha,gpt,caste
+14,chhattisgarh,14070,dhurwa,dhruv,gpt,caste
+14,chhattisgarh,14071,dhurwa,ram,gpt,caste
+14,chhattisgarh,14072,gadaria,pal,gpt,caste
+14,chhattisgarh,14072,gadariya,pal,gpt,caste
+14,chhattisgarh,14073,gandha,dhruv,manual_yes,caste
+14,chhattisgarh,14074,gond,bhakam,gpt,caste
+14,chhattisgarh,14075,gond,chauhan,gpt,caste
+14,chhattisgarh,14076,gond,dhruv,gpt,caste
+14,chhattisgarh,14077,gond,kanwar,gpt,caste
+14,chhattisgarh,14078,gond,markam,gpt,caste
+14,chhattisgarh,14079,gond,nagarchi,gpt,caste
+14,chhattisgarh,14080,gond,netam,gpt,caste
+14,chhattisgarh,14081,gond,pardhi,gpt,caste
+14,chhattisgarh,14082,gond,sidar,gpt,caste
+14,chhattisgarh,14083,gond,tarail,gpt,caste
+14,chhattisgarh,14084,gond,,gpt,caste
+14,chhattisgarh,14085,gori,khan,,
+14,chhattisgarh,14086,goswami,,gemini,caste
+14,chhattisgarh,14087,gour,gour,gpt,caste
+14,chhattisgarh,14088,gour,sidar,gpt,caste
+14,chhattisgarh,14089,gour,,gpt,caste
+14,chhattisgarh,14090,harijan,meher,manual_yes,caste
+14,chhattisgarh,14091,kallar,dadsena,gpt,caste
+14,chhattisgarh,14091,kallar,darsena,gpt,caste
+14,chhattisgarh,14092,kallar,parsaj,gpt,caste
+14,chhattisgarh,14093,kallar,parsh,gpt,caste
+14,chhattisgarh,14094,kallar,sinha,gpt,caste
+14,chhattisgarh,14095,kalwar,sinha,gpt,caste
+14,chhattisgarh,14096,kanwar,dewan,gpt,caste
+14,chhattisgarh,14097,kanwar,sidar,gpt,caste
+14,chhattisgarh,14098,karara,markam,manual_yes,caste
+14,chhattisgarh,14099,kawar,dewan,gpt,caste
+14,chhattisgarh,14100,kawar,kawar,gpt,caste
+14,chhattisgarh,14101,kawar,sidar,gpt,caste
+14,chhattisgarh,14102,kewat,bagher,gpt,caste
+14,chhattisgarh,14103,kewat,nagarchi,gpt,caste
+14,chhattisgarh,14104,kewat,niishad,gpt,caste
+14,chhattisgarh,14104,kewat,nisad,gpt,caste
+14,chhattisgarh,14104,kewat,nishad,gpt,caste
+14,chhattisgarh,14105,kewat,nishadraj,gpt,caste
+14,chhattisgarh,14106,kewat,patel,gpt,caste
+14,chhattisgarh,14107,koshtha,koshtha,manual_yes,caste
+14,chhattisgarh,14108,kumhar,prajapati,gpt,caste
+14,chhattisgarh,14109,kurmi,adil,gpt,caste
+14,chhattisgarh,14110,kurmi,baghel,gpt,caste
+14,chhattisgarh,14111,kurmi,dayal,gpt,caste
+14,chhattisgarh,14112,kurmi,gabel,gpt,caste
+14,chhattisgarh,14113,kurmi,patel,gpt,caste
+14,chhattisgarh,14113,kurmi,ppatel,gpt,caste
+14,chhattisgarh,14114,kurmi,sahu,gpt,caste
+14,chhattisgarh,14115,kurmi,shing,gpt,caste
+14,chhattisgarh,14116,kurmi,tikariya,gpt,caste
+14,chhattisgarh,14117,kurmi,verma,gpt,caste
+14,chhattisgarh,14118,lohar,sher,gpt,caste
+14,chhattisgarh,14119,lohar,vishkarma,gpt,caste
+14,chhattisgarh,14119,lohar,vishwakarma,gpt,caste
+14,chhattisgarh,14119,lohar,viswakarma,gpt,caste
+14,chhattisgarh,14120,mangia,nagarchi,manual_yes,caste
+14,chhattisgarh,14121,marar,patel,gpt,caste
+14,chhattisgarh,14122,nagarchi,satnami,gpt,caste
+14,chhattisgarh,14123,nagarchi,sonwali,gpt,caste
+14,chhattisgarh,14124,nagarchi,,gpt,caste
+14,chhattisgarh,14125,nai,sen,gpt,caste
+14,chhattisgarh,14126,nai,sri,gpt,caste
+14,chhattisgarh,14127,nai,sriwas,gpt,caste
+14,chhattisgarh,14128,nayak,nayak,gpt,caste
+14,chhattisgarh,14129,pardhi,dhruv,gpt,caste
+14,chhattisgarh,14130,patkar,,,
+14,chhattisgarh,14131,patwa,patka,gpt,caste
+14,chhattisgarh,14132,patwa,patkar,gpt,caste
+14,chhattisgarh,14133,patwa,poddhar,gpt,caste
+14,chhattisgarh,14134,rajput,chauhan,gpt,caste
+14,chhattisgarh,14135,rajput,,gpt,caste
+14,chhattisgarh,14136,sabiriya,,manual_yes,caste
+14,chhattisgarh,14137,sindhi,jagmalani,manual_yes,caste
+14,chhattisgarh,14138,sonar,sahu,gpt,caste
+14,chhattisgarh,14139,sonar,soni,gpt,caste
+14,chhattisgarh,14139,sonar,sony,gpt,caste
+14,chhattisgarh,14140,teli,hirondhi,gpt,caste
+14,chhattisgarh,14141,teli,prasad,gpt,caste
+14,chhattisgarh,14142,teli,sahu,gpt,caste
+14,chhattisgarh,14142,teli,shahu,gpt,caste
+14,chhattisgarh,14143,teli,sonkanthari,gpt,caste
+14,chhattisgarh,14144,others,,,
+15,orissa,15001,alial,gopalpuria,manual_yes,caste
+15,orissa,15002,badhei,choursia,gpt,caste
+15,orissa,15003,badhei,kharada,gpt,caste
+15,orissa,15004,badhei,maghiya,gpt,caste
+15,orissa,15005,baisnab,baisnab,gemini,caste
+15,orissa,15006,baistamba,upadhyay,manual_yes,caste
+15,orissa,15007,bangali,bengali,,
+15,orissa,15008,bangali,chasa,,
+15,orissa,15009,baniya,ayodhabasi,gpt,caste
+15,orissa,15010,baniya,oriyabaniya,gpt,caste
+15,orissa,15011,baniya,oriyamunda,gpt,caste
+15,orissa,15012,baniya,sunari,gpt,caste
+15,orissa,15013,barik,satagharia,gpt,caste
+15,orissa,15014,bauri,bauri,gpt,caste
+15,orissa,15015,bauri,pathuriya,gpt,caste
+15,orissa,15016,benayat,chakulia,,
+15,orissa,15017,benayat,gouda,,
+15,orissa,15018,benayat,munda,,
+15,orissa,15019,benayat,satagharia,,
+15,orissa,15020,benayat,sukulia,,
+15,orissa,15021,benayat,,,
+15,orissa,15022,bhandari,chasa,gpt,caste
+15,orissa,15023,bhandari,napita,gpt,caste
+15,orissa,15024,bhandari,radhi,gpt,caste
+15,orissa,15025,bhandari,satagharia,gpt,caste
+15,orissa,15026,bhandari,,gpt,caste
+15,orissa,15027,bhatera,yogi,,
+15,orissa,15028,bhoi,sahara,gpt,caste
+15,orissa,15029,bhumija,oriyamunda,gpt,caste
+15,orissa,15030,bhumija,radhi,gpt,caste
+15,orissa,15031,bhuyan,khandayat,gpt,caste
+15,orissa,15032,brahman,baisnab,gpt,caste
+15,orissa,15033,brahman,balabhadra,gpt,caste
+15,orissa,15034,brahman,barendra,gpt,caste
+15,orissa,15035,brahman,bhattamishra,gpt,caste
+15,orissa,15036,brahman,chasa,gpt,caste
+15,orissa,15037,brahman,dakhinoriya,gpt,caste
+15,orissa,15038,brahman,danua,gpt,caste
+15,orissa,15039,brahman,devila,gpt,caste
+15,orissa,15040,brahman,jadurbade,gpt,caste
+15,orissa,15041,brahman,samanta,gpt,caste
+15,orissa,15042,brahman,sasani,gpt,caste
+15,orissa,15043,brahman,upadhaya,gpt,caste
+15,orissa,15043,brahman,upadhyay,gpt,caste
+15,orissa,15044,brahman,,gpt,caste
+15,orissa,15045,chamar,chamar,gpt,caste
+15,orissa,15046,chamar,magahia,gpt,caste
+15,orissa,15047,chasa,munda,gpt,caste
+15,orissa,15048,chasa,parida,gpt,caste
+15,orissa,15049,danbasi,chasa,manual_yes,caste
+15,orissa,15050,dhoba,dhoba,gemini,caste
+15,orissa,15051,dhoba,goura,gemini,caste
+15,orissa,15052,dhoba,maghiya,gemini,caste
+15,orissa,15053,dhoba,oriya,gemini,caste
+15,orissa,15054,dhoba,oriyadhoba,gemini,caste
+15,orissa,15055,duma,mithar,manual_yes,caste
+15,orissa,15056,duma,oriyamunda,manual_yes,caste
+15,orissa,15057,ganda,rajganda,gpt,caste
+15,orissa,15058,gaud,dumala,gpt,caste
+15,orissa,15059,gaud,goura,gpt,caste
+15,orissa,15060,gaud,rajgond,gpt,caste
+15,orissa,15061,gaud,rajmunda,gpt,caste
+15,orissa,15062,ghantora,nair,,
+15,orissa,15063,ghasi,siuli,gpt,caste
+15,orissa,15064,ghukha,radhi,manual_yes,caste
+15,orissa,15065,ghusuria,radhi,manual_yes,caste
+15,orissa,15066,gokha,kandara,,
+15,orissa,15067,gokha,radhi,,
+15,orissa,15068,gond,rajgond,gpt,caste
+15,orissa,15069,gopal,abhi,manual_yes,caste
+15,orissa,15070,gopal,dumala,manual_yes,caste
+15,orissa,15071,gopal,dumali,manual_yes,caste
+15,orissa,15072,gopal,gopal,manual_yes,caste
+15,orissa,15073,gopal,gopalpuria,manual_yes,caste
+15,orissa,15074,gopal,gour,manual_yes,caste
+15,orissa,15075,gopal,goura,manual_yes,caste
+15,orissa,15076,gopal,magadha,manual_yes,caste
+15,orissa,15077,gopal,mathurabai,manual_yes,caste
+15,orissa,15078,gopal,munda,manual_yes,caste
+15,orissa,15079,gopal,,manual_yes,caste
+15,orissa,15080,goti,goti,manual_yes,caste
+15,orissa,15081,gudia,bhojpuria,gpt,caste
+15,orissa,15082,gudia,goura,gpt,caste
+15,orissa,15083,gudia,kanaujia,gpt,caste
+15,orissa,15084,gudia,madesia,gpt,caste
+15,orissa,15085,gudia,maghayat,gpt,caste
+15,orissa,15086,gudia,maghiya,gpt,caste
+15,orissa,15087,gudia,munda,gpt,caste
+15,orissa,15088,gudia,puribia,gpt,caste
+15,orissa,15089,hadi,hadi,gpt,caste
+15,orissa,15090,hadi,mahar,gpt,caste
+15,orissa,15091,hadi,mehetar,gpt,caste
+15,orissa,15092,hadi,mithar,gpt,caste
+15,orissa,15093,jogi,jogi,gpt,caste
+15,orissa,15094,jyotska,matimansa,,
+15,orissa,15095,kachara,kachara,manual_yes,caste
+15,orissa,15096,kaibart,chasa,gpt,caste
+15,orissa,15097,kaibart,gokha,gpt,caste
+15,orissa,15098,kaibart,kandara,gpt,caste
+15,orissa,15099,kaibart,munda,gpt,caste
+15,orissa,15100,kaibart,radhi,gpt,caste
+15,orissa,15101,kalanji,munda,manual_yes,caste
+15,orissa,15102,kamar,khatya,gpt,caste
+15,orissa,15103,kandara,kandara,gemini,caste
+15,orissa,15104,kapudia,kapudia,manual_yes,caste
+15,orissa,15105,karan,betra,gpt,caste
+15,orissa,15106,karan,maghiya,gpt,caste
+15,orissa,15107,karan,mahanaik,gpt,caste
+15,orissa,15108,karan,naulikaran,gpt,caste
+15,orissa,15109,karan,,gpt,caste
+15,orissa,15110,kela,radhi,manual_yes,caste
+15,orissa,15111,kela,sabakhia,manual_yes,caste
+15,orissa,15112,kela,,manual_yes,caste
+15,orissa,15113,kendara,kandara,gemini,caste
+15,orissa,15114,keuta,radhi,gpt,caste
+15,orissa,15115,khadala,jhatia,manual_yes,caste
+15,orissa,15116,khadia,khadia,gpt,caste
+15,orissa,15117,khandayat,chasa,gpt,caste
+15,orissa,15118,khandayat,kandara,gpt,caste
+15,orissa,15119,khandayat,khandayat,gpt,caste
+15,orissa,15120,khandayat,maghiya,gpt,caste
+15,orissa,15121,khandayat,mahanaik,gpt,caste
+15,orissa,15122,khandayat,munda,gpt,caste
+15,orissa,15123,khandayat,odukhandayat,gpt,caste
+15,orissa,15124,khandayat,oriyamunda,gpt,caste
+15,orissa,15125,khandayat,srestakhandayat,gpt,caste
+15,orissa,15126,khandayat,,gpt,caste
+15,orissa,15127,khejari,kol,,
+15,orissa,15128,khetriya,mahanaik,manual_yes,caste
+15,orissa,15129,khetriya,orhkhandayat,manual_yes,caste
+15,orissa,15130,khodala,betra,manual_yes,caste
+15,orissa,15131,kolar,munda,gemini,caste
+15,orissa,15132,kolha,kolha,gpt,caste
+15,orissa,15133,kolha,munda,gpt,caste
+15,orissa,15134,kulta,chasa,gpt,caste
+15,orissa,15135,kulta,kol,gpt,caste
+15,orissa,15136,kulta,munda,gpt,caste
+15,orissa,15137,kulta,odachasa,gpt,caste
+15,orissa,15138,kumbhar,jaganathi,gpt,caste
+15,orissa,15139,kumbhar,khatya,gpt,caste
+15,orissa,15140,kumbhar,matiakumbhar,gpt,caste
+15,orissa,15141,kumbhar,oriyakumbhar,gpt,caste
+15,orissa,15142,kumuti,haldia,gpt,caste
+15,orissa,15143,kumuti,kumuti,gpt,caste
+15,orissa,15144,lohar,oriyakamar,gpt,caste
+15,orissa,15145,mahar,mahar,gpt,caste
+15,orissa,15146,maharana,maghiya,,
+15,orissa,15147,mali,dokanimali,gpt,caste
+15,orissa,15148,mali,kol,gpt,caste
+15,orissa,15149,mali,phulkata,gpt,caste
+15,orissa,15150,mochi,karaya,gpt,caste
+15,orissa,15151,mochi,mihtar,gpt,caste
+15,orissa,15151,mochi,mithar,gpt,caste
+15,orissa,15152,mochi,oriyamunda,gpt,caste
+15,orissa,15153,munda,kol,gpt,caste
+15,orissa,15154,munda,kola,gpt,caste
+15,orissa,15155,munda,oraonmunda,gpt,caste
+15,orissa,15156,munda,oriyamunda,gpt,caste
+15,orissa,15157,muslim,,,
+15,orissa,15158,nihar,chudakutakeuta,,
+15,orissa,15159,nihar,radhi,,
+15,orissa,15160,oram,oraonmunda,gpt,caste
+15,orissa,15161,oram,oriyamunda,gpt,caste
+15,orissa,15162,pana,betra,gpt,caste
+15,orissa,15163,pana,oriyapana,gpt,caste
+15,orissa,15164,patara,patara,gemini,caste
+15,orissa,15165,sahara,kol,,
+15,orissa,15166,sahara,sabar,,
+15,orissa,15167,sahara,savar,,
+15,orissa,15168,sihamuslim,,,
+15,orissa,15169,sundhi,sundhi,gpt,caste
+15,orissa,15170,tanti,chasa,gpt,caste
+15,orissa,15171,tanti,galatanti,gpt,caste
+15,orissa,15172,tanti,hansi,gpt,caste
+15,orissa,15173,tanti,matibansa,gpt,caste
+15,orissa,15174,teli,abhi,gpt,caste
+15,orissa,15175,teli,gouda,gpt,caste
+15,orissa,15176,teli,haldia,gpt,caste
+15,orissa,15177,teli,hansi,gpt,caste
+15,orissa,15178,teli,kalu,gpt,caste
+15,orissa,15179,teli,tulatia,gpt,caste
+15,orissa,15180,thatari,thatari,gemini,caste
+15,orissa,15181,vaisya,chasa,gpt,caste
+15,orissa,15182,yogi,yogi,gemini,caste
+16,andhra pradesh,16001,abdul,,,
+16,andhra pradesh,16002,achari,,,
+16,andhra pradesh,16003,adiandra,,,
+16,andhra pradesh,16004,ailceej,,,
+16,andhra pradesh,16005,archakulu,,gemini,caste
+16,andhra pradesh,16006,aryakashtriya,,gemini,caste
+16,andhra pradesh,16007,aryavysya,,gpt,caste
+16,andhra pradesh,16008,asadulu,,,
+16,andhra pradesh,16009,baaraju,,gemini,caste
+16,andhra pradesh,16010,bajakas,,,
+16,andhra pradesh,16011,balija,bandari,gpt,caste
+16,andhra pradesh,16012,balija,cettibalija,gpt,caste
+16,andhra pradesh,16013,balija,cheemala,gpt,caste
+16,andhra pradesh,16014,balija,chinnkapu,gpt,caste
+16,andhra pradesh,16015,balija,dudekula,gpt,caste
+16,andhra pradesh,16016,balija,gazula,gpt,caste
+16,andhra pradesh,16017,balija,kudari,gpt,caste
+16,andhra pradesh,16018,balija,naika,gpt,caste
+16,andhra pradesh,16019,balija,palagiri,gpt,caste
+16,andhra pradesh,16020,balija,periki,gpt,caste
+16,andhra pradesh,16021,balija,pokanti,gpt,caste
+16,andhra pradesh,16022,balija,setti,gpt,caste
+16,andhra pradesh,16023,balija,settibalija,gpt,caste
+16,andhra pradesh,16024,balija,settivari,gpt,caste
+16,andhra pradesh,16025,balija,telaga,gpt,caste
+16,andhra pradesh,16026,balija,,gpt,caste
+16,andhra pradesh,16027,barber,,gemini,caste
+16,andhra pradesh,16028,bestha,cheemala,gpt,caste
+16,andhra pradesh,16029,bestha,dasai,gpt,caste
+16,andhra pradesh,16030,bestha,jalari,gpt,caste
+16,andhra pradesh,16031,bestha,jalaru,gpt,caste
+16,andhra pradesh,16032,bestha,kudari,gpt,caste
+16,andhra pradesh,16033,bestha,mateshp,gpt,caste
+16,andhra pradesh,16034,bestha,naika,gpt,caste
+16,andhra pradesh,16035,bestha,pokanti,gpt,caste
+16,andhra pradesh,16036,bestha,sayed,gpt,caste
+16,andhra pradesh,16037,bestha,sella,gpt,caste
+16,andhra pradesh,16038,bestha,valmiki,gpt,caste
+16,andhra pradesh,16039,bestha,yadav,gpt,caste
+16,andhra pradesh,16040,bestha,,gpt,caste
+16,andhra pradesh,16041,bondil,,,
+16,andhra pradesh,16042,bothula,,gemini,caste
+16,andhra pradesh,16043,boya,anke,gpt,caste
+16,andhra pradesh,16044,boya,cheemala,gpt,caste
+16,andhra pradesh,16045,boya,deragulla,gpt,caste
+16,andhra pradesh,16046,boya,dommara,gpt,caste
+16,andhra pradesh,16047,boya,dudekula,gpt,caste
+16,andhra pradesh,16048,boya,jalleni,gpt,caste
+16,andhra pradesh,16049,boya,jamapala,gpt,caste
+16,andhra pradesh,16050,boya,jhamala,gpt,caste
+16,andhra pradesh,16051,boya,jutur,gpt,caste
+16,andhra pradesh,16052,boya,kandi,gpt,caste
+16,andhra pradesh,16053,boya,kudari,gpt,caste
+16,andhra pradesh,16054,boya,nagiri,gpt,caste
+16,andhra pradesh,16055,boya,naidu,gpt,caste
+16,andhra pradesh,16056,boya,naika,gpt,caste
+16,andhra pradesh,16057,boya,peddaboya,gpt,caste
+16,andhra pradesh,16058,boya,pinjari,gpt,caste
+16,andhra pradesh,16059,boya,pokanti,gpt,caste
+16,andhra pradesh,16060,boya,sayed,gpt,caste
+16,andhra pradesh,16061,boya,vaddi,gpt,caste
+16,andhra pradesh,16062,boya,valmiki,gpt,caste
+16,andhra pradesh,16063,boya,yadav,gpt,caste
+16,andhra pradesh,16064,boya,yerragolla,gpt,caste
+16,andhra pradesh,16065,boya,,gpt,caste
+16,andhra pradesh,16066,brahman,sidhanthi,gpt,caste
+16,andhra pradesh,16067,brahman,vaidhika,gpt,caste
+16,andhra pradesh,16068,brahman,,gpt,caste
+16,andhra pradesh,16069,budabukkala,,gpt,caste
+16,andhra pradesh,16070,bukava,,gemini,caste
+16,andhra pradesh,16071,camsula,,gemini,caste
+16,andhra pradesh,16072,chakala,bilishpalla,,
+16,andhra pradesh,16073,chakala,dhobi,,
+16,andhra pradesh,16074,chakala,dudekula,,
+16,andhra pradesh,16075,chakala,jalnul,,
+16,andhra pradesh,16076,chakala,mallepulu,,
+16,andhra pradesh,16077,chakala,,,
+16,andhra pradesh,16078,chakali,dudekula,gpt,caste
+16,andhra pradesh,16079,chakali,pokanti,gpt,caste
+16,andhra pradesh,16080,chakali,,gpt,caste
+16,andhra pradesh,16081,chenchu,,gpt,caste
+16,andhra pradesh,16082,christian,madiga,,
+16,andhra pradesh,16083,christian,,,
+16,andhra pradesh,16084,devara,,gemini,caste
+16,andhra pradesh,16085,dhobi,chakala,gpt,caste
+16,andhra pradesh,16086,dhobi,dudekula,gpt,caste
+16,andhra pradesh,16087,dhobi,gunje,gpt,caste
+16,andhra pradesh,16088,dhobi,naika,gpt,caste
+16,andhra pradesh,16089,dhobi,pokanti,gpt,caste
+16,andhra pradesh,16090,dhobi,shaik,gpt,caste
+16,andhra pradesh,16091,dhobi,,gpt,caste
+16,andhra pradesh,16092,dommara,dommara,gpt,caste
+16,andhra pradesh,16093,dommara,dudekula,gpt,caste
+16,andhra pradesh,16094,dommara,,gpt,caste
+16,andhra pradesh,16095,ediga,chakala,gpt,caste
+16,andhra pradesh,16096,ekaradorabiddalu,,,
+16,andhra pradesh,16097,ekili,palayakarlu,manual_yes,caste
+16,andhra pradesh,16098,ekili,,manual_yes,caste
+16,andhra pradesh,16099,elakula,,gemini,caste
+16,andhra pradesh,16100,elems,,,
+16,andhra pradesh,16101,fishers,,,
+16,andhra pradesh,16102,gandla,sayed,gpt,caste
+16,andhra pradesh,16103,gandla,,gpt,caste
+16,andhra pradesh,16104,gangtredhu,,manual_yes,caste
+16,andhra pradesh,16105,jangam,,gpt,caste
+16,andhra pradesh,16106,kadulu,,manual_yes,caste
+16,andhra pradesh,16107,kalali,,gemini,caste
+16,andhra pradesh,16108,kalasali,,manual_yes,caste
+16,andhra pradesh,16109,kaligullu,,,
+16,andhra pradesh,16110,kama,,manual_yes,caste
+16,andhra pradesh,16111,kamasala,gunje,gpt,caste
+16,andhra pradesh,16112,kamasala,mettu,gpt,caste
+16,andhra pradesh,16113,kamasala,,gpt,caste
+16,andhra pradesh,16114,kamma,choudhary,gpt,caste
+16,andhra pradesh,16115,kamma,,gpt,caste
+16,andhra pradesh,16116,kammara,gundaiah,gpt,caste
+16,andhra pradesh,16117,kammara,mettukamsali,gpt,caste
+16,andhra pradesh,16118,kantlli,,,
+16,andhra pradesh,16119,kapu,adupol,gpt,caste
+16,andhra pradesh,16120,kapu,cheemala,gpt,caste
+16,andhra pradesh,16121,kapu,chendiya,gpt,caste
+16,andhra pradesh,16122,kapu,chinnkapu,gpt,caste
+16,andhra pradesh,16123,kapu,desai,gpt,caste
+16,andhra pradesh,16124,kapu,dudekula,gpt,caste
+16,andhra pradesh,16125,kapu,jalaru,gpt,caste
+16,andhra pradesh,16126,kapu,jutar,gpt,caste
+16,andhra pradesh,16127,kapu,jutur,gpt,caste
+16,andhra pradesh,16128,kapu,karnam,gpt,caste
+16,andhra pradesh,16129,kapu,krishnam,gpt,caste
+16,andhra pradesh,16130,kapu,madiga,gpt,caste
+16,andhra pradesh,16131,kapu,munnuru,gpt,caste
+16,andhra pradesh,16132,kapu,naika,gpt,caste
+16,andhra pradesh,16133,kapu,padupollu,gpt,caste
+16,andhra pradesh,16134,kapu,pagani,gpt,caste
+16,andhra pradesh,16135,kapu,pakanti,gpt,caste
+16,andhra pradesh,16136,kapu,palagiri,gpt,caste
+16,andhra pradesh,16137,kapu,palli,gpt,caste
+16,andhra pradesh,16138,kapu,pasnur,gpt,caste
+16,andhra pradesh,16139,kapu,pedakapu,gpt,caste
+16,andhra pradesh,16140,kapu,pokanti,gpt,caste
+16,andhra pradesh,16141,kapu,sajjana,gpt,caste
+16,andhra pradesh,16142,kapu,shaik,gpt,caste
+16,andhra pradesh,16143,kapu,sunku,gpt,caste
+16,andhra pradesh,16144,kapu,talapalli,gpt,caste
+16,andhra pradesh,16145,kapu,telaga,gpt,caste
+16,andhra pradesh,16146,kapu,turpukapu,gpt,caste
+16,andhra pradesh,16147,kapu,,gpt,caste
+16,andhra pradesh,16148,kapuvelama,kapu,,
+16,andhra pradesh,16149,kapuvelama,maipu,,
+16,andhra pradesh,16150,kapuvelama,naga,,
+16,andhra pradesh,16151,kapuvelama,naidu,,
+16,andhra pradesh,16152,kapuvelama,padamasali,,
+16,andhra pradesh,16153,kapuvelama,sahukar,,
+16,andhra pradesh,16154,kapuvelama,sanka,,
+16,andhra pradesh,16155,kapuvelama,talaka,,
+16,andhra pradesh,16156,kapuvelama,tulasi,,
+16,andhra pradesh,16156,kapuvelama,tusasi,,
+16,andhra pradesh,16157,kapuvelama,,,
+16,andhra pradesh,16158,karnam,,gemini,caste
+16,andhra pradesh,16159,kavunis,,,
+16,andhra pradesh,16160,kayunllu,,,
+16,andhra pradesh,16161,khan,pathan,manual_no,caste
+16,andhra pradesh,16162,kolli,,manual_yes,caste
+16,andhra pradesh,16163,komati,,gpt,caste
+16,andhra pradesh,16164,kommari,dudekula,manual_yes,caste
+16,andhra pradesh,16165,koppalavelama,,,
+16,andhra pradesh,16165,kopplavelama,,manual_yes,caste
+16,andhra pradesh,16166,kouda,,gemini,caste
+16,andhra pradesh,16167,koya,,gpt,caste
+16,andhra pradesh,16168,kummara,chendiya,gpt,caste
+16,andhra pradesh,16169,kummara,gundaiah,gpt,caste
+16,andhra pradesh,16170,kummara,kummara,gpt,caste
+16,andhra pradesh,16171,kummara,,gpt,caste
+16,andhra pradesh,16172,kuppalavelama,,gemini,caste
+16,andhra pradesh,16173,kuraba,chendiya,gpt,caste
+16,andhra pradesh,16174,kuraba,dupati,gpt,caste
+16,andhra pradesh,16175,kuraba,jella,gpt,caste
+16,andhra pradesh,16176,kuraba,mallepulu,gpt,caste
+16,andhra pradesh,16177,kuraba,,gpt,caste
+16,andhra pradesh,16178,madarlu,,,
+16,andhra pradesh,16179,madiga,madiga,gpt,caste
+16,andhra pradesh,16180,madiga,rachama,gpt,caste
+16,andhra pradesh,16181,madiga,sungulu,gpt,caste
+16,andhra pradesh,16182,madiga,,gpt,caste
+16,andhra pradesh,16183,madivili,,gemini,caste
+16,andhra pradesh,16184,mala,dasari,gpt,caste
+16,andhra pradesh,16185,mala,mangam,gpt,caste
+16,andhra pradesh,16186,mala,saki,gpt,caste
+16,andhra pradesh,16187,mala,telaga,gpt,caste
+16,andhra pradesh,16188,mala,vangam,gpt,caste
+16,andhra pradesh,16189,mala,,gpt,caste
+16,andhra pradesh,16190,mandiga,,gemini,caste
+16,andhra pradesh,16191,mandula,,,
+16,andhra pradesh,16192,mangala,konda,gemini,caste
+16,andhra pradesh,16193,mangala,reddy,gemini,caste
+16,andhra pradesh,16194,mangala,,gemini,caste
+16,andhra pradesh,16195,mangali,,gemini,caste
+16,andhra pradesh,16196,marwadi,,,
+16,andhra pradesh,16197,maryali,,manual_yes,caste
+16,andhra pradesh,16198,miniramanu,,,
+16,andhra pradesh,16199,modugu,,,
+16,andhra pradesh,16200,mondi,,manual_yes,caste
+16,andhra pradesh,16201,muslim,bohra,,
+16,andhra pradesh,16202,muslim,cheemala,,
+16,andhra pradesh,16203,muslim,dudekula,,
+16,andhra pradesh,16204,muslim,golla,,
+16,andhra pradesh,16205,muslim,gunje,,
+16,andhra pradesh,16206,muslim,jalari,,
+16,andhra pradesh,16207,muslim,jalleni,,
+16,andhra pradesh,16208,muslim,jhamala,,
+16,andhra pradesh,16209,muslim,kudari,,
+16,andhra pradesh,16210,muslim,mateshp,,
+16,andhra pradesh,16211,muslim,naika,,
+16,andhra pradesh,16212,muslim,pathan,,
+16,andhra pradesh,16213,muslim,sayed,,
+16,andhra pradesh,16214,muslim,shaik,,
+16,andhra pradesh,16215,muslim,,,
+16,andhra pradesh,16216,muthrasi,achhntala,gemini,caste
+16,andhra pradesh,16217,muthrasi,kanaga,gemini,caste
+16,andhra pradesh,16218,muthrasi,magurupuvati,gemini,caste
+16,andhra pradesh,16219,muthrasi,mogili,gemini,caste
+16,andhra pradesh,16220,muthrasi,muthrasi,gemini,caste
+16,andhra pradesh,16221,muthrasi,padgawadu,gemini,caste
+16,andhra pradesh,16222,muthrasi,pala,gemini,caste
+16,andhra pradesh,16223,muthrasi,palfagun,gemini,caste
+16,andhra pradesh,16224,muthrasi,,gemini,caste
+16,andhra pradesh,16225,nadar,,gpt,caste
+16,andhra pradesh,16226,nagvamsham,,manual_yes,caste
+16,andhra pradesh,16227,naidu,yagili,gemini,caste
+16,andhra pradesh,16228,naidu,,gemini,caste
+16,andhra pradesh,16229,nainera,,manual_yes,caste
+16,andhra pradesh,16230,nayaka,,gpt,caste
+16,andhra pradesh,16231,naybrahmanulu,,,
+16,andhra pradesh,16232,nese,cheemala,manual_yes,caste
+16,andhra pradesh,16233,nese,naika,manual_yes,caste
+16,andhra pradesh,16234,nese,palla,manual_yes,caste
+16,andhra pradesh,16235,nese,sayed,manual_yes,caste
+16,andhra pradesh,16236,nese,,manual_yes,caste
+16,andhra pradesh,16237,odde,boya,gpt,caste
+16,andhra pradesh,16238,odde,,gpt,caste
+16,andhra pradesh,16239,padmasali,,gpt,caste
+16,andhra pradesh,16240,pagani,golla,manual_yes,caste
+16,andhra pradesh,16241,palaeikri,shaik,,
+16,andhra pradesh,16242,palaeikri,,,
+16,andhra pradesh,16243,palikapu,shaik,gemini,caste
+16,andhra pradesh,16244,palikapu,vaddi,gemini,caste
+16,andhra pradesh,16245,palikapu,,gemini,caste
+16,andhra pradesh,16246,palle,agni,gemini,caste
+16,andhra pradesh,16247,palle,,gemini,caste
+16,andhra pradesh,16248,petti,,manual_yes,caste
+16,andhra pradesh,16249,pingari,golla,,
+16,andhra pradesh,16250,pingari,yadav,,
+16,andhra pradesh,16251,pujari,pandit,manual_yes,caste
+16,andhra pradesh,16252,rabbari,,gpt,caste
+16,andhra pradesh,16253,rajaka,kanaga,gpt,caste
+16,andhra pradesh,16254,rajaka,,gpt,caste
+16,andhra pradesh,16255,rajakulu,,gpt,caste
+16,andhra pradesh,16256,rajasthani,,,
+16,andhra pradesh,16257,rajulu,,gpt,caste
+16,andhra pradesh,16258,ralliya,,manual_yes,caste
+16,andhra pradesh,16259,reddy,kondareddy,gpt,caste
+16,andhra pradesh,16260,reddy,velamakapu,gpt,caste
+16,andhra pradesh,16261,reddy,velamareddy,gpt,caste
+16,andhra pradesh,16262,reddy,,gpt,caste
+16,andhra pradesh,16263,relli,settibalija,gpt,caste
+16,andhra pradesh,16264,relli,,gpt,caste
+16,andhra pradesh,16265,sakala,anke,manual_yes,caste
+16,andhra pradesh,16266,sakala,vaddi,manual_yes,caste
+16,andhra pradesh,16267,sakala,yalama,manual_yes,caste
+16,andhra pradesh,16268,sakala,,manual_yes,caste
+16,andhra pradesh,16269,sakli,,manual_yes,caste
+16,andhra pradesh,16270,sali,,gpt,caste
+16,andhra pradesh,16271,salilu,,manual_yes,caste
+16,andhra pradesh,16272,salivahana,,manual_yes,caste
+16,andhra pradesh,16273,sarabandu,,manual_yes,caste
+16,andhra pradesh,16274,satyam,,manual_yes,caste
+16,andhra pradesh,16275,sayed,,,
+16,andhra pradesh,16276,segu,yalama,manual_yes,caste
+16,andhra pradesh,16277,setti,devanga,gemini,caste
+16,andhra pradesh,16278,setti,vyasya,gemini,caste
+16,andhra pradesh,16279,shadi,,manual_yes,caste
+16,andhra pradesh,16280,sheetbarjen,,manual_yes,caste
+16,andhra pradesh,16281,sheikh,anke,manual_yes,caste
+16,andhra pradesh,16282,sheikh,bohra,manual_yes,caste
+16,andhra pradesh,16283,sheikh,boya,manual_yes,caste
+16,andhra pradesh,16284,sheikh,choudhary,manual_yes,caste
+16,andhra pradesh,16285,sheikh,dhobi,manual_yes,caste
+16,andhra pradesh,16286,sheikh,dudekula,manual_yes,caste
+16,andhra pradesh,16287,sheikh,golla,manual_yes,caste
+16,andhra pradesh,16288,sheikh,neeku,manual_yes,caste
+16,andhra pradesh,16289,sheikh,sayed,manual_yes,caste
+16,andhra pradesh,16290,sheikh,settibalija,manual_yes,caste
+16,andhra pradesh,16291,sheikh,sheikhpathan,manual_yes,caste
+16,andhra pradesh,16292,sheikh,sudkula,manual_yes,caste
+16,andhra pradesh,16293,sheikh,suryabalija,manual_yes,caste
+16,andhra pradesh,16294,sheikh,telaga,manual_yes,caste
+16,andhra pradesh,16295,sheikh,yalama,manual_yes,caste
+16,andhra pradesh,16296,sheikh,,manual_yes,caste
+16,andhra pradesh,16297,sugali,banjara,gpt,caste
+16,andhra pradesh,16298,sugali,boipari,gpt,caste
+16,andhra pradesh,16299,sugali,devasat,gpt,caste
+16,andhra pradesh,16300,sugali,lambani,gpt,caste
+16,andhra pradesh,16301,sugali,lambari,gpt,caste
+16,andhra pradesh,16302,sugali,meguat,gpt,caste
+16,andhra pradesh,16303,sugali,,gpt,caste
+16,andhra pradesh,16304,talari,anke,gpt,caste
+16,andhra pradesh,16305,telagamamdelu,,manual_yes,caste
+16,andhra pradesh,16306,telakula,,gemini,caste
+16,andhra pradesh,16307,teli,sahukar,gpt,caste
+16,andhra pradesh,16308,teli,,gpt,caste
+16,andhra pradesh,16309,teluku,,manual_yes,caste
+16,andhra pradesh,16310,tentkalu,,manual_yes,caste
+16,andhra pradesh,16311,togata,,manual_yes,caste
+16,andhra pradesh,16312,uppara,,gpt,caste
+16,andhra pradesh,16313,vaddi,cheemala,gpt,caste
+16,andhra pradesh,16314,vaddi,dudekula,gpt,caste
+16,andhra pradesh,16315,vaddi,gunje,gpt,caste
+16,andhra pradesh,16316,vaddi,kudari,gpt,caste
+16,andhra pradesh,16317,vaddi,manjari,gpt,caste
+16,andhra pradesh,16318,vaddi,naika,gpt,caste
+16,andhra pradesh,16319,vaddi,palla,gpt,caste
+16,andhra pradesh,16320,vaddi,pathan,gpt,caste
+16,andhra pradesh,16321,vaddi,sampangi,gpt,caste
+16,andhra pradesh,16322,vaddi,sayed,gpt,caste
+16,andhra pradesh,16323,vaddi,shaik,gpt,caste
+16,andhra pradesh,16324,vaddi,valmiki,gpt,caste
+16,andhra pradesh,16325,vaddi,,gpt,caste
+16,andhra pradesh,16326,vadi,palappu,manual_yes,caste
+16,andhra pradesh,16327,vangam,anke,manual_yes,caste
+16,andhra pradesh,16328,vedava,,manual_yes,caste
+16,andhra pradesh,16329,velama,brahman,gpt,caste
+16,andhra pradesh,16330,velama,kapu,gpt,caste
+16,andhra pradesh,16331,velama,nagala,gpt,caste
+16,andhra pradesh,16332,velama,,gpt,caste
+16,andhra pradesh,16333,vikanasa,,manual_yes,caste
+16,andhra pradesh,16334,visali,,manual_yes,caste
+16,andhra pradesh,16334,visalu,,manual_yes,caste
+16,andhra pradesh,16335,vishnu,,manual_yes,caste
+16,andhra pradesh,16336,viswabrahaman,brahman,gemini,caste
+16,andhra pradesh,16337,viswabrahaman,,gemini,caste
+16,andhra pradesh,16338,vysya,adimulam,gpt,caste
+16,andhra pradesh,16339,vysya,aryavysa,gpt,caste
+16,andhra pradesh,16340,vysya,brahman,gpt,caste
+16,andhra pradesh,16341,vysya,cheemala,gpt,caste
+16,andhra pradesh,16342,vysya,dudekula,gpt,caste
+16,andhra pradesh,16343,vysya,kakunati,gpt,caste
+16,andhra pradesh,16344,vysya,karumani,gpt,caste
+16,andhra pradesh,16345,vysya,komati,gpt,caste
+16,andhra pradesh,16346,vysya,krishnam,gpt,caste
+16,andhra pradesh,16347,vysya,naika,gpt,caste
+16,andhra pradesh,16348,vysya,pokanti,gpt,caste
+16,andhra pradesh,16349,vysya,sayed,gpt,caste
+16,andhra pradesh,16350,vysya,sunku,gpt,caste
+16,andhra pradesh,16351,vysya,ysya,gpt,caste
+16,andhra pradesh,16352,vysya,,gpt,caste
+16,andhra pradesh,16353,vyyulu,,manual_yes,caste
+16,andhra pradesh,16354,xasxa,,manual_yes,caste
+16,andhra pradesh,16355,yadav,alagolla,gpt,caste
+16,andhra pradesh,16356,yadav,anke,gpt,caste
+16,andhra pradesh,16357,yadav,golla,gpt,caste
+16,andhra pradesh,16358,yadav,gouda,gpt,caste
+16,andhra pradesh,16359,yadav,jalaru,gpt,caste
+16,andhra pradesh,16360,yadav,jhamala,gpt,caste
+16,andhra pradesh,16361,yadav,jutur,gpt,caste
+16,andhra pradesh,16362,yadav,konar,gpt,caste
+16,andhra pradesh,16363,yadav,kudari,gpt,caste
+16,andhra pradesh,16364,yadav,namala,gpt,caste
+16,andhra pradesh,16365,yadav,pagani,gpt,caste
+16,andhra pradesh,16366,yadav,palagiri,gpt,caste
+16,andhra pradesh,16367,yadav,pokanti,gpt,caste
+16,andhra pradesh,16368,yadav,poojagolla,gpt,caste
+16,andhra pradesh,16369,yadav,settivari,gpt,caste
+16,andhra pradesh,16370,yadav,shaik,gpt,caste
+16,andhra pradesh,16371,yadav,talapalli,gpt,caste
+16,andhra pradesh,16372,yadav,telaga,gpt,caste
+16,andhra pradesh,16373,yadav,valmiki,gpt,caste
+16,andhra pradesh,16374,yadav,yadav,gpt,caste
+16,andhra pradesh,16375,yadav,yerragolla,gpt,caste
+16,andhra pradesh,16376,yadav,,gpt,caste
+16,andhra pradesh,16377,yalama,,manual_yes,caste
+16,andhra pradesh,16378,yalavala,kapu,manual_yes,caste
+16,andhra pradesh,16379,yanadi,yelleu,gpt,caste
+16,andhra pradesh,16380,yanadi,,gpt,caste
+16,andhra pradesh,16381,yeava,,manual_yes,caste
+16,andhra pradesh,16382,yellu,,manual_yes,caste
+16,andhra pradesh,16383,yerkula,,gpt,caste
+16,andhra pradesh,16384,yerukala,desai,gpt,caste
+16,andhra pradesh,16385,yerukala,,gpt,caste
+16,andhra pradesh,16385,yerukula,,gpt,caste
+17,tamil nadu,17001,ablakaror,,manual_yes,caste
+17,tamil nadu,17002,achagar,osamani,manual_yes,caste
+17,tamil nadu,17003,achary,,gemini,caste
+17,tamil nadu,17004,adidravida,.pallar,gpt,caste
+17,tamil nadu,17005,adidravida,barbar,gpt,caste
+17,tamil nadu,17006,adidravida,harijan,gpt,caste
+17,tamil nadu,17007,adidravida,kuavar,gpt,caste
+17,tamil nadu,17007,adidravida,kuravar,gpt,caste
+17,tamil nadu,17008,adidravida,maruthavari,gpt,caste
+17,tamil nadu,17009,adidravida,muruthuar,gpt,caste
+17,tamil nadu,17010,adidravida,nadar,gpt,caste
+17,tamil nadu,17011,adidravida,padaiyachi,gpt,caste
+17,tamil nadu,17004,adidravida,pallar,gpt,caste
+17,tamil nadu,17012,adidravida,panditar,gpt,caste
+17,tamil nadu,17013,adidravida,parayar,gpt,caste
+17,tamil nadu,17014,adidravida,pattaraju,gpt,caste
+17,tamil nadu,17004,adidravida,pollar,gpt,caste
+17,tamil nadu,17015,adidravida,poraya,gpt,caste
+17,tamil nadu,17016,adidravida,sakkeliar,gpt,caste
+17,tamil nadu,17017,adidravida,thachar,gpt,caste
+17,tamil nadu,17018,adidravida,thombar,gpt,caste
+17,tamil nadu,17019,adidravida,valayar,gpt,caste
+17,tamil nadu,17020,adidravida,vannan,gpt,caste
+17,tamil nadu,17021,adidravida,,gpt,caste
+17,tamil nadu,17022,agamudiyar,pillai,gpt,caste
+17,tamil nadu,17023,agamudiyar,sayup,gpt,caste
+17,tamil nadu,17024,agamudiyar,,gpt,caste
+17,tamil nadu,17025,ambalaar,moopanaar,gemini,caste
+17,tamil nadu,17026,ambalaar,,gemini,caste
+17,tamil nadu,17027,ambalam,,gpt,caste
+17,tamil nadu,17028,ammalam,,manual_yes,caste
+17,tamil nadu,17029,archagar,,gemini,caste
+17,tamil nadu,17030,arundudhi,,gemini,caste
+17,tamil nadu,17031,arunthathi,padaiyachi,gemini,caste
+17,tamil nadu,17032,arunthathi,sakkeliar,gemini,caste
+17,tamil nadu,17033,arunthathi,,gemini,caste
+17,tamil nadu,17034,asari,goldsmith,gpt,caste
+17,tamil nadu,17035,asari,kamalar,gpt,caste
+17,tamil nadu,17036,asari,kounda,gpt,caste
+17,tamil nadu,17037,asari,padaiyachi,gpt,caste
+17,tamil nadu,17038,asari,pathar,gpt,caste
+17,tamil nadu,17039,asari,thachaasari,gpt,caste
+17,tamil nadu,17040,asari,,gpt,caste
+17,tamil nadu,17041,athidravida,asari,gemini,caste
+17,tamil nadu,17042,athidravida,palar,gemini,caste
+17,tamil nadu,17042,athidravida,pallar,gemini,caste
+17,tamil nadu,17043,athidravida,parayar,gemini,caste
+17,tamil nadu,17042,athidravida,pollar,gemini,caste
+17,tamil nadu,17044,athidravida,sakkeliar,gemini,caste
+17,tamil nadu,17045,athidravida,samabavar,gemini,caste
+17,tamil nadu,17046,athidravida,valayar,gemini,caste
+17,tamil nadu,17047,athidravida,,gemini,caste
+17,tamil nadu,17048,ayyar,tenkalai,gemini,caste
+17,tamil nadu,17049,ayyar,,gemini,caste
+17,tamil nadu,17050,bandaram,andi,manual_yes,caste
+17,tamil nadu,17051,banniyar,padaiyachi,gemini,caste
+17,tamil nadu,17052,brahman,aadisaiver,gpt,caste
+17,tamil nadu,17053,brahman,ayan,gpt,caste
+17,tamil nadu,17054,brahman,ayyangar,gpt,caste
+17,tamil nadu,17055,brahman,iyyar,gpt,caste
+17,tamil nadu,17056,brahman,,gpt,caste
+17,tamil nadu,17057,chettiyar,bathmasa liyar,gpt,caste
+17,tamil nadu,17058,chettiyar,boyar,gpt,caste
+17,tamil nadu,17059,chettiyar,choli,gpt,caste
+17,tamil nadu,17060,chettiyar,gulalar,gpt,caste
+17,tamil nadu,17061,chettiyar,kavara,gpt,caste
+17,tamil nadu,17062,chettiyar,kulalan,gpt,caste
+17,tamil nadu,17063,chettiyar,kullalar,gpt,caste
+17,tamil nadu,17064,chettiyar,kuyavar,gpt,caste
+17,tamil nadu,17065,chettiyar,manbanachettiyar,gpt,caste
+17,tamil nadu,17066,chettiyar,nayakkar,gpt,caste
+17,tamil nadu,17067,chettiyar,nesauchittiyar,gpt,caste
+17,tamil nadu,17068,chettiyar,padaiyachi,gpt,caste
+17,tamil nadu,17069,chettiyar,sanathaliar,gpt,caste
+17,tamil nadu,17070,chettiyar,sanothalaiar,gpt,caste
+17,tamil nadu,17071,chettiyar,soleya,gpt,caste
+17,tamil nadu,17072,chettiyar,soliar,gpt,caste
+17,tamil nadu,17073,chettiyar,soliarpallar,gpt,caste
+17,tamil nadu,17074,chettiyar,soliya,gpt,caste
+17,tamil nadu,17075,chettiyar,soneya,gpt,caste
+17,tamil nadu,17076,chettiyar,telunguchettiyar,gpt,caste
+17,tamil nadu,17077,chettiyar,thelugu,gpt,caste
+17,tamil nadu,17078,chettiyar,tholuva,gpt,caste
+17,tamil nadu,17079,chettiyar,vaaniga,gpt,caste
+17,tamil nadu,17080,chettiyar,valayar,gpt,caste
+17,tamil nadu,17081,chettiyar,vaniba,gpt,caste
+17,tamil nadu,17082,chettiyar,vaniyar,gpt,caste
+17,tamil nadu,17083,chettiyar,vellachettiyar,gpt,caste
+17,tamil nadu,17084,chettiyar,,gpt,caste
+17,tamil nadu,17085,chetty,coirchetty,gpt,caste
+17,tamil nadu,17086,chetty,satha,gpt,caste
+17,tamil nadu,17087,chetty,soliar,gpt,caste
+17,tamil nadu,17088,chetty,soliya,gpt,caste
+17,tamil nadu,17089,chetty,tholuva,gpt,caste
+17,tamil nadu,17090,chetty,,gpt,caste
+17,tamil nadu,17091,christian,,,
+17,tamil nadu,17092,curavan,,gemini,caste
+17,tamil nadu,17093,dhobi,dhobi,gpt,caste
+17,tamil nadu,17094,dhobi,vannan,gpt,caste
+17,tamil nadu,17095,dhobi,,gpt,caste
+17,tamil nadu,17096,dube,tholuva,gemini,caste
+17,tamil nadu,17097,dube,,gemini,caste
+17,tamil nadu,17098,duluvar,vellalar,manual_yes,caste
+17,tamil nadu,17099,gounder,dhobi,gpt,caste
+17,tamil nadu,17100,gounder,ganguvellar,gpt,caste
+17,tamil nadu,17101,gounder,gonar,gpt,caste
+17,tamil nadu,17102,gounder,hellar,gpt,caste
+17,tamil nadu,17103,gounder,keailiya,gpt,caste
+17,tamil nadu,17104,gounder,kongu,gpt,caste
+17,tamil nadu,17105,gounder,krumbar,gpt,caste
+17,tamil nadu,17105,gounder,kurambar,gpt,caste
+17,tamil nadu,17106,gounder,kuramo,gpt,caste
+17,tamil nadu,17107,gounder,kurma,gpt,caste
+17,tamil nadu,17105,gounder,kurumbar,gpt,caste
+17,tamil nadu,17108,gounder,lattuan,gpt,caste
+17,tamil nadu,17109,gounder,man,gpt,caste
+17,tamil nadu,17110,gounder,nadar,gpt,caste
+17,tamil nadu,17111,gounder,sarvai,gpt,caste
+17,tamil nadu,17112,gounder,valayar,gpt,caste
+17,tamil nadu,17113,gounder,vellalar,gpt,caste
+17,tamil nadu,17114,gounder,vellalgoundar,gpt,caste
+17,tamil nadu,17115,gounder,vettuubn,gpt,caste
+17,tamil nadu,17116,gounder,,gpt,caste
+17,tamil nadu,17117,iyyar,dasingar,,
+17,tamil nadu,17118,iyyar,gurkal,,
+17,tamil nadu,17119,iyyar,kurukal,,
+17,tamil nadu,17120,iyyar,pragasaranam,,
+17,tamil nadu,17121,iyyar,,,
+17,tamil nadu,17122,kammalar,asari,gpt,caste
+17,tamil nadu,17123,kammalar,padaiyachi,gpt,caste
+17,tamil nadu,17124,kammalar,pathar,gpt,caste
+17,tamil nadu,17125,kammalar,thachar,gpt,caste
+17,tamil nadu,17126,karunegar,,,
+17,tamil nadu,17127,kauvnder,gongu,,
+17,tamil nadu,17128,kauvnder,kallar,,
+17,tamil nadu,17129,kauvnder,kalvala,,
+17,tamil nadu,17130,kauvnder,kangu,,
+17,tamil nadu,17131,kauvnder,kongu,,
+17,tamil nadu,17132,kauvnder,,,
+17,tamil nadu,17133,konar,vellalar,gpt,caste
+17,tamil nadu,17134,konar,yadav,gpt,caste
+17,tamil nadu,17135,konar,yadavar,gpt,caste
+17,tamil nadu,17136,konar,,gpt,caste
+17,tamil nadu,17137,krishnanvagai,asari,manual_yes,caste
+17,tamil nadu,17138,krishnanvagai,krishnanvagai,manual_yes,caste
+17,tamil nadu,17139,krishnanvagai,nadar,manual_yes,caste
+17,tamil nadu,17140,krishnanvagai,pallar,manual_yes,caste
+17,tamil nadu,17141,krishnanvagai,r.c.nadar,manual_yes,caste
+17,tamil nadu,17142,krishnanvagai,vagai,manual_yes,caste
+17,tamil nadu,17143,krishnanvagai,,manual_yes,caste
+17,tamil nadu,17144,kulavar,,gemini,caste
+17,tamil nadu,17145,kurumbar,kallar,gpt,caste
+17,tamil nadu,17146,kurumbar,peramalaikallar,gpt,caste
+17,tamil nadu,17147,kurumbar,,gpt,caste
+17,tamil nadu,17148,kusavar,man,gpt,caste
+17,tamil nadu,17149,kusavar,,gpt,caste
+17,tamil nadu,17150,labbari,,manual_yes,caste
+17,tamil nadu,17151,lappa,,manual_yes,caste
+17,tamil nadu,17152,lappee,,manual_yes,caste
+17,tamil nadu,17153,lebbai,,gemini,caste
+17,tamil nadu,17154,lillai,soliar,manual_yes,caste
+17,tamil nadu,17155,maidukavara,tholuva,manual_yes,caste
+17,tamil nadu,17156,manyakaran,maniakaran,manual_yes,caste
+17,tamil nadu,17157,maruthuvar,navithan,gpt,caste
+17,tamil nadu,17158,maruthuvar,sembadavar,gpt,caste
+17,tamil nadu,17159,maruthuvar,,gpt,caste
+17,tamil nadu,17160,meenavar,fernando,gpt,caste
+17,tamil nadu,17161,meenavar,musali,gpt,caste
+17,tamil nadu,17162,meenavar,sembadavar,gpt,caste
+17,tamil nadu,17163,moopnar,ambalahar,gemini,caste
+17,tamil nadu,17164,moopnar,vadayar,gemini,caste
+17,tamil nadu,17165,moopnar,valayar,gemini,caste
+17,tamil nadu,17166,moopnar,,gemini,caste
+17,tamil nadu,17167,mothaliar,asari,gpt,caste
+17,tamil nadu,17168,mothaliar,benguthen,gpt,caste
+17,tamil nadu,17169,mothaliar,kaigonar,gpt,caste
+17,tamil nadu,17170,mothaliar,karkala,gpt,caste
+17,tamil nadu,17171,mothaliar,keralamuthali,gpt,caste
+17,tamil nadu,17172,mothaliar,keralamuythali yar,gpt,caste
+17,tamil nadu,17173,mothaliar,naidu,gpt,caste
+17,tamil nadu,17174,mothaliar,sangunthan,gpt,caste
+17,tamil nadu,17175,mothaliar,sengunthamudaliyar,gpt,caste
+17,tamil nadu,17176,mothaliar,,gpt,caste
+17,tamil nadu,17177,mubbanar,kallar,manual_yes,caste
+17,tamil nadu,17178,mubbanar,,manual_yes,caste
+17,tamil nadu,17179,mudaliyar,kaicooly,gpt,caste
+17,tamil nadu,17180,mudaliyar,sangunthan,gpt,caste
+17,tamil nadu,17181,mudaliyar,sengundar,gpt,caste
+17,tamil nadu,17182,mudaliyar,soliya,gpt,caste
+17,tamil nadu,17183,mudaliyar,thondi,gpt,caste
+17,tamil nadu,17184,mudaliyar,thondimandala,gpt,caste
+17,tamil nadu,17185,mudaliyar,,gpt,caste
+17,tamil nadu,17186,muppan,valayar,gemini,caste
+17,tamil nadu,17187,muppar,kallar,manual_yes,caste
+17,tamil nadu,17188,muppar,valayar,manual_yes,caste
+17,tamil nadu,17189,muppar,,manual_yes,caste
+17,tamil nadu,17190,muslim,labbai,,
+17,tamil nadu,17191,muslim,leppai,,
+17,tamil nadu,17192,muslim,rabbai,,
+17,tamil nadu,17193,muslim,ravuthur,,
+17,tamil nadu,17194,muslim,syed,,
+17,tamil nadu,17195,muslim,,,
+17,tamil nadu,17196,muthiriar,ambalam,gpt,caste
+17,tamil nadu,17197,muthiriar,sangunthan,gpt,caste
+17,tamil nadu,17198,muthiriar,,gpt,caste
+17,tamil nadu,17199,nadar,asari,gpt,caste
+17,tamil nadu,17200,nadar,chanar,gpt,caste
+17,tamil nadu,17201,nadar,gramani,gpt,caste
+17,tamil nadu,17202,nadar,hindu,gpt,caste
+17,tamil nadu,17203,nadar,hindunadar,gpt,caste
+17,tamil nadu,17204,nadar,kamraj,gpt,caste
+17,tamil nadu,17205,nadar,lattuan,gpt,caste
+17,tamil nadu,17206,nadar,marama,gpt,caste
+17,tamil nadu,17207,nadar,marameri,gpt,caste
+17,tamil nadu,17208,nadar,maramerinadar,gpt,caste
+17,tamil nadu,17209,nadar,maramerinaikar,gpt,caste
+17,tamil nadu,17210,nadar,maramynar,gpt,caste
+17,tamil nadu,17211,nadar,maravar,gpt,caste
+17,tamil nadu,17212,nadar,nadar,gpt,caste
+17,tamil nadu,17213,nadar,nayakkar,gpt,caste
+17,tamil nadu,17214,nadar,pallar,gpt,caste
+17,tamil nadu,17215,nadar,pananarayanarayer,gpt,caste
+17,tamil nadu,17216,nadar,r.c.nadar,gpt,caste
+17,tamil nadu,17217,nadar,saanan,gpt,caste
+17,tamil nadu,17218,nadar,sacuar,gpt,caste
+17,tamil nadu,17219,nadar,sanar,gpt,caste
+17,tamil nadu,17219,nadar,senar,gpt,caste
+17,tamil nadu,17220,nadar,sundar,gpt,caste
+17,tamil nadu,17221,nadar,tennai,gpt,caste
+17,tamil nadu,17222,nadar,vagai,gpt,caste
+17,tamil nadu,17223,nadar,,gpt,caste
+17,tamil nadu,17224,naidu,cheruai,gemini,caste
+17,tamil nadu,17225,naidu,chettynaidu,gemini,caste
+17,tamil nadu,17226,naidu,gavar,gemini,caste
+17,tamil nadu,17227,naidu,jangam,gemini,caste
+17,tamil nadu,17228,naidu,kamalar,gemini,caste
+17,tamil nadu,17229,naidu,kanvara,gemini,caste
+17,tamil nadu,17230,naidu,kavara,gemini,caste
+17,tamil nadu,17231,naidu,kevara,gemini,caste
+17,tamil nadu,17232,naidu,mraamars,gemini,caste
+17,tamil nadu,17233,naidu,muthiriyar,gemini,caste
+17,tamil nadu,17234,naidu,palginaidu,gemini,caste
+17,tamil nadu,17235,naidu,pallar,gemini,caste
+17,tamil nadu,17236,naidu,pattaraju,gemini,caste
+17,tamil nadu,17237,naidu,ravara,gemini,caste
+17,tamil nadu,17238,naidu,sanar,gemini,caste
+17,tamil nadu,17239,naidu,sanarnaidu,gemini,caste
+17,tamil nadu,17240,naidu,vadugan,gemini,caste
+17,tamil nadu,17241,naidu,valayar,gemini,caste
+17,tamil nadu,17242,naidu,,gemini,caste
+17,tamil nadu,17243,naikar,kadu,gpt,caste
+17,tamil nadu,17244,naikar,kamalar,gpt,caste
+17,tamil nadu,17245,naikar,kambalathu,gpt,caste
+17,tamil nadu,17246,naikar,kavara,gpt,caste
+17,tamil nadu,17247,naikar,krishnanvagai,gpt,caste
+17,tamil nadu,17248,naikar,kuravar,gpt,caste
+17,tamil nadu,17249,naikar,marameri,gpt,caste
+17,tamil nadu,17250,naikar,maramerinaikar,gpt,caste
+17,tamil nadu,17251,naikar,naidu,gpt,caste
+17,tamil nadu,17252,naikar,nayakkar,gpt,caste
+17,tamil nadu,17253,naikar,padaiyachi,gpt,caste
+17,tamil nadu,17254,naikar,pallar,gpt,caste
+17,tamil nadu,17255,naikar,sanar,gpt,caste
+17,tamil nadu,17256,naikar,vagai,gpt,caste
+17,tamil nadu,17257,nair,nadar,gpt,caste
+17,tamil nadu,17258,nair,pillai,gpt,caste
+17,tamil nadu,17259,nair,r.c.nadar,gpt,caste
+17,tamil nadu,17260,nair,,gpt,caste
+17,tamil nadu,17261,navithar,barbar,gpt,caste
+17,tamil nadu,17262,navithar,,gpt,caste
+17,tamil nadu,17263,nuber,kuramo,manual_yes,caste
+17,tamil nadu,17264,pandaram,andi,gpt,caste
+17,tamil nadu,17265,pandaram,,gpt,caste
+17,tamil nadu,17266,pandithar,barbar,gemini,caste
+17,tamil nadu,17267,pandithar,maruthavari,gemini,caste
+17,tamil nadu,17268,pandithar,,gemini,caste
+17,tamil nadu,17269,parayan,barbar,gpt,caste
+17,tamil nadu,17270,parayan,,gpt,caste
+17,tamil nadu,17271,patthar,asari,manual_yes,caste
+17,tamil nadu,17272,pillai,asari,gemini,caste
+17,tamil nadu,17273,pillai,ectar,gemini,caste
+17,tamil nadu,17274,pillai,kagatha,gemini,caste
+17,tamil nadu,17275,pillai,karkala,gemini,caste
+17,tamil nadu,17276,pillai,kodika,gemini,caste
+17,tamil nadu,17277,pillai,kuramo,gemini,caste
+17,tamil nadu,17278,pillai,nair,gemini,caste
+17,tamil nadu,17279,pillai,panikkar,gemini,caste
+17,tamil nadu,17280,pillai,saiva,gemini,caste
+17,tamil nadu,17281,pillai,soleyavellalor,gemini,caste
+17,tamil nadu,17282,pillai,soliar,gemini,caste
+17,tamil nadu,17283,pillai,soliya,gemini,caste
+17,tamil nadu,17284,pillai,theva,gemini,caste
+17,tamil nadu,17285,pillai,tholuva,gemini,caste
+17,tamil nadu,17286,pillai,tholuvavellalar,gemini,caste
+17,tamil nadu,17287,pillai,thullam,gemini,caste
+17,tamil nadu,17288,pillai,veeragul,gemini,caste
+17,tamil nadu,17289,pillai,veerakodai,gemini,caste
+17,tamil nadu,17290,pillai,veeravellar,gemini,caste
+17,tamil nadu,17291,pillai,vellalar,gemini,caste
+17,tamil nadu,17292,pillai,veragudivellalar,gemini,caste
+17,tamil nadu,17293,pillai,,gemini,caste
+17,tamil nadu,17294,pillamer,ilathu,manual_yes,caste
+17,tamil nadu,17295,pillamer,,manual_yes,caste
+17,tamil nadu,17296,rajaliar,,manual_yes,caste
+17,tamil nadu,17297,rammalar,thachar,manual_yes,caste
+17,tamil nadu,17298,raouther,,manual_yes,caste
+17,tamil nadu,17299,rawhar,,manual_yes,caste
+17,tamil nadu,17300,reddiyar,,gpt,caste
+17,tamil nadu,17301,reddy,,gpt,caste
+17,tamil nadu,17302,seruai,agamudaiyar,manual_yes,caste
+17,tamil nadu,17303,seruai,,manual_yes,caste
+17,tamil nadu,17304,setiyar,vaniba,gpt,caste
+17,tamil nadu,17305,shawrastra,,manual_yes,caste
+17,tamil nadu,17306,soleya,vellalar,gemini,caste
+17,tamil nadu,17307,soleya,,gemini,caste
+17,tamil nadu,17308,thaysigar,kurukal,manual_yes,caste
+17,tamil nadu,17309,thevar,agamudaiyar,gpt,caste
+17,tamil nadu,17310,thevar,alagamudai,gpt,caste
+17,tamil nadu,17311,thevar,ambalam,gpt,caste
+17,tamil nadu,17312,thevar,gurkal,gpt,caste
+17,tamil nadu,17313,thevar,kallar,gpt,caste
+17,tamil nadu,17314,thevar,kamalar,gpt,caste
+17,tamil nadu,17315,thevar,kuyavar,gpt,caste
+17,tamil nadu,17316,thevar,maniakaran,gpt,caste
+17,tamil nadu,17317,thevar,maravar,gpt,caste
+17,tamil nadu,17318,thevar,muthiriyar,gpt,caste
+17,tamil nadu,17319,thevar,nadar,gpt,caste
+17,tamil nadu,17320,thevar,nattukakallar,gpt,caste
+17,tamil nadu,17321,thevar,pallar,gpt,caste
+17,tamil nadu,17322,thevar,parama,gpt,caste
+17,tamil nadu,17323,thevar,peramalaikallar,gpt,caste
+17,tamil nadu,17324,thevar,sarvai,gpt,caste
+17,tamil nadu,17325,thevar,soliar,gpt,caste
+17,tamil nadu,17326,thevar,tholuva,gpt,caste
+17,tamil nadu,17327,thevar,vandayaar,gpt,caste
+17,tamil nadu,17328,thevar,,gpt,caste
+17,tamil nadu,17329,vadukana ikar,,manual_yes,caste
+17,tamil nadu,17330,valayar,,gemini,caste
+17,tamil nadu,17331,vallalar,goundar,manual_yes,caste
+17,tamil nadu,17332,vallalar,guruvel,manual_yes,caste
+17,tamil nadu,17333,vallalar,pillai,manual_yes,caste
+17,tamil nadu,17334,vanan,,manual_yes,caste
+17,tamil nadu,17335,vanar,washerman,manual_yes,caste
+17,tamil nadu,17336,vaniyar,chadiyar,gpt,caste
+17,tamil nadu,17337,vaniyar,dhobi,gpt,caste
+17,tamil nadu,17338,vaniyar,dobi,gpt,caste
+17,tamil nadu,17339,vaniyar,goundar,gpt,caste
+17,tamil nadu,17340,vaniyar,kallar,gpt,caste
+17,tamil nadu,17341,vaniyar,karkathavellalar,gpt,caste
+17,tamil nadu,17342,vaniyar,kounda,gpt,caste
+17,tamil nadu,17343,vaniyar,mooppar,gpt,caste
+17,tamil nadu,17344,vaniyar,naikar,gpt,caste
+17,tamil nadu,17345,vaniyar,nathamar,gpt,caste
+17,tamil nadu,17346,vaniyar,nathana udaiyar,gpt,caste
+17,tamil nadu,17347,vaniyar,nayakkar,gpt,caste
+17,tamil nadu,17348,vaniyar,padaiveera,gpt,caste
+17,tamil nadu,17349,vaniyar,padaiyachi,gpt,caste
+17,tamil nadu,17350,vaniyar,padaiyalai,gpt,caste
+17,tamil nadu,17351,vaniyar,padaiyannu,gpt,caste
+17,tamil nadu,17352,vaniyar,padaiyar,gpt,caste
+17,tamil nadu,17353,vaniyar,pallar,gpt,caste
+17,tamil nadu,17354,vaniyar,parayar,gpt,caste
+17,tamil nadu,17355,vaniyar,pillai,gpt,caste
+17,tamil nadu,17356,vaniyar,rathaamar,gpt,caste
+17,tamil nadu,17357,vaniyar,salavai,gpt,caste
+17,tamil nadu,17358,vaniyar,sathiriya,gpt,caste
+17,tamil nadu,17359,vaniyar,soleya,gpt,caste
+17,tamil nadu,17359,vaniyar,soliya,gpt,caste
+17,tamil nadu,17360,vaniyar,udaiyar,gpt,caste
+17,tamil nadu,17361,vaniyar,valayar,gpt,caste
+17,tamil nadu,17362,vaniyar,washerman,gpt,caste
+17,tamil nadu,17363,vaniyar,,gpt,caste
+17,tamil nadu,17364,vellalar,esai,gpt,caste
+17,tamil nadu,17365,vellalar,goundar,gpt,caste
+17,tamil nadu,17366,vellalar,isai,gpt,caste
+17,tamil nadu,17367,vellalar,karakadu,gpt,caste
+17,tamil nadu,17368,vellalar,karkathapillai,gpt,caste
+17,tamil nadu,17369,vellalar,karkathavellalar,gpt,caste
+17,tamil nadu,17370,vellalar,kurumbar,gpt,caste
+17,tamil nadu,17371,vellalar,kuyavar,gpt,caste
+17,tamil nadu,17372,vellalar,marameri,gpt,caste
+17,tamil nadu,17373,vellalar,padaiyachi,gpt,caste
+17,tamil nadu,17374,vellalar,padaiyalai,gpt,caste
+17,tamil nadu,17375,vellalar,pillai,gpt,caste
+17,tamil nadu,17376,vellalar,saiva,gpt,caste
+17,tamil nadu,17377,vellalar,soleya,gpt,caste
+17,tamil nadu,17377,vellalar,soliya,gpt,caste
+17,tamil nadu,17378,vellalar,soneya,gpt,caste
+17,tamil nadu,17379,vellalar,tholuva,gpt,caste
+17,tamil nadu,17380,vellalar,tholuvavellalar,gpt,caste
+17,tamil nadu,17381,vellalar,tulva,gpt,caste
+17,tamil nadu,17382,vellalar,turava,gpt,caste
+17,tamil nadu,17383,vellalar,veerakodai,gpt,caste
+17,tamil nadu,17384,vellalar,,gpt,caste
+17,tamil nadu,17385,villiamudu,nayakkar,manual_yes,caste
+17,tamil nadu,17386,vishwakarma,achary,gpt,caste
+17,tamil nadu,17387,vishwakarma,asari,gpt,caste
+17,tamil nadu,17388,vishwakarma,nadar,gpt,caste
+17,tamil nadu,17389,yadav,konar,gpt,caste
+17,tamil nadu,17390,yadav,,gpt,caste
+17,tamil nadu,17391,yadavar,ganar,manual_yes,caste
+17,tamil nadu,17391,yadavar,gonar,manual_yes,caste
+17,tamil nadu,17392,yadavar,konar,manual_yes,caste
+17,tamil nadu,17393,yadavar,yadavar,manual_yes,caste
+17,tamil nadu,17394,yadavar,,manual_yes,caste
+17,tamil nadu,17395,others,,,
